@@ -33,6 +33,15 @@ const BUILD_DATA = {
     "description": "Gameplay basé autours de PUCIF de l'ecaflip !",
     "tranche": 245
   }
+,
+  "Enutrof SUPPORT": {
+    "image": "assets/builds/Enutrof SUPPORT.png",
+    "url": "https://zenithwakfu.com/builder/ctzuw",
+    "keywords": ["Opti"],
+    "class": "Enutrof",
+    "description": "Gameplay basé autours du retrait résistance et retrait PM",
+    "tranche": 245
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
