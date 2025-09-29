@@ -433,6 +433,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 140
   }
+,
+  "Enutrof DPT [MELEE] 140 OPTI": {
+    "image": "assets/builds/Enutrof DPT [MELEE] 140 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/fe753",
+    "keywords": ["Opti"],
+    "class": "Enutrof",
+    "description": "",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
