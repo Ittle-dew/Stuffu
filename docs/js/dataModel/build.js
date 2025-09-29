@@ -183,6 +183,15 @@ const BUILD_DATA = {
     "description": "Vous pouvez mettre un Royal Mimint si vous préferez gagner un PO au détriment d'un PA. Un familier maitrise soin est l'idéal, mais celui-ci fera l'affaire le temps de vous procurer mieux !",
     "tranche": 110
   }
+,
+  "Steamer DPT [DISTANCE] 110": {
+    "image": "assets/builds/Steamer DPT [DISTANCE] 110.png",
+    "url": "https://zenithwakfu.com/builder/nn88y",
+    "keywords": ["Mid Cost"],
+    "class": "Steamer",
+    "description": "",
+    "tranche": 110
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
