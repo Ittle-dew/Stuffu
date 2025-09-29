@@ -51,6 +51,15 @@ const BUILD_DATA = {
     "description": "Gameplay TRI-ELEMENT autours de Elementalisme !",
     "tranche": 245
   }
+,
+  "Osamodas SUPPORT [Shield]": {
+    "image": "assets/builds/Osamodas SUPPORT [Shield].png",
+    "url": "https://zenithwakfu.com/builder/y9ayo",
+    "keywords": ["Opti"],
+    "class": "Osamodas",
+    "description": "Gameplay basé sur le shield profitant des %armure donné de la tranche !",
+    "tranche": 245
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
