@@ -733,6 +733,15 @@ const BUILD_DATA = {
     "description": "Coeur Terre à privilégier mais peut se jouer avec tous les Coeurs.",
     "tranche": 155
   }
+,
+  "Feca SUPPORT [ARMURE BOOST] 155 Low cost": {
+    "image": "assets/builds/Feca SUPPORT [ARMURE BOOST] 155 Low cost.png",
+    "url": "https://zenithwakfu.com/builder/042e9",
+    "keywords": ["Low Cost"],
+    "class": "Feca",
+    "description": "",
+    "tranche": 155
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
