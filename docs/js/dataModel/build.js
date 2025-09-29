@@ -259,6 +259,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 110
   }
+,
+  "Sacri DPT [BERSERK] 110 Opti": {
+    "image": "assets/builds/Sacri DPT [BERSERK] 110 Opti.png",
+    "url": "https://www.zenithwakfu.com/builder/e3c23",
+    "keywords": ["Opti"],
+    "class": "Sacrieur",
+    "description": "",
+    "tranche": 110
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
