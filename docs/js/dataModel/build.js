@@ -370,6 +370,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 140
   }
+,
+  "Eliotrope DPT [DISTANCE] 140 Mid Cost": {
+    "image": "assets/builds/Eliotrope DPT [DISTANCE] 140 Mid Cost.png",
+    "url": "https://zenithwakfu.com/builder/ej1tg",
+    "keywords": ["Mid Cost"],
+    "class": "Eliotrope",
+    "description": "Il faut jouer avec Réminescence, et faire exaltation chaque tour pour finir en Serein et proc les 40cc de dimension blanche en perma !",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
