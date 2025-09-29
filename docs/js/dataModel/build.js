@@ -642,6 +642,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 155
   }
+,
+  "Eniripsa SUPPORT [SOIN] OPTI": {
+    "image": "assets/builds/Eniripsa SUPPORT [SOIN] OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/4e142",
+    "keywords": ["Opti"],
+    "class": "Eniripsa",
+    "description": "",
+    "tranche": 155
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
