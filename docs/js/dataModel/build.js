@@ -397,6 +397,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 140
   }
+,
+  "Eliotrope DPT [DISTANCE] 140 Low cost": {
+    "image": "assets/builds/Eliotrope DPT [DISTANCE] 140 Low cost.png",
+    "url": "https://zenithwakfu.com/builder/734e8",
+    "keywords": ["Low Cost"],
+    "class": "Eliotrope",
+    "description": "",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
