@@ -352,6 +352,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 140
   }
+,
+  "Cra DPT [DEMESURE] 140 OPTI": {
+    "image": "assets/builds/Cra DPT [DEMESURE] 140 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/l10i1",
+    "keywords": ["Opti"],
+    "class": "Cra",
+    "description": "",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
