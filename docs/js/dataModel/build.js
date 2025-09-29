@@ -507,6 +507,15 @@ const BUILD_DATA = {
     "description": "Volontairement pas de maîtrise dos dans le choix des items car 2 Boss 140 ne sont pas attaquables de dos: Potofeu/Chêne Mou. Jouer Influence du Wakfu I x 2 est une meilleure option mais ça peut être assez cher (selon le marché du moment) pour du lowcost. Influence Paradoxale est un bon compromis lowcost",
     "tranche": 140
   }
+,
+  "Sram DPT [MELEE DOS] 140 Mid cost": {
+    "image": "assets/builds/Sram DPT [MELEE DOS] 140 Mid cost.png",
+    "url": "https://www.zenithwakfu.com/builder/b5856",
+    "keywords": ["Mid Cost"],
+    "class": "Sram",
+    "description": "",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
