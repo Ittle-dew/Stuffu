@@ -16,12 +16,7 @@ const CLASS_LIST = {
 };
 
 const BUILD_DATA = {
-  
-    
-      
-        
-          
-            
+
                 "Huppermage DPT [MELEE] 245 Opti": {
                     "image": "assets/builds/Huppermage DPT.png",
                     "url": "https://zenithwakfu.com/builder/pwssw",
@@ -658,11 +653,9 @@ const BUILD_DATA = {
       "url": "https://zenithwakfu.com/builder/624a1",
       "keywords": ["Opti"],
       "class": "Xelor",
-      "description": "Pourquoi un xelor sans maitrise secondaire? Le principe de ce build est assez simple: Il est très fléxible. Vous avez perma 100% cc, et vous pouvez très simplement switch de mode. 
-    ",
+      "description": "Pourquoi un xelor sans maitrise secondaire? Le principe de ce build est assez simple: Il est très fléxible. Vous avez perma 100% cc, et vous pouvez très simplement switch de mode. ",
       "tranche": 155
-    }
-  ,
+    },
     "Pandawa SUPPORT [PLACEUR] 155 low cost": {
       "image": "assets/builds/Pandawa SUPPORT [PLACEUR] 155 low cost.png",
       "url": "https://zenithwakfu.com/builder/5c1c0",
