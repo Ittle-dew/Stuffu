@@ -20,6 +20,7 @@ const BUILD_DATA = {
     "image": "assets/builds/Ecaflip Support [Soin].png",
     "url": "https://zenithwakfu.com/builder/1tk28",
     "keywords": ["Opti"],
+    "tranche": "245",
     "class": "Ecaflip",
     "description": "Ecaflip Soin OPTIMISER lvl 245 (Passif Pucif)"
   }

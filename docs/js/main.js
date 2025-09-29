@@ -10,25 +10,27 @@ const COST_OPTIONS = [
   { key: 'parfait',  label: 'Parfait' },
 ];
 
-// État UI (utiliser "cost" — sans 's')
+// État UI
 const state = {
   q: '',
   cost: 'all',
-  klass: 'all',
+  class: 'all',
+  tranche: 'all',   // <-- nouveau
 };
 
 document.addEventListener('DOMContentLoaded', () => {
   // Elements
-  const elSearch        = document.getElementById('search');
-  const elCostSelect    = document.getElementById('costFilter'); 
-  const elClassFilter   = document.getElementById('classFilter');
-  const elCards         = document.getElementById('cards');
-  const elEmpty         = document.getElementById('empty');
-  const elCount         = document.getElementById('count');
-  const elActiveFilters = document.getElementById('activeFilters');
+  const elSearch         = document.getElementById('search');
+  const elCostSelect     = document.getElementById('costFilter');
+  const elClassFilter    = document.getElementById('classFilter');
+  const elTrancheFilter  = document.getElementById('trancheFilter'); // <-- nouveau
+  const elCards          = document.getElementById('cards');
+  const elEmpty          = document.getElementById('empty');
+  const elCount          = document.getElementById('count');
+  const elActiveFilters  = document.getElementById('activeFilters');
 
   // Sécurité: si un élément manque, on log + on stoppe proprement
-  if (!elSearch || !elCostSelect || !elClassFilter || !elCards || !elEmpty || !elCount || !elActiveFilters) {
+  if (!elSearch || !elCostSelect || !elClassFilter || !elTrancheFilter || !elCards || !elEmpty || !elCount || !elActiveFilters) {
     console.error('[Builds] Un ou plusieurs éléments #id sont introuvables dans le DOM.');
     return;
   }
@@ -36,6 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // Init
   initCostSelect(elCostSelect);
   initClassSelect(elClassFilter);
+  initTrancheSelect(elTrancheFilter);     // <-- nouveau
   attachEvents();
   render();
 
@@ -48,7 +51,6 @@ document.addEventListener('DOMContentLoaded', () => {
       opt.textContent = label;
       selectEl.appendChild(opt);
     });
-    // Valeur par défaut
     selectEl.value = state.cost;
   }
 
@@ -59,7 +61,6 @@ document.addEventListener('DOMContentLoaded', () => {
     optAll.textContent = 'Toutes les classes';
     selectEl.appendChild(optAll);
 
-    // Liste FR fournie par ton dataModel
     (CLASS_LIST?.fr ?? []).forEach(c=>{
       const opt = document.createElement('option');
       opt.value = c;
@@ -67,8 +68,26 @@ document.addEventListener('DOMContentLoaded', () => {
       selectEl.appendChild(opt);
     });
 
-    // Valeur par défaut
-    selectEl.value = state.klass;
+    selectEl.value = state.class;
+  }
+
+  // Options tranche : 20 → 245, pas de 15
+  function initTrancheSelect(selectEl){
+    selectEl.innerHTML = '';
+
+    const optAll = document.createElement('option');
+    optAll.value = 'all';
+    optAll.textContent = 'Toutes les tranches';
+    selectEl.appendChild(optAll);
+
+    for (let t = 20; t <= 245; t += 15){
+      const opt = document.createElement('option');
+      opt.value = String(t);          // obj.tranche est une string
+      opt.textContent = String(t);    // libellé simple
+      selectEl.appendChild(opt);
+    }
+
+    selectEl.value = state.tranche;
   }
 
   function attachEvents(){
@@ -83,12 +102,18 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     elClassFilter.addEventListener('change', (e)=>{
-      state.klass = e.target.value;
+      state.class = e.target.value;
       render();
     });
 
     elCostSelect.addEventListener('change', (e)=>{
-      state.cost = e.target.value;       // <-- utiliser "cost"
+      state.cost = e.target.value;
+      render();
+    });
+
+    // Nouveau : changement de tranche
+    elTrancheFilter.addEventListener('change', (e)=>{
+      state.tranche = e.target.value;
       render();
     });
   }
@@ -102,12 +127,18 @@ document.addEventListener('DOMContentLoaded', () => {
       if (state.q && !key.toLowerCase().includes(state.q)) return false;
 
       // 2) Classe
-      if (state.klass !== 'all' && obj.class !== state.klass) return false;
+      if (state.class !== 'all' && obj.class !== state.class) return false;
 
       // 3) Coût (simple select)
       if (state.cost !== 'all') {
         const kws = (obj.keywords || []).map(s => String(s).toLowerCase());
         if (!kws.includes(state.cost)) return false;
+      }
+
+      // 4) Tranche exacte (string)
+      if (state.tranche !== 'all') {
+        const objTranche = obj.tranche != null ? String(obj.tranche) : '';
+        if (objTranche !== state.tranche) return false;
       }
 
       return true;
@@ -208,8 +239,9 @@ document.addEventListener('DOMContentLoaded', () => {
   function activeFiltersText(){
     const bits = [];
     if (state.q) bits.push(`recherche: “${state.q}”`);
-    if (state.klass !== 'all') bits.push(`classe: ${state.klass}`);
+    if (state.class !== 'all') bits.push(`classe: ${state.class}`);
     if (state.cost !== 'all') bits.push(`coût: ${state.cost}`);
+    if (state.tranche !== 'all') bits.push(`tranche: ${state.tranche}`); // <-- nouveau
     return bits.length ? bits.join(' · ') : '';
   }
 });

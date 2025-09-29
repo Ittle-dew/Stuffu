@@ -1,7 +1,7 @@
 PYTHON := python3.11
 PORT := 8000
 
-GIT_REPO := https://github.com/Luthor91/Stuff-fu.git
+GIT_REPO := https://github.com/Ittle-dew/Stuffu.git
 BRANCH ?= main
 REMOTE ?= origin
 
