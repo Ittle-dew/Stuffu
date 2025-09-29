@@ -60,6 +60,15 @@ const BUILD_DATA = {
     "description": "Gameplay basé sur le shield profitant des %armure donné de la tranche !",
     "tranche": 245
   }
+,
+  "Xelor DPT [Eau Feu]": {
+    "image": "assets/builds/Xelor DPT [Eau Feu].png",
+    "url": "https://zenithwakfu.com/builder/onndc",
+    "keywords": ["Opti"],
+    "class": "Xelor",
+    "description": "Build Classique Xelor DPT",
+    "tranche": 245
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
