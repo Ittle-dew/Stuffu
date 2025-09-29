@@ -534,6 +534,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 155
   }
+,
+  "Enutrof DPT [DEMESURE] 155 OPTI": {
+    "image": "assets/builds/Enutrof DPT [DEMESURE] 155 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/cxxzz",
+    "keywords": ["Opti"],
+    "class": "Enutrof",
+    "description": "",
+    "tranche": 155
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
