@@ -90,14 +90,14 @@ const BUILD_DATA = {
   }
 ,
   "Ouginak DPT [Direct]": {
-    "image": "assets/builds/Ouginak DPT [Direct].png",
-    "url": "https://zenithwakfu.com/builder/p55fd",
-    "keywords": ["Opti"],
-    "class": "Ouginak",
-    "description": "Gameplay DPT Direct axé sur la prise du DOS et principalement monocible !",
-    "tranche": 245
-  }
-,
+  "image": "assets/builds/Ouginak DPT [Direct].png",
+  "url": "https://zenithwakfu.com/builder/0ruzb",
+  "keywords": ["Mid Cost"],
+  "class": "Ouginak",
+  "description": "Croc futé convertie auto la parade en CC quand tu es en ougi garou, donc avec ce build vous avez 94%cc dès que vous êtes transformé. 
+J'ai mis des sauvegardes car régulierement elles sont en dessous des 500.000/u",
+  "tranche": 110
+},
   "Pandawa SUPPORT [Placeur Soin]": {
     "image": "assets/builds/Pandawa SUPPORT [Placeur Soin].png",
     "url": "https://zenithwakfu.com/builder/xrrmc",
