@@ -660,6 +660,16 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 155
   }
+,
+  "Xelor DPT [ROUAGE] 155 OPTI": {
+    "image": "assets/builds/Xelor DPT [ROUAGE] 155 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/624a1",
+    "keywords": ["Opti"],
+    "class": "Xelor",
+    "description": "Pourquoi un xelor sans maitrise secondaire? Le principe de ce build est assez simple: Il est très fléxible. Vous avez perma 100% cc, et vous pouvez très simplement switch de mode. 
+  ",
+    "tranche": 155
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
