@@ -61,6 +61,15 @@ const BUILD_DATA = {
       "description": "Build Classique Xelor DPT",
       "tranche": 245
     }
+,
+  "Osamodas SUPPORT [Shield]": {
+    "image": "assets/builds/Osamodas SUPPORT [Shield].png",
+    "url": "https://zenithwakfu.com/builder/y9ayo",
+    "keywords": ["Opti"],
+    "class": "Osamodas",
+    "description": "Gameplay base autours du shield grâce au item %armure donnée de la tranche !",
+    "tranche": 245
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
