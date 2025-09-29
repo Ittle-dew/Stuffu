@@ -552,6 +552,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 155
   }
+,
+  "Eliotrope DPT [DISTANCE TRI ELEMENT] 155 OPTI": {
+    "image": "assets/builds/Eliotrope DPT [DISTANCE TRI ELEMENT] 155 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/0uov4",
+    "keywords": ["Opti"],
+    "class": "Eliotrope",
+    "description": "",
+    "tranche": 155
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
