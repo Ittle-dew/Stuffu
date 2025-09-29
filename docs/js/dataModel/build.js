@@ -158,14 +158,13 @@ const BUILD_DATA = {
   }
 ,
   "Eniripsa SUPPORT [SOIN] 110": {
-    "image": "assets/builds/Eniripsa SUPPORT [SOIN] 110.png",
-    "url": "https://zenithwakfu.com/builder/dc7f3",
-    "keywords": ["Mid Cost"],
-    "class": "Eniripsa",
-    "description": "",
-    "tranche": 110
-  }
-,
+  "image": "assets/builds/Eniripsa SUPPORT [SOIN] 110.png",
+  "url": "https://www.zenithwakfu.com/builder/c86e0",
+  "keywords": ["Low Cost"],
+  "class": "Eniripsa",
+  "description": "",
+  "tranche": 110
+},
   "Sacrieur DPT [MELEE BERSERK] 110": {
     "image": "assets/builds/Sacrieur DPT [MELEE BERSERK] 110.png",
     "url": "https://www.zenithwakfu.com/builder/62edf",
