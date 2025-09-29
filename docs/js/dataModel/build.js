@@ -112,14 +112,13 @@ const BUILD_DATA = {
           }
         ,
           "Enutrof SUPPORT [ABANDON] 110": {
-            "image": "assets/builds/Enutrof SUPPORT [Abandon].png",
-            "url": "https://www.zenithwakfu.com/builder/6c33d",
-            "keywords": ["Opti"],
-            "class": "Enutrof",
-            "description": "",
-            "tranche": 110
-          }
-        ,
+  "image": "assets/builds/Enutrof SUPPORT [ABANDON] 110.png",
+  "url": "https://www.zenithwakfu.com/builder/cd686",
+  "keywords": ["Low Cost"],
+  "class": "Enutrof",
+  "description": "Le stuff n'a pas les subli abandon mais il est prêt pour en recevoir et être facile à améliorer !",
+  "tranche": 110
+},
           "Osamodas SUPPORT [ABANDON] 110": {
             "image": "assets/builds/Osamodas SUPPORT [Abandon].png",
             "url": "https://www.zenithwakfu.com/builder/416c3",
