@@ -232,6 +232,15 @@ const BUILD_DATA = {
       "description": "",
       "tranche": 110
     }
+,
+  "Zobal SUPPORT [SOIN] 110 Low cost": {
+    "image": "assets/builds/Zobal SUPPORT [SOIN] 110 Low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/a9180",
+    "keywords": ["Low Cost"],
+    "class": "Zobal",
+    "description": "",
+    "tranche": 110
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
