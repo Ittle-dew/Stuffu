@@ -471,6 +471,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 140
   }
+,
+  "Sacrieur DPT [MELEE BERSERK] 140 Mid cost": {
+    "image": "assets/builds/Sacrieur DPT [MELEE BERSERK] 140 Mid cost.png",
+    "url": "https://www.zenithwakfu.com/builder/3512c",
+    "keywords": ["Mid Cost"],
+    "class": "Sacrieur",
+    "description": "",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
