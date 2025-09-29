@@ -35,14 +35,13 @@ const BUILD_DATA = {
   }
 ,
   "Crâ DPT": {
-    "image": "assets/builds/Crâ DPT.png",
-    "url": "https://zenithwakfu.com/builder/1tk28",
-    "keywords": ["Opti"],
-    "class": "Cra",
-    "description": "Stuff \"Elementalisme\" Tri-Element",
-    "tranche": 245
-  }
-};
+  "image": "assets/builds/Crâ DPT.png",
+  "url": "https://zenithwakfu.com/builder/1tk28",
+  "keywords": ["Opti"],
+  "class": "Cra",
+  "description": "Stuff \"Elementalisme\" Tri-Element",
+  "tranche": 245
+},};
 
 export { BUILD_DATA, CLASS_LIST };
 
