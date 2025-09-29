@@ -489,6 +489,15 @@ const BUILD_DATA = {
     "description": "Necessite 82-84 de parade et 6PM pour proc le combo 100% parade hors de votre tour avec PAISIBLE",
     "tranche": 140
   }
+,
+  "Iop DPT [FEU TERRE] 140 OPTI": {
+    "image": "assets/builds/Iop DPT [FEU TERRE] 140 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/og0dv",
+    "keywords": ["Opti"],
+    "class": "Iop",
+    "description": "",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
