@@ -288,6 +288,15 @@ const BUILD_DATA = {
   Les sublis ne sont pas obligatoires, c'est du bonus si vous pouvez car elles ne coûtent vraiment rien. Améliorable selon votre budget et prix : [Epaulettes Prespic] et [Ceinture Pagne du Grand Orrok]",
     "tranche": 80
   }
+,
+  "Huppermage DPT [Mêlée] 80 Mid Cost": {
+    "image": "assets/builds/Huppermage DPT [Mêlée] 80 Mid Cost.png",
+    "url": "https://zenithwakfu.com/builder/696e2",
+    "keywords": ["Mid Cost"],
+    "class": "Huppermage",
+    "description": "Familier mono-élémentaire à rajouter si vous avez le budget/la patience d'en monter un",
+    "tranche": 80
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
