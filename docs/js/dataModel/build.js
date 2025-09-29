@@ -442,6 +442,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 140
   }
+,
+  "Eniripsa HYBRIDE [DPT ET SUPP] 140 OPTI": {
+    "image": "assets/builds/Eniripsa HYBRIDE [DPT ET SUPP] 140 OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/c0211",
+    "keywords": ["Opti"],
+    "class": "Eniripsa",
+    "description": "",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
