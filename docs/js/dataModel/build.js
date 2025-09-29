@@ -606,6 +606,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 155
   }
+,
+  "Osamodas SUPPORT [ABANDON] 155 OPTI": {
+    "image": "assets/builds/Osamodas SUPPORT [ABANDON] 155 OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/468ce",
+    "keywords": ["Opti"],
+    "class": "Osamodas",
+    "description": "",
+    "tranche": 155
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
