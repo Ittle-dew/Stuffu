@@ -343,6 +343,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 125
   }
+,
+  "Osa SUPPORT [ARMURE RETRAIT RES] 140 Low Cost": {
+    "image": "assets/builds/Osa SUPPORT [ARMURE RETRAIT RES] 140 Low Cost.png",
+    "url": "https://zenithwakfu.com/builder/xq9d1",
+    "keywords": ["Low Cost"],
+    "class": "Osamodas",
+    "description": "",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
