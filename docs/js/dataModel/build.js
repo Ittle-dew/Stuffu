@@ -460,6 +460,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 140
   }
+,
+  "Ouginak DPT [MELEE] 140 Low cost": {
+    "image": "assets/builds/Ouginak DPT [MELEE] 140 Low cost.png",
+    "url": "https://zenithwakfu.com/builder/37g77",
+    "keywords": ["Low Cost"],
+    "class": "Ouginak",
+    "description": "",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
