@@ -119,23 +119,36 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // ====== Data filtering & render ======
-  function getFiltered(){
+  function getFiltered() {
     const entries = Object.entries(BUILD_DATA);
 
-    return entries.filter(([key, obj])=>{
+    // --- Cas : aucun filtre actif ---
+    const noFilters =
+      !state.q &&
+      state.class === 'all' &&
+      state.cost === 'all' &&
+      state.tranche === 'all';
+
+    if (noFilters) {
+      // On prend les 20 derniers (selon l'ordre d'insertion)
+      return entries.slice(-20);
+    }
+
+    // --- Cas : filtres actifs ---
+    return entries.filter(([key, obj]) => {
       // 1) Recherche par nom
       if (state.q && !key.toLowerCase().includes(state.q)) return false;
 
       // 2) Classe
       if (state.class !== 'all' && obj.class !== state.class) return false;
 
-      // 3) Coût (simple select)
+      // 3) Coût
       if (state.cost !== 'all') {
         const kws = (obj.keywords || []).map(s => String(s).toLowerCase());
         if (!kws.includes(state.cost)) return false;
       }
 
-      // 4) Tranche exacte (string)
+      // 4) Tranche
       if (state.tranche !== 'all') {
         const objTranche = obj.tranche != null ? String(obj.tranche) : '';
         if (objTranche !== state.tranche) return false;
@@ -144,6 +157,7 @@ document.addEventListener('DOMContentLoaded', () => {
       return true;
     });
   }
+
 
   function render(){
     const filtered = getFiltered();
