@@ -561,6 +561,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 155
   }
+,
+  "Ecaflip SUPP [SOIN BOOST] 155 OPTI": {
+    "image": "assets/builds/Ecaflip SUPP [SOIN BOOST] 155 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/52kop",
+    "keywords": ["Opti"],
+    "class": "Ecaflip",
+    "description": "",
+    "tranche": 155
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
