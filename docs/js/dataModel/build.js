@@ -17,7 +17,7 @@ const CLASS_LIST = {
 
 const BUILD_DATA = {
   
-    "Huppermage DPT": {
+    "Huppermage DPT [Melee] 245": {
         "image": "assets/builds/Huppermage DPT.png",
         "url": "https://zenithwakfu.com/builder/pwssw",
         "keywords": ["Opti"],
@@ -26,7 +26,7 @@ const BUILD_DATA = {
         "tranche": 245
       }
   ,
-    "Ecaflip SUPPORT": {
+    "Ecaflip SUPPORT [Pucif] 245": {
       "image": "assets/builds/Ecaflip SUPPORT.png",
       "url": "https://zenithwakfu.com/builder/1tk28",
       "keywords": ["Opti"],
@@ -35,7 +35,7 @@ const BUILD_DATA = {
       "tranche": 245
     }
   ,
-    "Enutrof SUPPORT": {
+    "Enutrof SUPPORT [ABANDON] 245": {
       "image": "assets/builds/Enutrof SUPPORT.png",
       "url": "https://zenithwakfu.com/builder/ctzuw",
       "keywords": ["Opti"],
@@ -44,7 +44,7 @@ const BUILD_DATA = {
       "tranche": 245
     }
   ,
-    "Cra DPT": {
+    "Cra DPT [Tri-Element] 245": {
       "image": "assets/builds/Cra DPT.png",
       "url": "https://zenithwakfu.com/builder/nhv8j",
       "keywords": ["Opti"],
@@ -53,7 +53,7 @@ const BUILD_DATA = {
       "tranche": 245
     }
   ,
-  "Xelor DPT [Eau Feu]": {
+  "Xelor DPT [Eau Feu] 245": {
       "image": "assets/builds/Xelor DPT [Eau Feu].png",
       "url": "https://zenithwakfu.com/builder/onndc",
       "keywords": ["Opti"],
@@ -62,7 +62,7 @@ const BUILD_DATA = {
       "tranche": 245
     }
 ,
-  "Osamodas SUPPORT [Shield]": {
+  "Osamodas SUPPORT [Shield] 245": {
     "image": "assets/builds/Osamodas SUPPORT [Shield].png",
     "url": "https://zenithwakfu.com/builder/y9ayo",
     "keywords": ["Opti"],
@@ -71,7 +71,7 @@ const BUILD_DATA = {
     "tranche": 245
   }
 ,
-  "Iop DPT[Feu Terre]": {
+  "Iop DPT [Feu Terre] 245": {
     "image": "assets/builds/Iop DPT[Feu Terre].png",
     "url": "https://zenithwakfu.com/builder/76cko",
     "keywords": ["Opti"],
@@ -80,7 +80,7 @@ const BUILD_DATA = {
     "tranche": 245
   }
 ,
-  "Eniripsa SUPPORT [Soin Shield]": {
+  "Eniripsa SUPPORT [Soin Shield] 245": {
     "image": "assets/builds/Eniripsa SUPPORT [Soin Shield].png",
     "url": "https://zenithwakfu.com/builder/tjbqt",
     "keywords": ["Opti"],
@@ -89,7 +89,7 @@ const BUILD_DATA = {
     "tranche": 245
   }
 ,
-  "Ouginak DPT [Direct]": {
+  "Ouginak DPT [Direct] 110": {
   "image": "assets/builds/Ouginak DPT [Direct].png",
   "url": "https://zenithwakfu.com/builder/0ruzb",
   "keywords": ["Mid Cost"],
@@ -98,7 +98,7 @@ const BUILD_DATA = {
 J'ai mis des sauvegardes car régulierement elles sont en dessous des 500.000/u",
   "tranche": 110
 },
-  "Pandawa SUPPORT [Placeur Soin]": {
+  "Pandawa SUPPORT [Placeur Soin] 245": {
     "image": "assets/builds/Pandawa SUPPORT [Placeur Soin].png",
     "url": "https://zenithwakfu.com/builder/xrrmc",
     "keywords": ["Opti"],
@@ -107,7 +107,7 @@ J'ai mis des sauvegardes car régulierement elles sont en dessous des 500.000/u"
     "tranche": 245
   }
 ,
-  "Steamer DPT [Direct]": {
+  "Steamer DPT [Direct] 110": {
     "image": "assets/builds/Steamer DPT [Direct].png",
     "url": "https://zenithwakfu.com/builder/9jvjn",
     "keywords": ["Opti"],
@@ -116,7 +116,7 @@ J'ai mis des sauvegardes car régulierement elles sont en dessous des 500.000/u"
     "tranche": 110
   }
 ,
-  "Enutrof SUPPORT [Abandon]": {
+  "Enutrof SUPPORT [Abandon] 110": {
     "image": "assets/builds/Enutrof SUPPORT [Abandon].png",
     "url": "https://www.zenithwakfu.com/builder/6c33d",
     "keywords": ["Opti"],
@@ -125,7 +125,7 @@ J'ai mis des sauvegardes car régulierement elles sont en dessous des 500.000/u"
     "tranche": 110
   }
 ,
-  "Osamodas SUPPORT [Abandon]": {
+  "Osamodas SUPPORT [Abandon] 110": {
     "image": "assets/builds/Osamodas SUPPORT [Abandon].png",
     "url": "https://www.zenithwakfu.com/builder/416c3",
     "keywords": ["Opti"],
@@ -134,7 +134,7 @@ J'ai mis des sauvegardes car régulierement elles sont en dessous des 500.000/u"
     "tranche": 110
   }
 ,
-  "Sadida DPT [POISON + POUPEE]": {
+  "Sadida DPT [POISON + POUPEE] 110": {
   "image": "assets/builds/Sadida DPT [POISON + POUPEE].png",
   "url": "https://zenithwakfu.com/builder/32e98",
   "keywords": ["Opti"],
