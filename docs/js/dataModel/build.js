@@ -209,6 +209,15 @@ const BUILD_DATA = {
     "description": "Nécessite de viser les 84% de parade pour le combo PAISIBLE !",
     "tranche": 110
   }
+,
+  "Xelor DPT [EAU FEU] 110": {
+    "image": "assets/builds/Xelor DPT [EAU FEU] 110.png",
+    "url": "https://www.zenithwakfu.com/builder/d4e5a",
+    "keywords": ["Opti"],
+    "class": "Xelor",
+    "description": "",
+    "tranche": 110
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
