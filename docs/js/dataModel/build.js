@@ -79,6 +79,15 @@ const BUILD_DATA = {
     "description": "Gameplay Feu-Terre Spé Zoning et clear de salle !",
     "tranche": 245
   }
+,
+  "Eniripsa SUPPORT [Soin Shield]": {
+    "image": "assets/builds/Eniripsa SUPPORT [Soin Shield].png",
+    "url": "https://zenithwakfu.com/builder/tjbqt",
+    "keywords": ["Opti"],
+    "class": "Eniripsa",
+    "description": "Gameplay autours de Distribution maxant l'amure et le soin réalisé ! ",
+    "tranche": 245
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
