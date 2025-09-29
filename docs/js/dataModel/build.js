@@ -42,6 +42,15 @@ const BUILD_DATA = {
     "description": "Gameplay basé autours du retrait résistance et retrait PM",
     "tranche": 245
   }
+,
+  "Cra DPT": {
+    "image": "assets/builds/Cra DPT.png",
+    "url": "https://zenithwakfu.com/builder/nhv8j",
+    "keywords": ["Opti"],
+    "class": "Cra",
+    "description": "Gameplay TRI-ELEMENT autours de Elementalisme !",
+    "tranche": 245
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
