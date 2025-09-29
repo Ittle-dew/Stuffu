@@ -145,6 +145,15 @@ const BUILD_DATA = {
     "description": "Croc futé convertie auto la parade en CC quand tu es en Ougi garou, donc avec ce build vous avez 94%cc dès que vous êtes transformé. J'ai mis des sauvegardes car régulierement elles sont en dessous des 500.000/u ",
     "tranche": 110
   }
+,
+  "Steamer DPT [Direct] 110": {
+    "image": "assets/builds/Steamer DPT [Direct] 110.png",
+    "url": "https://zenithwakfu.com/builder/9jvjn",
+    "keywords": ["Opti"],
+    "class": "Steamer",
+    "description": "",
+    "tranche": 110
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
