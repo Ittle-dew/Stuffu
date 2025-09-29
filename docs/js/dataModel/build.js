@@ -138,7 +138,7 @@ const BUILD_DATA = {
           "tranche": 110
         },
   
-    "Ouginak DPT [Direct] 110": {
+    "Ouginak DPT [DIRECT] 110": {
       "image": "assets/builds/Ouginak DPT [Direct] 110.png",
       "url": "https://zenithwakfu.com/builder/0ruzb",
       "keywords": ["Mid Cost"],
