@@ -287,6 +287,15 @@ const BUILD_DATA = {
       "description": "Familier mono-élémentaire à rajouter si vous avez le budget/la patience d'en monter un",
       "tranche": 80
     }
+,
+  "Roublard DPT [DIRECT ET BOMBE] 80 Lowcost": {
+    "image": "assets/builds/Roublard DPT [DIRECT ET BOMBE] 80 Lowcost.png",
+    "url": "https://www.zenithwakfu.com/builder/nt3gp",
+    "keywords": ["Low Cost"],
+    "class": "Roublard",
+    "description": "En familier vraiment mettez ce qui vous passe sous la main, ce n'est pas obligatoire ! Les sublis ne sont pas obligatoires, c'est du bonus si vous pouvez car elles ne coûtent vraiment rien. Améliorable selon votre budget et prix : [Epaulettes Prespic] et [Ceinture Pagne du Grand Orrok]",
+    "tranche": 80
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
