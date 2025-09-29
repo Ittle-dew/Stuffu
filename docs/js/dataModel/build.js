@@ -480,6 +480,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 140
   }
+,
+  "Feca SUPPORT [ARMURE] 140 OPTI": {
+    "image": "assets/builds/Feca SUPPORT [ARMURE] 140 OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/3512c",
+    "keywords": ["Opti"],
+    "class": "Feca",
+    "description": "Necessite 82-84 de parade et 6PM pour proc le combo 100% parade hors de votre tour avec PAISIBLE",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
