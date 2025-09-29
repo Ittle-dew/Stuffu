@@ -24,6 +24,15 @@ const BUILD_DATA = {
       "description": "Gameplay Principalement mélée - Terre",
       "tranche": 245
     }
+,
+  "Ecaflip SUPPORT": {
+    "image": "assets/builds/Ecaflip SUPPORT.png",
+    "url": "https://zenithwakfu.com/builder/1tk28",
+    "keywords": ["Opti"],
+    "class": "Ecaflip",
+    "description": "Gameplay basé autours de PUCIF de l'ecaflip !",
+    "tranche": 245
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
