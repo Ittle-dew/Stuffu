@@ -388,6 +388,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 140
   }
+,
+  "Eniripsa SUPP [DISTANCE SOIN] Mid Cost": {
+    "image": "assets/builds/Eniripsa SUPP [DISTANCE SOIN] Mid Cost.png",
+    "url": "https://www.zenithwakfu.com/builder/86164",
+    "keywords": ["Mid Cost"],
+    "class": "Eniripsa",
+    "description": "",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
