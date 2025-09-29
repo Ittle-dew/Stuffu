@@ -16,23 +16,14 @@ const CLASS_LIST = {
 };
 
 const BUILD_DATA = {
-  "Ecaflip SUPPORT": {
-    "image": "assets/builds/Ecaflip SUPPORT.png",
-    "url": "https://zenithwakfu.com/builder/1tk28",
-    "keywords": ["Opti"],
-    "class": "Cra",
-    "description": "Gameplay basé autours de \"Pucif\" (et de la sublimation revigoration)",
-    "tranche": 245
-  }
-,
   "Huppermage DPT": {
-    "image": "assets/builds/Huppermage DPT.png",
-    "url": "https://zenithwakfu.com/builder/pwssw",
-    "keywords": ["Opti"],
-    "class": "Huppermage",
-    "description": "Gameplay Principalement mélée - Terre",
-    "tranche": 245
-  }
+      "image": "assets/builds/Huppermage DPT.png",
+      "url": "https://zenithwakfu.com/builder/pwssw",
+      "keywords": ["Opti"],
+      "class": "Huppermage",
+      "description": "Gameplay Principalement mélée - Terre",
+      "tranche": 245
+    }
 };
 
 export { BUILD_DATA, CLASS_LIST };
