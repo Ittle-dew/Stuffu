@@ -133,6 +133,15 @@ J'ai mis des sauvegardes car régulierement elles sont en dessous des 500.000/u"
     "description": "",
     "tranche": 110
   }
+,
+  "Sadida DPT [POISON + POUPEE]": {
+    "image": "assets/builds/Sadida DPT [POISON + POUPEE].png",
+    "url": "https://zenithwakfu.com/builder/32e98",
+    "keywords": ["Opti"],
+    "class": "Sadida",
+    "description": "Necessite d'avoir de quoi abuser des retraits PA/PM dans votre composition pour profiter du Sadi !",
+    "tranche": 110
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
