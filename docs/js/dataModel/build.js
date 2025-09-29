@@ -70,6 +70,15 @@ const BUILD_DATA = {
     "description": "Gameplay base autours du shield grâce au item %armure donnée de la tranche !",
     "tranche": 245
   }
+,
+  "Iop DPT[Feu Terre]": {
+    "image": "assets/builds/Iop DPT[Feu Terre].png",
+    "url": "https://zenithwakfu.com/builder/76cko",
+    "keywords": ["Opti"],
+    "class": "Iop",
+    "description": "Gameplay Feu-Terre Spé Zoning et clear de salle !",
+    "tranche": 245
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
