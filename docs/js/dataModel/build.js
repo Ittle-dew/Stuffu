@@ -597,6 +597,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 155
   }
+,
+  "Sadida DPT [POISON] 155 Opti": {
+    "image": "assets/builds/Sadida DPT [POISON] 155 Opti.png",
+    "url": "https://zenithwakfu.com/builder/25a79",
+    "keywords": ["Opti"],
+    "class": "Sadida",
+    "description": "",
+    "tranche": 155
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
