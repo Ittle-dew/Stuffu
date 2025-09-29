@@ -22,7 +22,7 @@ const BUILD_DATA = {
         
           
             "Huppermage DPT [MELEE] 245 Opti": {
-                "image": "assets/builds/Huppermage DPT.png",
+                "image": "assets/builds/Huppermage DPT [MELEE] 245 Opti.png",
                 "url": "https://zenithwakfu.com/builder/pwssw",
                 "keywords": ["Opti"],
                 "class": "Huppermage",
@@ -31,7 +31,7 @@ const BUILD_DATA = {
               }
           ,
             "Ecaflip SUPPORT [PUCIF] 245 Opti": {
-              "image": "assets/builds/Ecaflip SUPPORT.png",
+              "image": "assets/builds/Ecaflip SUPPORT [PUCIF] 245 Opti.png",
               "url": "https://zenithwakfu.com/builder/1tk28",
               "keywords": ["Opti"],
               "class": "Ecaflip",
@@ -40,7 +40,7 @@ const BUILD_DATA = {
             }
           ,
             "Enutrof SUPPORT [ABANDON] 245 Opti": {
-              "image": "assets/builds/Enutrof SUPPORT.png",
+              "image": "assets/builds/Enutrof SUPPORT [ABANDON] 245 Opti".png",
               "url": "https://zenithwakfu.com/builder/ctzuw",
               "keywords": ["Opti"],
               "class": "Enutrof",
@@ -49,7 +49,7 @@ const BUILD_DATA = {
             }
           ,
             "Cra DPT [TRI-ELEMENT] 245 Opti": {
-              "image": "assets/builds/Cra DPT.png",
+              "image": "assets/builds/Cra DPT [TRI-ELEMENT] 245 Opti.png",
               "url": "https://zenithwakfu.com/builder/nhv8j",
               "keywords": ["Opti"],
               "class": "Cra",
@@ -58,7 +58,7 @@ const BUILD_DATA = {
             }
           ,
           "Xelor DPT [EAU FEU] 245 Opti": {
-              "image": "assets/builds/Xelor DPT [Eau Feu].png",
+              "image": "assets/builds/Xelor DPT [EAU FEU] 245 Opti.png",
               "url": "https://zenithwakfu.com/builder/onndc",
               "keywords": ["Opti"],
               "class": "Xelor",
@@ -67,7 +67,7 @@ const BUILD_DATA = {
             }
         ,
           "Osamodas SUPPORT [ARMURE] 245 Opti": {
-            "image": "assets/builds/Osamodas SUPPORT [Shield].png",
+            "image": "assets/builds/Osamodas SUPPORT [ARMURE] 245 Opti.png",
             "url": "https://zenithwakfu.com/builder/y9ayo",
             "keywords": ["Opti"],
             "class": "Osamodas",
@@ -76,7 +76,7 @@ const BUILD_DATA = {
           }
         ,
           "Iop DPT [FEU TERRE] 245 Opti": {
-            "image": "assets/builds/Iop DPT[Feu Terre].png",
+            "image": "assets/builds/Iop DPT [FEU TERRE] 245 Opti.png",
             "url": "https://zenithwakfu.com/builder/76cko",
             "keywords": ["Opti"],
             "class": "Iop",
@@ -85,7 +85,7 @@ const BUILD_DATA = {
           }
         ,
           "Eniripsa SUPPORT [SOIN ARMURE] 245 Opti": {
-            "image": "assets/builds/Eniripsa SUPPORT [Soin Shield].png",
+            "image": "assets/builds/Eniripsa SUPPORT [SOIN ARMURE] 245 Opti.png",
             "url": "https://zenithwakfu.com/builder/tjbqt",
             "keywords": ["Opti"],
             "class": "Eniripsa",
@@ -94,7 +94,7 @@ const BUILD_DATA = {
           }
         ,
       "Pandawa SUPPORT [PLACEUR SOIN] 245 Opti": {
-            "image": "assets/builds/Pandawa SUPPORT [Placeur Soin].png",
+            "image": "assets/builds/Pandawa SUPPORT [PLACEUR SOIN] 245 Opti.png",
             "url": "https://zenithwakfu.com/builder/xrrmc",
             "keywords": ["Opti"],
             "class": "Pandawa",
@@ -103,7 +103,7 @@ const BUILD_DATA = {
           }
         ,
           "Steamer DPT [DIRECT] 110 Opti": {
-            "image": "assets/builds/Steamer DPT [Direct].png",
+            "image": "assets/builds/Steamer DPT [DIRECT] 110 Opti.png",
             "url": "https://zenithwakfu.com/builder/9jvjn",
             "keywords": ["Opti"],
             "class": "Steamer",
@@ -112,7 +112,7 @@ const BUILD_DATA = {
           }
         ,
           "Enutrof SUPPORT [ABANDON] 110 Low Cost": {
-  "image": "assets/builds/Enutrof SUPPORT [ABANDON] 110.png",
+  "image": "assets/builds/Enutrof SUPPORT [ABANDON] 110 Low Cost.png",
   "url": "https://www.zenithwakfu.com/builder/cd686",
   "keywords": ["Low Cost"],
   "class": "Enutrof",
@@ -120,7 +120,7 @@ const BUILD_DATA = {
   "tranche": 110
 },
           "Osamodas SUPPORT [ABANDON] 110 Opti": {
-            "image": "assets/builds/Osamodas SUPPORT [Abandon].png",
+            "image": "assets/builds/Osamodas SUPPORT [ABANDON] 110 Opti.png",
             "url": "https://www.zenithwakfu.com/builder/416c3",
             "keywords": ["Opti"],
             "class": "Osamodas",
@@ -129,7 +129,7 @@ const BUILD_DATA = {
           }
         ,
           "Sadida DPT [POISON POUPEE] 110 Opti": {
-          "image": "assets/builds/Sadida DPT [POISON + POUPEE].png",
+          "image": "assets/builds/Sadida DPT [POISON POUPEE] 110 Opti.png",
           "url": "https://zenithwakfu.com/builder/32e98",
           "keywords": ["Opti"],
           "class": "Sadida",
@@ -138,7 +138,7 @@ const BUILD_DATA = {
         },
   
     "Ouginak DPT [DIRECT] 110 Mid Cost": {
-      "image": "assets/builds/Ouginak DPT [Direct] 110.png",
+      "image": "assets/builds/Ouginak DPT [DIRECT] 110 Mid Cost.png",
       "url": "https://zenithwakfu.com/builder/0ruzb",
       "keywords": ["Mid Cost"],
       "class": "Ouginak",
@@ -148,7 +148,7 @@ const BUILD_DATA = {
   ,
 
   "Sadida SUPPORT [SOIN] 110 Mid Cost": {
-    "image": "assets/builds/Sadida SUPPORT [Soin] 110.png",
+    "image": "assets/builds/Sadida SUPPORT [SOIN] 110 Mid Cost.png",
     "url": "https://www.zenithwakfu.com/builder/91980",
     "keywords": ["Mid Cost"],
     "class": "Sadida",
@@ -157,7 +157,7 @@ const BUILD_DATA = {
   }
 ,
   "Eniripsa SUPPORT [SOIN] 110 Low Cost": {
-  "image": "assets/builds/Eniripsa SUPPORT [SOIN] 110.png",
+  "image": "assets/builds/Eniripsa SUPPORT [SOIN] 110 Low Cost0.png",
   "url": "https://www.zenithwakfu.com/builder/c86e0",
   "keywords": ["Low Cost"],
   "class": "Eniripsa",
@@ -165,7 +165,7 @@ const BUILD_DATA = {
   "tranche": 110
 },
   "Sacrieur DPT [MELEE BERSERK] 110 Low Cost": {
-    "image": "assets/builds/Sacrieur DPT [MELEE BERSERK] 110.png",
+    "image": "assets/builds/Sacrieur DPT [MELEE BERSERK] 110 Low Cost.png",
     "url": "https://www.zenithwakfu.com/builder/62edf",
     "keywords": ["Low Cost"],
     "class": "Sacrieur",
@@ -174,7 +174,7 @@ const BUILD_DATA = {
   }
 ,
   "Eniripsa SUPPORT [SOIN] 110 Mid Cost": {
-    "image": "assets/builds/Eniripsa SUPP [SOIN] 110.png",
+    "image": "assets/builds/Eniripsa SUPPORT [SOIN] 110 Mid Cost.png",
     "url": "https://www.zenithwakfu.com/builder/xd9bf",
     "keywords": ["Mid Cost"],
     "class": "Eniripsa",
@@ -183,7 +183,7 @@ const BUILD_DATA = {
   }
 ,
   "Steamer DPT [DISTANCE] 110 Mid Cost": {
-    "image": "assets/builds/Steamer DPT [DISTANCE] 110.png",
+    "image": "assets/builds/Steamer DPT [DISTANCE] 110 Mid Cost.png",
     "url": "https://zenithwakfu.com/builder/nn88y",
     "keywords": ["Mid Cost"],
     "class": "Steamer",
@@ -192,7 +192,7 @@ const BUILD_DATA = {
   }
 ,
   "Ecaflip SUPPORT [SOIN BOOST] 110 Opti": {
-    "image": "assets/builds/Ecaflip SUPPORT [SOIN BOOST] 110.png",
+    "image": "assets/builds/Ecaflip SUPPORT [SOIN BOOST] 110 Opti.png",
     "url": "https://www.zenithwakfu.com/builder/ssnhy",
     "keywords": ["Opti"],
     "class": "Ecaflip",
@@ -201,7 +201,7 @@ const BUILD_DATA = {
   }
 ,
   "Feca SUPPORT [ABANDON] 110 Opti": {
-    "image": "assets/builds/Feca SUPPORT [ABANDON] 110.png",
+    "image": "assets/builds/Feca SUPPORT [ABANDON] 110 Opti.png",
     "url": "https://www.zenithwakfu.com/builder/f9a4d",
     "keywords": ["Opti"],
     "class": "Feca",
@@ -210,7 +210,7 @@ const BUILD_DATA = {
   }
 ,
   "Xelor DPT [EAU FEU] 110 Mid Cost": {
-    "image": "assets/builds/Xelor DPT [EAU FEU] 110.png",
+    "image": "assets/builds/Xelor DPT [EAU FEU] 110 Mid Cost.png",
     "url": "https://www.zenithwakfu.com/builder/d4e5a",
     "keywords": ["Mid Cost"],
     "class": "Xelor",
