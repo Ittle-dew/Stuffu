@@ -97,6 +97,15 @@ const BUILD_DATA = {
     "description": "Gameplay DPT Direct axé sur la prise du DOS et principalement monocible !",
     "tranche": 245
   }
+,
+  "Pandawa SUPPORT [Placeur Soin]": {
+    "image": "assets/builds/Pandawa SUPPORT [Placeur Soin].png",
+    "url": "https://zenithwakfu.com/builder/xrrmc",
+    "keywords": ["Opti"],
+    "class": "Pandawa",
+    "description": "Gameplay permettant un soin d'appoint non négligeable avec le Panda les tours où il n'a pas besoin de placer.",
+    "tranche": 245
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
