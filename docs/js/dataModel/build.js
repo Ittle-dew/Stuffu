@@ -19,122 +19,123 @@ const BUILD_DATA = {
   
     
       
-        "Huppermage DPT [MELEE] 245": {
-            "image": "assets/builds/Huppermage DPT.png",
-            "url": "https://zenithwakfu.com/builder/pwssw",
+        
+          "Huppermage DPT [MELEE] 245": {
+              "image": "assets/builds/Huppermage DPT.png",
+              "url": "https://zenithwakfu.com/builder/pwssw",
+              "keywords": ["Opti"],
+              "class": "Huppermage",
+              "description": "Gameplay Principalement mélée - Terre",
+              "tranche": 245
+            }
+        ,
+          "Ecaflip SUPPORT [PUCIF] 245": {
+            "image": "assets/builds/Ecaflip SUPPORT.png",
+            "url": "https://zenithwakfu.com/builder/1tk28",
             "keywords": ["Opti"],
-            "class": "Huppermage",
-            "description": "Gameplay Principalement mélée - Terre",
+            "class": "Ecaflip",
+            "description": "Gameplay basé autours de PUCIF de l'ecaflip !",
+            "tranche": 245
+          }
+        ,
+          "Enutrof SUPPORT [ABANDON] 245": {
+            "image": "assets/builds/Enutrof SUPPORT.png",
+            "url": "https://zenithwakfu.com/builder/ctzuw",
+            "keywords": ["Opti"],
+            "class": "Enutrof",
+            "description": "Gameplay basé autours du retrait résistance et retrait PM",
+            "tranche": 245
+          }
+        ,
+          "Cra DPT [TRI-ELEMENT] 245": {
+            "image": "assets/builds/Cra DPT.png",
+            "url": "https://zenithwakfu.com/builder/nhv8j",
+            "keywords": ["Opti"],
+            "class": "Cra",
+            "description": "Gameplay TRI-ELEMENT autours de Elementalisme !",
+            "tranche": 245
+          }
+        ,
+        "Xelor DPT [EAU FEU] 245": {
+            "image": "assets/builds/Xelor DPT [Eau Feu].png",
+            "url": "https://zenithwakfu.com/builder/onndc",
+            "keywords": ["Opti"],
+            "class": "Xelor",
+            "description": "Build Classique Xelor DPT",
             "tranche": 245
           }
       ,
-        "Ecaflip SUPPORT [PUCIF] 245": {
-          "image": "assets/builds/Ecaflip SUPPORT.png",
-          "url": "https://zenithwakfu.com/builder/1tk28",
+        "Osamodas SUPPORT [ARMURE] 245": {
+          "image": "assets/builds/Osamodas SUPPORT [Shield].png",
+          "url": "https://zenithwakfu.com/builder/y9ayo",
           "keywords": ["Opti"],
-          "class": "Ecaflip",
-          "description": "Gameplay basé autours de PUCIF de l'ecaflip !",
+          "class": "Osamodas",
+          "description": "Gameplay base autours du shield grâce au item %armure donnée de la tranche !",
           "tranche": 245
         }
       ,
-        "Enutrof SUPPORT [ABANDON] 245": {
-          "image": "assets/builds/Enutrof SUPPORT.png",
-          "url": "https://zenithwakfu.com/builder/ctzuw",
+        "Iop DPT [FEU TERRE] 245": {
+          "image": "assets/builds/Iop DPT[Feu Terre].png",
+          "url": "https://zenithwakfu.com/builder/76cko",
+          "keywords": ["Opti"],
+          "class": "Iop",
+          "description": "Gameplay Feu-Terre Spé Zoning et clear de salle !",
+          "tranche": 245
+        }
+      ,
+        "Eniripsa SUPPORT [SOIN ARMURE] 245": {
+          "image": "assets/builds/Eniripsa SUPPORT [Soin Shield].png",
+          "url": "https://zenithwakfu.com/builder/tjbqt",
+          "keywords": ["Opti"],
+          "class": "Eniripsa",
+          "description": "Gameplay autours de Distribution maxant l'amure et le soin réalisé ! ",
+          "tranche": 245
+        }
+      ,
+    "Pandawa SUPPORT [PLACEUR SOIN] 245": {
+          "image": "assets/builds/Pandawa SUPPORT [Placeur Soin].png",
+          "url": "https://zenithwakfu.com/builder/xrrmc",
+          "keywords": ["Opti"],
+          "class": "Pandawa",
+          "description": "Gameplay permettant un soin d'appoint non négligeable avec le Panda les tours où il n'a pas besoin de placer.",
+          "tranche": 245
+        }
+      ,
+        "Steamer DPT [DIRECT] 110": {
+          "image": "assets/builds/Steamer DPT [Direct].png",
+          "url": "https://zenithwakfu.com/builder/9jvjn",
+          "keywords": ["Opti"],
+          "class": "Steamer",
+          "description": "",
+          "tranche": 110
+        }
+      ,
+        "Enutrof SUPPORT [ABANDON] 110": {
+          "image": "assets/builds/Enutrof SUPPORT [Abandon].png",
+          "url": "https://www.zenithwakfu.com/builder/6c33d",
           "keywords": ["Opti"],
           "class": "Enutrof",
-          "description": "Gameplay basé autours du retrait résistance et retrait PM",
-          "tranche": 245
+          "description": "",
+          "tranche": 110
         }
       ,
-        "Cra DPT [TRI-ELEMENT] 245": {
-          "image": "assets/builds/Cra DPT.png",
-          "url": "https://zenithwakfu.com/builder/nhv8j",
+        "Osamodas SUPPORT [ABANDON] 110": {
+          "image": "assets/builds/Osamodas SUPPORT [Abandon].png",
+          "url": "https://www.zenithwakfu.com/builder/416c3",
           "keywords": ["Opti"],
-          "class": "Cra",
-          "description": "Gameplay TRI-ELEMENT autours de Elementalisme !",
-          "tranche": 245
+          "class": "Osamodas",
+          "description": "",
+          "tranche": 110
         }
       ,
-      "Xelor DPT [EAU FEU] 245": {
-          "image": "assets/builds/Xelor DPT [Eau Feu].png",
-          "url": "https://zenithwakfu.com/builder/onndc",
-          "keywords": ["Opti"],
-          "class": "Xelor",
-          "description": "Build Classique Xelor DPT",
-          "tranche": 245
-        }
-    ,
-      "Osamodas SUPPORT [ARMURE] 245": {
-        "image": "assets/builds/Osamodas SUPPORT [Shield].png",
-        "url": "https://zenithwakfu.com/builder/y9ayo",
+        "Sadida DPT [POISON POUPEE] 110": {
+        "image": "assets/builds/Sadida DPT [POISON + POUPEE].png",
+        "url": "https://zenithwakfu.com/builder/32e98",
         "keywords": ["Opti"],
-        "class": "Osamodas",
-        "description": "Gameplay base autours du shield grâce au item %armure donnée de la tranche !",
-        "tranche": 245
-      }
-    ,
-      "Iop DPT [FEU TERRE] 245": {
-        "image": "assets/builds/Iop DPT[Feu Terre].png",
-        "url": "https://zenithwakfu.com/builder/76cko",
-        "keywords": ["Opti"],
-        "class": "Iop",
-        "description": "Gameplay Feu-Terre Spé Zoning et clear de salle !",
-        "tranche": 245
-      }
-    ,
-      "Eniripsa SUPPORT [SOIN ARMURE] 245": {
-        "image": "assets/builds/Eniripsa SUPPORT [Soin Shield].png",
-        "url": "https://zenithwakfu.com/builder/tjbqt",
-        "keywords": ["Opti"],
-        "class": "Eniripsa",
-        "description": "Gameplay autours de Distribution maxant l'amure et le soin réalisé ! ",
-        "tranche": 245
-      }
-    ,
-  "Pandawa SUPPORT [PLACEUR SOIN] 245": {
-        "image": "assets/builds/Pandawa SUPPORT [Placeur Soin].png",
-        "url": "https://zenithwakfu.com/builder/xrrmc",
-        "keywords": ["Opti"],
-        "class": "Pandawa",
-        "description": "Gameplay permettant un soin d'appoint non négligeable avec le Panda les tours où il n'a pas besoin de placer.",
-        "tranche": 245
-      }
-    ,
-      "Steamer DPT [DIRECT] 110": {
-        "image": "assets/builds/Steamer DPT [Direct].png",
-        "url": "https://zenithwakfu.com/builder/9jvjn",
-        "keywords": ["Opti"],
-        "class": "Steamer",
-        "description": "",
+        "class": "Sadida",
+        "description": "Necessite d'avoir de quoi abuser des retraits PA/PM dans votre composition pour profiter du Sadi !",
         "tranche": 110
-      }
-    ,
-      "Enutrof SUPPORT [ABANDON] 110": {
-        "image": "assets/builds/Enutrof SUPPORT [Abandon].png",
-        "url": "https://www.zenithwakfu.com/builder/6c33d",
-        "keywords": ["Opti"],
-        "class": "Enutrof",
-        "description": "",
-        "tranche": 110
-      }
-    ,
-      "Osamodas SUPPORT [ABANDON] 110": {
-        "image": "assets/builds/Osamodas SUPPORT [Abandon].png",
-        "url": "https://www.zenithwakfu.com/builder/416c3",
-        "keywords": ["Opti"],
-        "class": "Osamodas",
-        "description": "",
-        "tranche": 110
-      }
-    ,
-      "Sadida DPT [POISON POUPEE] 110": {
-      "image": "assets/builds/Sadida DPT [POISON + POUPEE].png",
-      "url": "https://zenithwakfu.com/builder/32e98",
-      "keywords": ["Opti"],
-      "class": "Sadida",
-      "description": "Necessite d'avoir de quoi abuser des retraits PA/PM dans votre composition pour profiter du Sadi !",
-      "tranche": 110
-    },
+      },
 };
 
 export { BUILD_DATA, CLASS_LIST };
