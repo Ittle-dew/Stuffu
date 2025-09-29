@@ -588,6 +588,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 155
   }
+,
+  "Sadida SUPP [SOIN] 155 Low cost": {
+    "image": "assets/builds/Sadida SUPP [SOIN] 155 Low cost.png",
+    "url": "https://zenithwakfu.com/builder/84e89",
+    "keywords": ["Low Cost"],
+    "class": "Sadida",
+    "description": "",
+    "tranche": 155
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
