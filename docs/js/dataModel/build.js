@@ -250,6 +250,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 110
   }
+,
+  "Panda SUPPORT [PLACEUR] 110 Low cost": {
+    "image": "assets/builds/Panda SUPPORT [PLACEUR] 110 Low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/e0711",
+    "keywords": ["Low Cost"],
+    "class": "Pandawa",
+    "description": "",
+    "tranche": 110
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
