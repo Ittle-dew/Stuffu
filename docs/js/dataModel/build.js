@@ -16,13 +16,31 @@ const CLASS_LIST = {
 };
 
 const BUILD_DATA = {
-  "Ecaflip Support [Soin]": {
-    "image": "assets/builds/Ecaflip Support [Soin].png",
+  "Enutrof SUPPORT": {
+      "image": "assets/builds/Enutrof SUPPORT.png",
+      "url": "https://zenithwakfu.com/builder/ctzuw",
+      "keywords": ["Opti"],
+      "class": "Enutrof",
+      "description": "Stuff Spé retrait Résistance/Retrait PM",
+      "tranche": 245
+    }
+,
+  "Ecaflip SUPPORT": {
+    "image": "assets/builds/Ecaflip SUPPORT.png",
     "url": "https://zenithwakfu.com/builder/1tk28",
     "keywords": ["Opti"],
-    "tranche": "245",
     "class": "Ecaflip",
-    "description": "Ecaflip Soin OPTIMISER lvl 245 (Passif Pucif)"
+    "description": "Stuff spé SOIN/SHIELD spé gameplay \"Pucif\" ",
+    "tranche": 245
+  }
+,
+  "Crâ DPT": {
+    "image": "assets/builds/Crâ DPT.png",
+    "url": "https://zenithwakfu.com/builder/1tk28",
+    "keywords": ["Opti"],
+    "class": "Cra",
+    "description": "Stuff \"Elementalisme\" Tri-Element",
+    "tranche": 245
   }
 };
 
