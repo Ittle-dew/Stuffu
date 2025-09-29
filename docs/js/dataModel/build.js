@@ -136,6 +136,15 @@ const BUILD_DATA = {
         "description": "Necessite d'avoir de quoi abuser des retraits PA/PM dans votre composition pour profiter du Sadi !",
         "tranche": 110
       },
+
+  "Ouginak DPT [Direct] 110": {
+    "image": "assets/builds/Ouginak DPT [Direct] 110.png",
+    "url": "https://zenithwakfu.com/builder/0ruzb",
+    "keywords": ["Mid Cost"],
+    "class": "Ouginak",
+    "description": "Croc futé convertie auto la parade en CC quand tu es en Ougi garou, donc avec ce build vous avez 94%cc dès que vous êtes transformé. J'ai mis des sauvegardes car régulierement elles sont en dessous des 500.000/u ",
+    "tranche": 110
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
