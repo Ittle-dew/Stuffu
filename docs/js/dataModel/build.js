@@ -543,6 +543,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 155
   }
+,
+  "Sram DPT [MELEE DOS] 155 Mid cost": {
+    "image": "assets/builds/Sram DPT [MELEE DOS] 155 Mid cost.png",
+    "url": "https://zenithwakfu.com/builder/bae9k",
+    "keywords": ["Mid Cost"],
+    "class": "Sram",
+    "description": "",
+    "tranche": 155
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
