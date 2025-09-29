@@ -379,6 +379,15 @@ const BUILD_DATA = {
     "description": "Il faut jouer avec Réminescence, et faire exaltation chaque tour pour finir en Serein et proc les 40cc de dimension blanche en perma !",
     "tranche": 140
   }
+,
+  "Xelor DPT [DISTANCE] 140 Low cost": {
+    "image": "assets/builds/Xelor DPT [DISTANCE] 140 Low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/e5f1f",
+    "keywords": ["Low Cost"],
+    "class": "Xelor",
+    "description": "",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
