@@ -156,6 +156,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 110
   }
+,
+  "Eniripsa SUPPORT [SOIN] 110": {
+    "image": "assets/builds/Eniripsa SUPPORT [SOIN] 110.png",
+    "url": "https://zenithwakfu.com/builder/dc7f3",
+    "keywords": ["Mid Cost"],
+    "class": "Eniripsa",
+    "description": "",
+    "tranche": 110
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
