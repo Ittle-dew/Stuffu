@@ -212,7 +212,7 @@ const BUILD_DATA = {
   "Xelor DPT [EAU FEU] 110": {
     "image": "assets/builds/Xelor DPT [EAU FEU] 110.png",
     "url": "https://www.zenithwakfu.com/builder/d4e5a",
-    "keywords": ["Opti"],
+    "keywords": ["Mid Cost"],
     "class": "Xelor",
     "description": "",
     "tranche": 110
