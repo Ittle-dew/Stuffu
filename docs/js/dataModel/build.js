@@ -106,6 +106,15 @@ J'ai mis des sauvegardes car régulierement elles sont en dessous des 500.000/u"
     "description": "Gameplay permettant un soin d'appoint non négligeable avec le Panda les tours où il n'a pas besoin de placer.",
     "tranche": 245
   }
+,
+  "Steamer DPT [Direct]": {
+    "image": "assets/builds/Steamer DPT [Direct].png",
+    "url": "https://zenithwakfu.com/builder/9jvjn",
+    "keywords": ["Opti"],
+    "class": "Steamer",
+    "description": "",
+    "tranche": 110
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
