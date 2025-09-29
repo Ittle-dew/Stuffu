@@ -715,6 +715,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 155
   }
+,
+  "Roublard DPT [BOMBE INDIRECT] 155 OPTI": {
+    "image": "assets/builds/Roublard DPT [BOMBE INDIRECT] 155 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/cd518",
+    "keywords": ["Opti"],
+    "class": "Roublard",
+    "description": "",
+    "tranche": 155
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
