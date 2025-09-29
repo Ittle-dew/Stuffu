@@ -174,6 +174,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 110
   }
+,
+  "Eniripsa SUPP [SOIN] 110": {
+    "image": "assets/builds/Eniripsa SUPP [SOIN] 110.png",
+    "url": "https://www.zenithwakfu.com/builder/xd9bf",
+    "keywords": ["Mid Cost"],
+    "class": "Eniripsa",
+    "description": "Vous pouvez mettre un Royal Mimint si vous préferez gagner un PO au détriment d'un PA. Un familier maitrise soin est l'idéal, mais celui-ci fera l'affaire le temps de vous procurer mieux !",
+    "tranche": 110
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
