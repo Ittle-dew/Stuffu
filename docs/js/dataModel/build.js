@@ -19,7 +19,7 @@ const BUILD_DATA = {
   
     
       
-        "Huppermage DPT [Melee] 245": {
+        "Huppermage DPT [MELEE] 245": {
             "image": "assets/builds/Huppermage DPT.png",
             "url": "https://zenithwakfu.com/builder/pwssw",
             "keywords": ["Opti"],
@@ -28,7 +28,7 @@ const BUILD_DATA = {
             "tranche": 245
           }
       ,
-        "Ecaflip SUPPORT [Pucif] 245": {
+        "Ecaflip SUPPORT [PUCIF] 245": {
           "image": "assets/builds/Ecaflip SUPPORT.png",
           "url": "https://zenithwakfu.com/builder/1tk28",
           "keywords": ["Opti"],
@@ -46,7 +46,7 @@ const BUILD_DATA = {
           "tranche": 245
         }
       ,
-        "Cra DPT [Tri-Element] 245": {
+        "Cra DPT [TRI-ELEMENT] 245": {
           "image": "assets/builds/Cra DPT.png",
           "url": "https://zenithwakfu.com/builder/nhv8j",
           "keywords": ["Opti"],
@@ -55,7 +55,7 @@ const BUILD_DATA = {
           "tranche": 245
         }
       ,
-      "Xelor DPT [Eau Feu] 245": {
+      "Xelor DPT [EAU FEU] 245": {
           "image": "assets/builds/Xelor DPT [Eau Feu].png",
           "url": "https://zenithwakfu.com/builder/onndc",
           "keywords": ["Opti"],
@@ -64,7 +64,7 @@ const BUILD_DATA = {
           "tranche": 245
         }
     ,
-      "Osamodas SUPPORT [Shield] 245": {
+      "Osamodas SUPPORT [ARMURE] 245": {
         "image": "assets/builds/Osamodas SUPPORT [Shield].png",
         "url": "https://zenithwakfu.com/builder/y9ayo",
         "keywords": ["Opti"],
@@ -73,7 +73,7 @@ const BUILD_DATA = {
         "tranche": 245
       }
     ,
-      "Iop DPT [Feu Terre] 245": {
+      "Iop DPT [FEU TERRE] 245": {
         "image": "assets/builds/Iop DPT[Feu Terre].png",
         "url": "https://zenithwakfu.com/builder/76cko",
         "keywords": ["Opti"],
@@ -82,7 +82,7 @@ const BUILD_DATA = {
         "tranche": 245
       }
     ,
-      "Eniripsa SUPPORT [Soin Shield] 245": {
+      "Eniripsa SUPPORT [SOIN ARMURE] 245": {
         "image": "assets/builds/Eniripsa SUPPORT [Soin Shield].png",
         "url": "https://zenithwakfu.com/builder/tjbqt",
         "keywords": ["Opti"],
@@ -91,7 +91,7 @@ const BUILD_DATA = {
         "tranche": 245
       }
     ,
-  "Pandawa SUPPORT [Placeur Soin] 245": {
+  "Pandawa SUPPORT [PLACEUR SOIN] 245": {
         "image": "assets/builds/Pandawa SUPPORT [Placeur Soin].png",
         "url": "https://zenithwakfu.com/builder/xrrmc",
         "keywords": ["Opti"],
@@ -100,7 +100,7 @@ const BUILD_DATA = {
         "tranche": 245
       }
     ,
-      "Steamer DPT [Direct] 110": {
+      "Steamer DPT [DIRECT] 110": {
         "image": "assets/builds/Steamer DPT [Direct].png",
         "url": "https://zenithwakfu.com/builder/9jvjn",
         "keywords": ["Opti"],
@@ -109,7 +109,7 @@ const BUILD_DATA = {
         "tranche": 110
       }
     ,
-      "Enutrof SUPPORT [Abandon] 110": {
+      "Enutrof SUPPORT [ABANDON] 110": {
         "image": "assets/builds/Enutrof SUPPORT [Abandon].png",
         "url": "https://www.zenithwakfu.com/builder/6c33d",
         "keywords": ["Opti"],
@@ -118,7 +118,7 @@ const BUILD_DATA = {
         "tranche": 110
       }
     ,
-      "Osamodas SUPPORT [Abandon] 110": {
+      "Osamodas SUPPORT [ABANDON] 110": {
         "image": "assets/builds/Osamodas SUPPORT [Abandon].png",
         "url": "https://www.zenithwakfu.com/builder/416c3",
         "keywords": ["Opti"],
@@ -127,7 +127,7 @@ const BUILD_DATA = {
         "tranche": 110
       }
     ,
-      "Sadida DPT [POISON + POUPEE] 110": {
+      "Sadida DPT [POISON POUPEE] 110": {
       "image": "assets/builds/Sadida DPT [POISON + POUPEE].png",
       "url": "https://zenithwakfu.com/builder/32e98",
       "keywords": ["Opti"],
