@@ -307,6 +307,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 125
   }
+,
+  "Ecaflip SUPP [SOIN BOOST] 125 OPTI": {
+    "image": "assets/builds/Ecaflip SUPP [SOIN BOOST] 125 OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/cuwjf",
+    "keywords": ["Opti"],
+    "class": "Ecaflip",
+    "description": "Gameplay PUCIF avec Revigoration !",
+    "tranche": 125
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
