@@ -115,6 +115,15 @@ J'ai mis des sauvegardes car régulierement elles sont en dessous des 500.000/u"
     "description": "",
     "tranche": 110
   }
+,
+  "Enutrof SUPPORT [Abandon]": {
+    "image": "assets/builds/Enutrof SUPPORT [Abandon].png",
+    "url": "https://www.zenithwakfu.com/builder/6c33d",
+    "keywords": ["Opti"],
+    "class": "Enutrof",
+    "description": "",
+    "tranche": 110
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
