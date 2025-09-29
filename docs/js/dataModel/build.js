@@ -124,6 +124,15 @@ J'ai mis des sauvegardes car régulierement elles sont en dessous des 500.000/u"
     "description": "",
     "tranche": 110
   }
+,
+  "Osamodas SUPPORT [Abandon]": {
+    "image": "assets/builds/Osamodas SUPPORT [Abandon].png",
+    "url": "https://www.zenithwakfu.com/builder/416c3",
+    "keywords": ["Opti"],
+    "class": "Osamodas",
+    "description": "",
+    "tranche": 110
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
