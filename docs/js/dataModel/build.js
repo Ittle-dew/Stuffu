@@ -516,6 +516,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 140
   }
+,
+  "Eliotrope DPT [MELEE ZONE] 155 OPTI": {
+    "image": "assets/builds/Eliotrope DPT [MELEE ZONE] 155 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/zlpbw",
+    "keywords": ["Opti"],
+    "class": "Eliotrope",
+    "description": "Avec ce build, il faut utiliser 2 pa avec Pulsation pour SOIN un allié pour proc lunatique 2 pour le tours d'après !",
+    "tranche": 155
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
