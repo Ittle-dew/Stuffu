@@ -200,6 +200,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 110
   }
+,
+  "Feca SUPPORT [ABANDON] 110": {
+    "image": "assets/builds/Feca SUPPORT [ABANDON] 110.png",
+    "url": "https://www.zenithwakfu.com/builder/f9a4d",
+    "keywords": ["Opti"],
+    "class": "Feca",
+    "description": "Nécessite de viser les 84% de parade pour le combo PAISIBLE !",
+    "tranche": 110
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
