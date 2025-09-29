@@ -147,6 +147,15 @@ const BUILD_DATA = {
       "tranche": 110
     }
   ,
+
+  "Sadida SUPPORT [Soin] 110": {
+    "image": "assets/builds/Sadida SUPPORT [Soin] 110.png",
+    "url": "https://www.zenithwakfu.com/builder/91980",
+    "keywords": ["Mid Cost"],
+    "class": "Sadida",
+    "description": "",
+    "tranche": 110
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
