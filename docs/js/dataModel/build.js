@@ -165,6 +165,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 110
   }
+,
+  "Sacrieur DPT [MELEE BERSERK] 110": {
+    "image": "assets/builds/Sacrieur DPT [MELEE BERSERK] 110.png",
+    "url": "https://www.zenithwakfu.com/builder/62edf",
+    "keywords": ["Low Cost"],
+    "class": "Sacrieur",
+    "description": "",
+    "tranche": 110
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
