@@ -390,8 +390,8 @@ const BUILD_DATA = {
       "tranche": 140
     }
   ,
-    "Eniripsa SUPP [DISTANCE SOIN] Mid Cost": {
-      "image": "assets/builds/Eniripsa SUPP [DISTANCE SOIN] Mid Cost.png",
+    "Eniripsa SUPP [DISTANCE SOIN] 140 Mid Cost": {
+      "image": "assets/builds/Eniripsa SUPP 140 [DISTANCE SOIN] Mid Cost.png",
       "url": "https://www.zenithwakfu.com/builder/86164",
       "keywords": ["Mid Cost"],
       "class": "Eniripsa",
@@ -499,8 +499,8 @@ const BUILD_DATA = {
     "tranche": 140
   }
 ,
-  "Roublard DPT [DIRECT ET BOMBE] LOWCOST": {
-    "image": "assets/builds/Roublard DPT [DIRECT ET BOMBE] LOWCOST.png",
+  "Roublard DPT [DIRECT ET BOMBE] 140 LOWCOST": {
+    "image": "assets/builds/Roublard DPT [DIRECT ET BOMBE] 140 LOWCOST.png",
     "url": "https://www.zenithwakfu.com/builder/sfyxr",
     "keywords": ["Low Cost"],
     "class": "Roublard",
@@ -643,8 +643,8 @@ const BUILD_DATA = {
     "tranche": 155
   }
 ,
-  "Eniripsa SUPPORT [SOIN] OPTI": {
-    "image": "assets/builds/Eniripsa SUPPORT [SOIN] OPTI.png",
+  "Eniripsa SUPPORT [SOIN] 155 OPTI": {
+    "image": "assets/builds/Eniripsa SUPPORT [SOIN] 155 OPTI.png",
     "url": "https://www.zenithwakfu.com/builder/4e142",
     "keywords": ["Opti"],
     "class": "Eniripsa",
