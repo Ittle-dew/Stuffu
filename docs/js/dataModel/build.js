@@ -525,6 +525,15 @@ const BUILD_DATA = {
     "description": "Avec ce build, il faut utiliser 2 pa avec Pulsation pour SOIN un allié pour proc lunatique 2 pour le tours d'après !",
     "tranche": 155
   }
+,
+  "Huppermage DPT [DISTANCE] 155 OPTI": {
+    "image": "assets/builds/Huppermage DPT [DISTANCE] 155 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/qnf16",
+    "keywords": ["Opti"],
+    "class": "Huppermage",
+    "description": "",
+    "tranche": 155
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
