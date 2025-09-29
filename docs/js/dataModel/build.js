@@ -724,6 +724,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 155
   }
+,
+  "Huppermage DPT [CONSTANT] 155 Opti": {
+    "image": "assets/builds/Huppermage DPT [CONSTANT] 155 Opti.png",
+    "url": "https://www.zenithwakfu.com/builder/abb7b",
+    "keywords": ["Opti"],
+    "class": "Huppermage",
+    "description": "Coeur Terre à privilégier mais peut se jouer avec tous les Coeurs.",
+    "tranche": 155
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
