@@ -579,6 +579,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 155
   }
+,
+  "Ouginak DPT [OFFTANK POISON] 155 Low Cost": {
+    "image": "assets/builds/Ouginak DPT [OFFTANK POISON] 155 Low Cost.png",
+    "url": "https://zenithwakfu.com/builder/c4870",
+    "keywords": ["Low Cost"],
+    "class": "Ouginak",
+    "description": "",
+    "tranche": 155
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
