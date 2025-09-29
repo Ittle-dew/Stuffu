@@ -212,6 +212,15 @@ const BUILD_DATA = {
 "description": "",
 "tranche": 110
 }
+,
+  "Osa SUPPORT [ARMURE] Low cost": {
+    "image": "assets/builds/Osa SUPPORT [ARMURE] Low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/0463f",
+    "keywords": ["Low Cost"],
+    "class": "Osamodas",
+    "description": "",
+    "tranche": 110
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
