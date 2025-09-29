@@ -651,6 +651,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 155
   }
+,
+  "Feca SUPPORT [ABANDON] 155 OPTI": {
+    "image": "assets/builds/Feca SUPPORT [ABANDON] 155 OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/73e26",
+    "keywords": ["Opti"],
+    "class": "Feca",
+    "description": "",
+    "tranche": 155
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
