@@ -298,6 +298,15 @@ const BUILD_DATA = {
     "description": "En familier vraiment mettez ce qui vous passe sous la main, ce n'est pas obligatoire ! Les sublis ne sont pas obligatoires, c'est du bonus si vous pouvez car elles ne coûtent vraiment rien. Améliorable selon votre budget et prix : [Epaulettes Prespic] et [Ceinture Pagne du Grand Orrok]",
     "tranche": 80
   }
+,
+  "Osamodas SUPPORT [RETRAIT RES ET ARMURE] 125 Mid-Cost": {
+    "image": "assets/builds/Osamodas SUPPORT [RETRAIT RES ET ARMURE] 125 Mid-Cost.png",
+    "url": "https://www.zenithwakfu.com/builder/d7bdd",
+    "keywords": ["Mid Cost"],
+    "class": "Osamodas",
+    "description": "",
+    "tranche": 125
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
