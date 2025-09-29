@@ -40,7 +40,7 @@ const BUILD_DATA = {
             }
           ,
             "Enutrof SUPPORT [ABANDON] 245 Opti": {
-              "image": "assets/builds/Enutrof SUPPORT [ABANDON] 245 Opti".png",
+              "image": "assets/builds/Enutrof SUPPORT [ABANDON] 245 Opti.png",
               "url": "https://zenithwakfu.com/builder/ctzuw",
               "keywords": ["Opti"],
               "class": "Enutrof",
@@ -157,7 +157,7 @@ const BUILD_DATA = {
   }
 ,
   "Eniripsa SUPPORT [SOIN] 110 Low Cost": {
-  "image": "assets/builds/Eniripsa SUPPORT [SOIN] 110 Low Cost0.png",
+  "image": "assets/builds/Eniripsa SUPPORT [SOIN] 110 Low Cost.png",
   "url": "https://www.zenithwakfu.com/builder/c86e0",
   "keywords": ["Low Cost"],
   "class": "Eniripsa",
