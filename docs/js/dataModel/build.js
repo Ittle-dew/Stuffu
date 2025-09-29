@@ -316,6 +316,15 @@ const BUILD_DATA = {
     "description": "Gameplay PUCIF avec Revigoration !",
     "tranche": 125
   }
+,
+  "Eniripsa SUPPORT [SOIN] 125 low cost": {
+    "image": "assets/builds/Eniripsa SUPPORT [SOIN] 125 low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/8311f",
+    "keywords": ["Low Cost"],
+    "class": "Eniripsa",
+    "description": "",
+    "tranche": 125
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
