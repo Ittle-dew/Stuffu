@@ -88,6 +88,15 @@ const BUILD_DATA = {
     "description": "Gameplay autours de Distribution maxant l'amure et le soin réalisé ! ",
     "tranche": 245
   }
+,
+  "Ouginak DPT [Direct]": {
+    "image": "assets/builds/Ouginak DPT [Direct].png",
+    "url": "https://zenithwakfu.com/builder/p55fd",
+    "keywords": ["Opti"],
+    "class": "Ouginak",
+    "description": "Gameplay DPT Direct axé sur la prise du DOS et principalement monocible !",
+    "tranche": 245
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
