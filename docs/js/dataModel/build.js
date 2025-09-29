@@ -729,6 +729,19 @@ const BUILD_DATA = {
         "tranche": 155
       }
   ,
+
+  "Build Test": {
+    "image": "assets/builds/Build Test.png",
+    "url": "https://zenithwakfu.com/builder/tp0dk",
+    "keywords": ["Mid Cost"],
+    "class": "Feca",
+    "description": "dESCRIPTION
+  Sur
+  plusieurs 
+  lignes
+  ",
+    "tranche": 20
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
