@@ -706,6 +706,15 @@ const BUILD_DATA = {
     "description": "A noter que le build a 1po pour le zobal et pas pour le double, l'abandon donnant son bonus après que le maniement bouclier n'aie fixé la po à 0.",
     "tranche": 155
   }
+,
+  "Cra DPT [TRI ELEMENT] 155 OPTI": {
+    "image": "assets/builds/Cra DPT [TRI ELEMENT] 155 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/sasgx",
+    "keywords": ["Opti"],
+    "class": "Cra",
+    "description": "",
+    "tranche": 155
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
