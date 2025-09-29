@@ -406,6 +406,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 140
   }
+,
+  "Ouginak DPT [MELEE ENFLA] 140 Mid cost": {
+    "image": "assets/builds/Ouginak DPT [MELEE ENFLA] 140 Mid cost.png",
+    "url": "https://zenithwakfu.com/builder/jzd2v",
+    "keywords": ["Mid Cost"],
+    "class": "Ouginak",
+    "description": "",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
