@@ -361,6 +361,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 140
   }
+,
+  "Cra DPT [TRI ELEMENT] 140 Mid cost": {
+    "image": "assets/builds/Cra DPT [TRI ELEMENT] 140 Mid cost.png",
+    "url": "https://zenithwakfu.com/builder/z5jn5",
+    "keywords": ["Mid Cost"],
+    "class": "Cra",
+    "description": "",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
