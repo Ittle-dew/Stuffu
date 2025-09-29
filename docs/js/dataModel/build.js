@@ -1,4 +1,4 @@
-const CLASS_LIST = {
+Rconst CLASS_LIST = {
     "fr": [ 
         "Feca", "Osamodas", "Enutrof", "Sram", 
         "Xelor", "Ecaflip", "Eniripsa", "Iop", 
@@ -148,7 +148,7 @@ const BUILD_DATA = {
     }
   ,
 
-  "Sadida SUPPORT [Soin] 110": {
+  "Sadida SUPPORT [SOIN] 110": {
     "image": "assets/builds/Sadida SUPPORT [Soin] 110.png",
     "url": "https://www.zenithwakfu.com/builder/91980",
     "keywords": ["Mid Cost"],
