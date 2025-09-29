@@ -424,6 +424,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 140
   }
+,
+  "Xelor DPT [FEU EAU] 140 OPTI": {
+    "image": "assets/builds/Xelor DPT [FEU EAU] 140 OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/iac9e",
+    "keywords": ["Opti"],
+    "class": "Xelor",
+    "description": "",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
