@@ -95,7 +95,7 @@ const BUILD_DATA = {
     "url": "https://zenithwakfu.com/builder/0ruzb",
     "keywords": ["Mid Cost"],
     "class": "Ouginak",
-    "description": "Croc futé convertie auto la parade en CC quand tu es en ougi garou, donc avec ce build vous avez 94%cc dès que vous êtes transformé. 
+    "description": "Croc futé convertie auto la parade en CC quand tu es en ougi garou donc avec ce build vous avez 94%cc dès que vous êtes transformé. 
   J'ai mis des sauvegardes car régulierement elles sont en dessous des 500.000/u",
     "tranche": 110
   },
