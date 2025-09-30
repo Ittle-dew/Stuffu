@@ -1515,6 +1515,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Zobal SUPPORT [SOIN PLACEUR] 200 Opti": {
+    "image": "assets/builds/Zobal SUPPORT [SOIN PLACEUR] 200 Opti.png",
+    "url": "https://www.zenithwakfu.com/builder/c8d62",
+    "keywords": ["Opti"],
+    "class": "Zobal",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
