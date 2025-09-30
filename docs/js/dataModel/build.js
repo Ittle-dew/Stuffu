@@ -1479,6 +1479,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Roublard DPT [Direct ET Bombes] 200 OPTI": {
+    "image": "assets/builds/Roublard DPT [Direct ET Bombes] 200 OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/fvfbg",
+    "keywords": ["Opti"],
+    "class": "Roublard",
+    "description": "Vous pouvez mettre une dague Erreotype si vous préferez avoir 6 PW (bien que 5 puissent suffir pour maximiser la puissance brute avant un burst ou une explosion si vous êtres très à l'aise sur la gestion de vos PW en combat). Pour rester hybride Vous pouvez jouer aussi Excès I, calibrage, à votre convenance ! ",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
