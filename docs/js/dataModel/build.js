@@ -1227,6 +1227,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Sram DPT [MELEE] 200 Low cost": {
+    "image": "assets/builds/Sram DPT [MELEE] 200 Low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/ea84c",
+    "keywords": ["Low Cost"],
+    "class": "Sram",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
