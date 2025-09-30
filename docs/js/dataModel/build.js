@@ -1578,6 +1578,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Elio DPT [DISTANCE] 200 Mid cost": {
+    "image": "assets/builds/Elio DPT [DISTANCE] 200 Mid cost.png",
+    "url": "https://zenithwakfu.com/builder/1vybz",
+    "keywords": ["Mid Cost"],
+    "class": "Eliotrope",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
