@@ -1488,6 +1488,15 @@ const BUILD_DATA = {
     "description": "Vous pouvez mettre une dague Erreotype si vous préferez avoir 6 PW (bien que 5 puissent suffir pour maximiser la puissance brute avant un burst ou une explosion si vous êtres très à l'aise sur la gestion de vos PW en combat). Pour rester hybride Vous pouvez jouer aussi Excès I, calibrage, à votre convenance ! ",
     "tranche": 200
   }
+,
+  "Roublard DPT [Direct ET Bombes] 200 LOWCOST": {
+    "image": "assets/builds/Roublard DPT [Direct ET Bombes] 200 LOWCOST.png",
+    "url": "https://zenithwakfu.com/builder/hbprf",
+    "keywords": ["Low Cost"],
+    "class": "Roublard",
+    "description": "Les chasses vertes sur la ceinture sont envisageables aussi. La maîtrise dos est bien même si moins générique. Mais surtout cela permet de switch pour des résistances feu (importantes en 200).",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
