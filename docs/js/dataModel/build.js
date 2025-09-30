@@ -876,6 +876,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 170
   }
+,
+  "Cra DPT [TRI ELEMENT] 170 OPTI": {
+    "image": "assets/builds/Cra DPT [TRI ELEMENT] 170 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/8bnrb",
+    "keywords": ["Opti"],
+    "class": "Cra",
+    "description": "",
+    "tranche": 170
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
