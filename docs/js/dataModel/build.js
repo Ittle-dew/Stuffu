@@ -1281,6 +1281,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Xelor DPT [DISTANCE] 200 Ultra Opti": {
+    "image": "assets/builds/Xelor DPT [DISTANCE] 200 Ultra Opti.png",
+    "url": "https://www.zenithwakfu.com/builder/5bde9",
+    "keywords": ["Opti"],
+    "class": "Xelor",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
