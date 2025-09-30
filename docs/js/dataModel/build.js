@@ -848,6 +848,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 170
   }
+,
+  "Sadida SUPPORT [SOIN ARMURE] 170 Low Cost": {
+    "image": "assets/builds/Sadida SUPPORT [SOIN ARMURE] 170 Low Cost.png",
+    "url": "https://zenithwakfu.com/builder/aacfc",
+    "keywords": ["Low Cost"],
+    "class": "Sadida",
+    "description": "",
+    "tranche": 170
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
