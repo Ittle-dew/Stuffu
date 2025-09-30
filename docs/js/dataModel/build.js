@@ -1510,7 +1510,7 @@ const BUILD_DATA = {
   "Zobal SUPPORT [SOIN PLACEUR] 200 Low cost": {
     "image": "assets/builds/Zobal SUPPORT [SOIN PLACEUR] 200 Low cost.png",
     "url": "https://www.zenithwakfu.com/builder/7629c",
-    "keywords": ["Opti"],
+    "keywords": ["Low Cost"],
     "class": "Zobal",
     "description": "",
     "tranche": 200
