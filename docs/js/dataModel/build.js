@@ -1379,6 +1379,15 @@ const BUILD_DATA = {
     "description": "Le stuff est marqué en 14 pa, et dit donc que la Ceinture est \"Pas valide\", mais hors combat vous êtes en 11/8 et donc ça marche. 2 Pa de M2M et 1 Pa de Force Vitale!",
     "tranche": 200
   }
+,
+  "Cra DPT [DEMESURE] 200 OPTI": {
+    "image": "assets/builds/Cra DPT [DEMESURE] 200 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/wmzts",
+    "keywords": ["Opti"],
+    "class": "Cra",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
