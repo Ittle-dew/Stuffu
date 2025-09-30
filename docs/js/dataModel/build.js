@@ -1361,7 +1361,16 @@ const BUILD_DATA = {
   "class": "Iop",
   "description": "",
   "tranche": 200
-},};
+},
+  "Iop DPT [FEU TERRE] 200 Mid Cost": {
+    "image": "assets/builds/Iop DPT [FEU TERRE] 200 Mid Cost.png",
+    "url": "https://zenithwakfu.com/builder/475lu",
+    "keywords": ["Mid Cost"],
+    "class": "Iop",
+    "description": "",
+    "tranche": 200
+  }
+};
 
 export { BUILD_DATA, CLASS_LIST };
 
