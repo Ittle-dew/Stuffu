@@ -1569,6 +1569,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Elio DPT [DISTANCE TRI ELEMENT] 200 OPTI": {
+    "image": "assets/builds/Elio DPT [DISTANCE TRI ELEMENT] 200 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/6cgxn",
+    "keywords": ["Opti"],
+    "class": "Eliotrope",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
