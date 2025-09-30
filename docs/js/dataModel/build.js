@@ -727,6 +727,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 140
   }
+,
+  "Roublard DPT [DIRECT ET BOMBE] 140 LOWCOST": {
+    "image": "assets/builds/Roublard DPT [DIRECT ET BOMBE] 140 LOWCOST.png",
+    "url": "https://www.zenithwakfu.com/builder/sfyxr",
+    "keywords": ["Low Cost"],
+    "class": "Roublard",
+    "description": "Volontairement pas de maîtrise dos dans le choix des items car 2 Boss 140 ne sont pas attaquables de dos: Potofeu/Chêne Mou. Influence Paradoxale 1/2 est un bon compromis lowcost et jouer Influence du Wakfu I x 2 est une meilleure option mais ça peut être assez cher selon le marché",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
