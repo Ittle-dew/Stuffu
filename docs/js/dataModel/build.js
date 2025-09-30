@@ -1110,6 +1110,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Osamodas SUPPORT [RETRAIT RES BOOST] 200 Mid-Cost": {
+    "image": "assets/builds/Osamodas SUPPORT [RETRAIT RES BOOST] 200 Mid-Cost.png",
+    "url": "https://zenithwakfu.com/builder/0992a",
+    "keywords": ["Mid Cost"],
+    "class": "Osamodas",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
