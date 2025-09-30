@@ -1461,6 +1461,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Pandawa SUPPORT [PLACEUR] 200 Low Cost": {
+    "image": "assets/builds/Pandawa SUPPORT [PLACEUR] 200 Low Cost.png",
+    "url": "https://www.zenithwakfu.com/builder/452db",
+    "keywords": ["Low Cost"],
+    "class": "Pandawa",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
