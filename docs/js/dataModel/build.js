@@ -1029,6 +1029,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 185
   }
+,
+  "Feca SUPPORT [ARMURE] 185 Opti": {
+    "image": "assets/builds/Feca SUPPORT [ARMURE] 185 Opti.png",
+    "url": "https://zenithwakfu.com/builder/5mfb6",
+    "keywords": ["Opti"],
+    "class": "Feca",
+    "description": "",
+    "tranche": 185
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
