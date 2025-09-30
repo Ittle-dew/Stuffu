@@ -1370,6 +1370,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Iop DPT [FEU TERRE] 200 OPTI": {
+    "image": "assets/builds/Iop DPT [FEU TERRE] 200 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/jnhfm",
+    "keywords": ["Opti"],
+    "class": "Iop",
+    "description": "Le stuff est marqué en 14 pa, et dit donc que la Ceinture est \"Pas valide\", mais hors combat vous êtes en 11/8 et donc ça marche. 2 Pa de M2M et 1 Pa de Force Vitale!",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
