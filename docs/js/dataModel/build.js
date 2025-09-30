@@ -1002,6 +1002,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 185
   }
+,
+  "Sadi SUPPORT [SOIN ARMURE] 185 OPTI": {
+    "image": "assets/builds/Sadi SUPPORT [SOIN ARMURE] 185 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/539b2",
+    "keywords": ["Opti"],
+    "class": "Sadida",
+    "description": "",
+    "tranche": 185
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
