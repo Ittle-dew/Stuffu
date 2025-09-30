@@ -948,6 +948,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 170
   }
+,
+  "Eni SUPPORT [SOIN] 170 Mid Cost": {
+    "image": "assets/builds/Eni SUPPORT [SOIN] 170 Mid Cost.png",
+    "url": "https://www.zenithwakfu.com/builder/6ae6e",
+    "keywords": ["Mid Cost"],
+    "class": "Eniripsa",
+    "description": "",
+    "tranche": 170
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
