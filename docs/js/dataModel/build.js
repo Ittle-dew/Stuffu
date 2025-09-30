@@ -1119,6 +1119,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Osamodas SUPPORT [RETRAIT RES BOOST] 200 OPTI": {
+    "image": "assets/builds/Osamodas SUPPORT [RETRAIT RES BOOST] 200 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/da16a",
+    "keywords": ["Opti"],
+    "class": "Osamodas",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
