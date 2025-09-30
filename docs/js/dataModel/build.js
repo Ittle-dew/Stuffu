@@ -1407,6 +1407,15 @@ const BUILD_DATA = {
       "description": "",
       "tranche": 200
     }
+,
+  "Sadida DPT [POISON POUPEE] 200 OPTI": {
+    "image": "assets/builds/Sadida DPT [POISON POUPEE] 200 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/be44c",
+    "keywords": ["Opti"],
+    "class": "Sadida",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
