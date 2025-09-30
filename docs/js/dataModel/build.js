@@ -894,6 +894,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 170
   }
+,
+  "Sram DPT [MELEE DOS] 170 Opti": {
+    "image": "assets/builds/Sram DPT [MELEE DOS] 170 Opti.png",
+    "url": "https://www.zenithwakfu.com/builder/63e34",
+    "keywords": ["Opti"],
+    "class": "Sram",
+    "description": "",
+    "tranche": 170
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
