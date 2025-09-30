@@ -1218,6 +1218,15 @@ const BUILD_DATA = {
     "description": "Vous pouvez changer Engagement par Pacte Wakfu si vous voulez plus de volonté et un peu osef sur les soin !",
     "tranche": 200
   }
+,
+  "Sram DPT [MELEE] 200 OPTI": {
+    "image": "assets/builds/Sram DPT [MELEE] 200 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/bmb46",
+    "keywords": ["Opti"],
+    "class": "Sram",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
