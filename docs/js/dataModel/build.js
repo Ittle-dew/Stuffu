@@ -859,14 +859,13 @@ const BUILD_DATA = {
   }
 ,
   "Enutrof DPT [MELEE] 170 OPTI": {
-    "image": "assets/builds/Enutrof DPT [MELEE] 170 OPTI.png",
-    "url": "https://www.zenithwakfu.com/builder/b6atm",
-    "keywords": ["Opti"],
-    "class": "Enutrof",
-    "description": "",
-    "tranche": 170
-  }
-};
+  "image": "assets/builds/Enutrof DPT [MELEE] 170 OPTI.png",
+  "url": "https://zenithwakfu.com/builder/ez0bj",
+  "keywords": ["Opti"],
+  "class": "Enutrof",
+  "description": "",
+  "tranche": 170
+},};
 
 export { BUILD_DATA, CLASS_LIST };
 
