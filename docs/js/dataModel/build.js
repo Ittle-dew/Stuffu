@@ -1524,6 +1524,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Zobal SUPPORT [PLACEUR TANKY] 200 Opti": {
+    "image": "assets/builds/Zobal SUPPORT [PLACEUR TANKY] 200 Opti.png",
+    "url": "https://www.zenithwakfu.com/builder/e2236",
+    "keywords": ["Opti"],
+    "class": "Zobal",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
