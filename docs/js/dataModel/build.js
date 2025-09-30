@@ -1533,6 +1533,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Ouginak DPT [DIRECT] 200 Opti": {
+    "image": "assets/builds/Ouginak DPT [DIRECT] 200 Opti.png",
+    "url": "https://zenithwakfu.com/builder/h5drc",
+    "keywords": ["Opti"],
+    "class": "Ouginak",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
