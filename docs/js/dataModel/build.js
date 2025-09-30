@@ -1065,6 +1065,15 @@ const BUILD_DATA = {
     "description": "le +12 pa ajouté c'est pour simuler le nombre de PA que vous avez tour pair => 12 + 2 [Dofus prisma] + 2 [Wé] + 3 [Sauvegarde] + 5 [ +2 goutte +3 bergé] = 24pa T2/T4 à condition d'utiliser goutte sur un allié + pacif dans le vide",
     "tranche": 200
   }
+,
+  "Feca SUPPORT [ARMURE] 200 OPTI": {
+    "image": "assets/builds/Feca SUPPORT [ARMURE] 200 OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/8aed4",
+    "keywords": ["Opti"],
+    "class": "Feca",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
