@@ -1155,6 +1155,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Enutrof HYBRIDE [SUPP DPT] 200 OPTI": {
+    "image": "assets/builds/Enutrof HYBRIDE [SUPP DPT] 200 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/orsas",
+    "keywords": ["Opti"],
+    "class": "Enutrof",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
