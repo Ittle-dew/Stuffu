@@ -785,6 +785,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 170
   }
+,
+  "Osamodas SUPPORT [ABANDON] 170 Mid cost": {
+    "image": "assets/builds/Osamodas SUPPORT [ABANDON] 170 Mid cost.png",
+    "url": "https://www.zenithwakfu.com/builder/535e7",
+    "keywords": ["Mid Cost"],
+    "class": "Osamodas",
+    "description": "",
+    "tranche": 170
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
