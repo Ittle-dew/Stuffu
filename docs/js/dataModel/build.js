@@ -1038,6 +1038,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 185
   }
+,
+  "Feca SUPPORT [ARMURE] 185 Mid cost": {
+    "image": "assets/builds/Feca SUPPORT [ARMURE] 185 Mid cost.png",
+    "url": "https://zenithwakfu.com/builder/ae59e",
+    "keywords": ["Mid Cost"],
+    "class": "Feca",
+    "description": "",
+    "tranche": 185
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
