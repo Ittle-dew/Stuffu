@@ -1047,6 +1047,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 185
   }
+,
+  "Sacrieur DPT [MELEE] 185 OPTI": {
+    "image": "assets/builds/Sacrieur DPT [MELEE] 185 OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/fe6b5",
+    "keywords": ["Opti"],
+    "class": "Sacrieur",
+    "description": "",
+    "tranche": 185
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
