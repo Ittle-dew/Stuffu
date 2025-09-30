@@ -1587,6 +1587,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Elio DPT [DISTANCE] 200 Low cost": {
+    "image": "assets/builds/Elio DPT [DISTANCE] 200 Low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/debfd",
+    "keywords": ["Low Cost"],
+    "class": "Eliotrope",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
