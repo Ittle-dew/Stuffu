@@ -723,6 +723,15 @@ const BUILD_DATA = {
             "tranche": 155
           }
       ,
+
+  "Enutrof SUPPORT [NO SECONDAIRE] 110 Low cost": {
+    "image": "assets/builds/Enutrof SUPPORT [NO SECONDAIRE] 110 Low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/cd686",
+    "keywords": ["Low Cost"],
+    "class": "Enutrof",
+    "description": "Pret pour recevoir des subli type \"abandon\"",
+    "tranche": 110
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
