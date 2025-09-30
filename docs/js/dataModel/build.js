@@ -1254,6 +1254,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Xelor DPT [DISTANCE] 200 Mid cost": {
+    "image": "assets/builds/Xelor DPT [DISTANCE] 200 Mid cost.png",
+    "url": "https://www.zenithwakfu.com/builder/h2yd1",
+    "keywords": ["Mid Cost"],
+    "class": "Xelor",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
