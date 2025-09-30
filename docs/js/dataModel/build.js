@@ -1551,6 +1551,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Steamer DPT [Distance] 200 OPTI": {
+    "image": "assets/builds/Steamer DPT [Distance] 200 OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/m6f9c",
+    "keywords": ["Opti"],
+    "class": "Steamer",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
