@@ -1020,6 +1020,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 185
   }
+,
+  "Iop DPT [FEU TERRE] OPTI": {
+    "image": "assets/builds/Iop DPT [FEU TERRE] OPTI.png",
+    "url": "https://zenithwakfu.com/builder/5mfb6",
+    "keywords": ["Opti"],
+    "class": "Iop",
+    "description": "",
+    "tranche": 185
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
