@@ -1290,6 +1290,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Xelor DPT [DISTANCE] 200 Low cost": {
+    "image": "assets/builds/Xelor DPT [DISTANCE] 200 Low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/e0570",
+    "keywords": ["Low Cost"],
+    "class": "Xelor",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
