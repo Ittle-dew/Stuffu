@@ -975,6 +975,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 170
   }
+,
+  "Feca SUPPORT [ARMURE] 170 Low Cost": {
+    "image": "assets/builds/Feca SUPPORT [ARMURE] 170 Low Cost.png",
+    "url": "https://www.zenithwakfu.com/builder/85cab",
+    "keywords": ["Low Cost"],
+    "class": "Feca",
+    "description": "",
+    "tranche": 170
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
