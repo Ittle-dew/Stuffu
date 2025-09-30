@@ -728,6 +728,15 @@ const BUILD_DATA = {
       "description": "Volontairement pas de maîtrise dos dans le choix des items car 2 Boss 140 ne sont pas attaquables de dos: Potofeu/Chêne Mou. Influence Paradoxale 1/2 est un bon compromis lowcost et jouer Influence du Wakfu I x 2 est une meilleure option mais ça peut être assez cher selon le marché",
       "tranche": 140
     }
+,
+  "Steamer DPT [DIRECT] 110 OPTI": {
+    "image": "assets/builds/Steamer DPT [DIRECT] 110 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/9jvjn",
+    "keywords": ["Opti"],
+    "class": "Steamer",
+    "description": "",
+    "tranche": 110
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
