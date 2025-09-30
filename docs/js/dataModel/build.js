@@ -1434,6 +1434,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Sacrieur DPT [MELEE ENFLA] 200 Opti": {
+    "image": "assets/builds/Sacrieur DPT [MELEE ENFLA] 200 Opti.png",
+    "url": "https://www.zenithwakfu.com/builder/1c860",
+    "keywords": ["Opti"],
+    "class": "Sacrieur",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
