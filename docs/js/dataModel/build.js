@@ -1344,6 +1344,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Eniripsa SUPPORT [SOIN] 200 LOW COST": {
+    "image": "assets/builds/Eniripsa SUPPORT [SOIN] 200 LOW COST.png",
+    "url": "https://www.zenithwakfu.com/builder/e60ab",
+    "keywords": ["Low Cost"],
+    "class": "Eniripsa",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
