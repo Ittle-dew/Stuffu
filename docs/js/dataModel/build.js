@@ -1263,6 +1263,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Xelor DPT [DISTANCE] 200 OPTI": {
+    "image": "assets/builds/Xelor DPT [DISTANCE] 200 OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/vlp2d",
+    "keywords": ["Opti"],
+    "class": "Xelor",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
