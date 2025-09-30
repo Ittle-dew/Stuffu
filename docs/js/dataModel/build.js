@@ -1335,6 +1335,15 @@ const BUILD_DATA = {
     "description": "Eni opti 4 po > 7po via sentinelle",
     "tranche": 200
   }
+,
+  "Eniripsa SUPPORT [SOIN] 200 MID COST": {
+    "image": "assets/builds/Eniripsa SUPPORT [SOIN] 200 MID COST.png",
+    "url": "https://www.zenithwakfu.com/builder/361rq",
+    "keywords": ["Mid Cost"],
+    "class": "Eniripsa",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
