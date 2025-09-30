@@ -1032,7 +1032,7 @@ const BUILD_DATA = {
 ,
   "Feca SUPPORT [ARMURE] 185 Opti": {
     "image": "assets/builds/Feca SUPPORT [ARMURE] 185 Opti.png",
-    "url": "https://zenithwakfu.com/builder/5mfb6",
+    "url": "https://zenithwakfu.com/builder/9a438",
     "keywords": ["Opti"],
     "class": "Feca",
     "description": "",
