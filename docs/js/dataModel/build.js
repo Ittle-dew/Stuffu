@@ -1317,6 +1317,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Ecaflip SUPP [SOIN] 200 Low cost": {
+    "image": "assets/builds/Ecaflip SUPP [SOIN] 200 Low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/046fa",
+    "keywords": ["Opti"],
+    "class": "Ecaflip",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
