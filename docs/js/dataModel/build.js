@@ -1452,6 +1452,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Pandawa SUPPORT [PLACEUR] 200 OPTI": {
+    "image": "assets/builds/Pandawa SUPPORT [PLACEUR] 200 OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/8e6d2",
+    "keywords": ["Opti"],
+    "class": "Pandawa",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
