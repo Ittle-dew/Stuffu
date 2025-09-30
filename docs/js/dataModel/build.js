@@ -966,6 +966,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 170
   }
+,
+  "Ecaflip DPT [ELEMENTAIRE] 170 Opti": {
+    "image": "assets/builds/Ecaflip DPT [ELEMENTAIRE] 170 Opti.png",
+    "url": "https://www.zenithwakfu.com/builder/336de",
+    "keywords": ["Opti"],
+    "class": "Ecaflip",
+    "description": "",
+    "tranche": 170
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
