@@ -921,6 +921,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 170
   }
+,
+  "Eliotrope DPT [MELEE] 170 Low cost": {
+    "image": "assets/builds/Eliotrope DPT [MELEE] 170 Low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/478d8",
+    "keywords": ["Low Cost"],
+    "class": "Eliotrope",
+    "description": "",
+    "tranche": 170
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
