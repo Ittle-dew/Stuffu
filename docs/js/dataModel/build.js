@@ -746,6 +746,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 170
   }
+,
+  "Steamer SUPP [ARMURE] Low cost": {
+    "image": "assets/builds/Steamer SUPP [ARMURE] Low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/0ktin",
+    "keywords": ["Low Cost"],
+    "class": "Steamer",
+    "description": "",
+    "tranche": 170
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
