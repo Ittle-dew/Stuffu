@@ -803,6 +803,15 @@ const BUILD_DATA = {
     "description": "Il y a moyen de marginalement l'améliorer, et que certains items peuvent être préférés à d'autres si on privilégie certaines stats au détriment d'autres (Coiffe de Javého par exemple pour gagner 1PO de plus en échange d'un peu d'armure donnée)",
     "tranche": 170
   }
+,
+  "Zobal SUPP [SOIN] 170 mid cost": {
+    "image": "assets/builds/Zobal SUPP [SOIN] 170 mid cost.png",
+    "url": "https://zenithwakfu.com/builder/d4d71",
+    "keywords": ["Mid Cost"],
+    "class": "Zobal",
+    "description": "",
+    "tranche": 170
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
