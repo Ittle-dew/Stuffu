@@ -1272,6 +1272,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Xelor SUPPORT [PLACEUR BOOST PA] OPTI": {
+    "image": "assets/builds/Xelor SUPPORT [PLACEUR BOOST PA] OPTI.png",
+    "url": "https://zenithwakfu.com/builder/542c8",
+    "keywords": ["Opti"],
+    "class": "Xelor",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
