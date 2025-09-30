@@ -993,6 +993,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 185
   }
+,
+  "Pandawa SUPP [PLACEUR] 185 opti": {
+    "image": "assets/builds/Pandawa SUPP [PLACEUR] 185 opti.png",
+    "url": "https://zenithwakfu.com/builder/1dd7a",
+    "keywords": ["Opti"],
+    "class": "Pandawa",
+    "description": "",
+    "tranche": 185
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
