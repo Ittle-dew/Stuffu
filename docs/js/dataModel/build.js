@@ -1614,6 +1614,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Huppermage DPT [MELEE] 200 OPTI": {
+    "image": "assets/builds/Huppermage DPT [MELEE] 200 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/4ef47",
+    "keywords": ["Opti"],
+    "class": "Huppermage",
+    "description": "Hupper principalement maîtrise elem avec un peu de mêlée/crit, le but est d'avoir 100% CC tout seul et de se jouer avec le gameplay Constant Terre, via les Passifs Extensions des Sens et Transcendance Runique",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
