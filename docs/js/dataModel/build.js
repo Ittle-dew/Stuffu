@@ -1542,6 +1542,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Ouginak DPT [DIRECT] 200 Opti Sans CDO": {
+    "image": "assets/builds/Ouginak DPT [DIRECT] 200 Opti Sans CDO.png",
+    "url": "https://zenithwakfu.com/builder/tgmnw",
+    "keywords": ["Opti"],
+    "class": "Ouginak",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
