@@ -1326,6 +1326,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Eniripsa SUPPORT [SOIN] 200 OPTI": {
+    "image": "assets/builds/Eniripsa SUPPORT [SOIN] 200 OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/dvbua",
+    "keywords": ["Opti"],
+    "class": "Eniripsa",
+    "description": "Eni opti 4 po > 7po via sentinelle",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
