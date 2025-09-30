@@ -1470,6 +1470,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Roublard DPT [Direct ET Bombes] 200 MID COST": {
+    "image": "assets/builds/Roublard DPT [Direct ET Bombes] 200 MID COST.png",
+    "url": "https://www.zenithwakfu.com/builder/gctwk",
+    "keywords": ["Mid Cost"],
+    "class": "Roublard",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
