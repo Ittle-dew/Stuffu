@@ -1128,6 +1128,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Osamodas DPT [INVOC ENFLA] 200 OPTI": {
+    "image": "assets/builds/Osamodas DPT [INVOC ENFLA] 200 OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/0deed",
+    "keywords": ["Opti"],
+    "class": "Osamodas",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
