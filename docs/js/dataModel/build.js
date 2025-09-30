@@ -1164,6 +1164,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Enutrof DPT [MELEE] 200 Mid-Cost": {
+    "image": "assets/builds/Enutrof DPT [MELEE] 200 Mid-Cost.png",
+    "url": "https://zenithwakfu.com/builder/6213c",
+    "keywords": ["Mid Cost"],
+    "class": "Enutrof",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
