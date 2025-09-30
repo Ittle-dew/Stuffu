@@ -1,17 +1,17 @@
 const CLASS_LIST = {
-    "fr": [ 
-        "Feca", "Osamodas", "Enutrof", "Sram", 
-        "Xelor", "Ecaflip", "Eniripsa", "Iop", 
-        "Cra", "Sadida", "Sacrieur", "Pandawa", 
-        "Roublard", "Zobal", "Ouginak", "Steamer",
-        "Eliotrope", "Huppermage"
+    "fr": [
+        "Cra", "Ecaflip", "Eliotrope", "Eniripsa",
+        "Enutrof", "Feca", "Huppermage", "Iop",
+        "Osamodas", "Ouginak", "Pandawa", "Roublard",
+        "Sacrieur", "Sadida", "Sram", "Steamer",
+        "Xelor", "Zobal"
     ], 
-    "en": [ 
-        "Feca", "Osamodas", "Enutrof", "Sram", 
-        "Xelor", "Ecaflip", "Eniripsa", "Iop", 
-        "Cra", "Sadida", "Sacrier", "Pandawa", 
-        "Rogue", "Masqueraider", "Ouginak", "Foggernaut",
-        "Eliotrope", "Huppermage"
+    "en": [
+        "Cra", "Ecaflip", "Eliotrope", "Eniripsa",
+        "Enutrof", "Feca", "Foggernaut", "Huppermage",
+        "Iop", "Masqueraider", "Osamodas", "Ouginak",
+        "Pandawa", "Rogue", "Sacrier", "Sadida",
+        "Sram", "Xelor"
     ],
 };
 
