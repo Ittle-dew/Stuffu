@@ -1146,6 +1146,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Osamodas DPT [DRAGOSA] 200 OPTI": {
+    "image": "assets/builds/Osamodas DPT [DRAGOSA] 200 OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/3bc3f",
+    "keywords": ["Opti"],
+    "class": "Osamodas",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
