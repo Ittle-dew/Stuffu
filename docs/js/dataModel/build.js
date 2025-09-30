@@ -1443,6 +1443,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Sacrieur DPT [MELEE] 200 Low Cost": {
+    "image": "assets/builds/Sacrieur DPT [MELEE] 200 Low Cost.png",
+    "url": "https://www.zenithwakfu.com/builder/70ee0",
+    "keywords": ["Low Cost"],
+    "class": "Sacrieur",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
