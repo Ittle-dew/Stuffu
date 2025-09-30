@@ -930,6 +930,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 170
   }
+,
+  "Panda SUPPORT [PLACEUR] 170 Opti": {
+    "image": "assets/builds/Panda SUPPORT [PLACEUR] 170 Opti.png",
+    "url": "https://www.zenithwakfu.com/builder/d135c",
+    "keywords": ["Opti"],
+    "class": "Pandawa",
+    "description": "",
+    "tranche": 170
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
