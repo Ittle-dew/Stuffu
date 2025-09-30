@@ -1011,6 +1011,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 185
   }
+,
+  "Ouginak DPT [DIRECT] 185 OPTI": {
+    "image": "assets/builds/Ouginak DPT [DIRECT] 185 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/cw2cd",
+    "keywords": ["Opti"],
+    "class": "Ouginak",
+    "description": "",
+    "tranche": 185
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
