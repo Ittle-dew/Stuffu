@@ -957,6 +957,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 170
   }
+,
+  "Ecaflip DPT [DISTANCE] 170 low cost": {
+    "image": "assets/builds/Ecaflip DPT [DISTANCE] 170 low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/1fb74",
+    "keywords": ["Low Cost"],
+    "class": "Ecaflip",
+    "description": "",
+    "tranche": 170
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
