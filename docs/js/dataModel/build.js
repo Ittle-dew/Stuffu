@@ -724,6 +724,15 @@ const BUILD_DATA = {
       "description": "Pret pour recevoir des subli type \"abandon\"",
       "tranche": 110
     }
+,
+  "Eniripsa SUPPORT [SOIN DISTANCE] 140 Mid-Cost": {
+    "image": "assets/builds/Eniripsa SUPPORT [SOIN DISTANCE] 140 Mid-Cost.png",
+    "url": "https://www.zenithwakfu.com/builder/cd686",
+    "keywords": ["Mid Cost"],
+    "class": "Eniripsa",
+    "description": "",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
