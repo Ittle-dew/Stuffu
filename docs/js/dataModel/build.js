@@ -718,6 +718,15 @@ const BUILD_DATA = {
           "tranche": 110
         }
     ,
+
+  "Eniripsa SUPPORT [SOIN DISTANCE] 140 Mid-Cost": {
+    "image": "assets/builds/Eniripsa SUPPORT [SOIN DISTANCE] 140 Mid-Cost.png",
+    "url": "https://www.zenithwakfu.com/builder/86164",
+    "keywords": ["Mid Cost"],
+    "class": "Eniripsa",
+    "description": "",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
