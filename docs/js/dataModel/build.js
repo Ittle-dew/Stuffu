@@ -776,6 +776,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 170
   }
+,
+  "Osamodas SUPPORT [BOOST] 170 Low Cost": {
+    "image": "assets/builds/Osamodas SUPPORT [BOOST] 170 Low Cost.png",
+    "url": "https://www.zenithwakfu.com/builder/4077a",
+    "keywords": ["Low Cost"],
+    "class": "Osamodas",
+    "description": "",
+    "tranche": 170
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
