@@ -1074,6 +1074,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Feca SUPPORT [ARMURE TANKY] 200 OPTI": {
+    "image": "assets/builds/Feca SUPPORT [ARMURE TANKY] 200 OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/e1511",
+    "keywords": ["Opti"],
+    "class": "Feca",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
