@@ -1624,7 +1624,7 @@ const BUILD_DATA = {
     "tranche": 200
   }
 ,
-  "Huppermage DPT [NEUTRALITE] OPTI": {
+  "Huppermage DPT [NEUTRALITE] 200 OPTI": {
     "image": "assets/builds/Huppermage DPT [NEUTRALITE] OPTI.png",
     "url": "https://www.zenithwakfu.com/builder/b5e8b",
     "keywords": ["Opti"],
