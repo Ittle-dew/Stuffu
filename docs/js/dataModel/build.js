@@ -839,6 +839,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 170
   }
+,
+  "Sadida DPT [POUPEE POISON] 170 MID COST": {
+    "image": "assets/builds/Sadida DPT [POUPEE POISON] 170 MID COST.png",
+    "url": "https://zenithwakfu.com/builder/3c562",
+    "keywords": ["Mid Cost"],
+    "class": "Sadida",
+    "description": "",
+    "tranche": 170
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
