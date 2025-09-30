@@ -1497,6 +1497,15 @@ const BUILD_DATA = {
     "description": "Les chasses vertes sur la ceinture sont envisageables aussi. La maîtrise dos est bien même si moins générique. Mais surtout cela permet de switch pour des résistances feu (importantes en 200).",
     "tranche": 200
   }
+,
+  "Zobal DPT [MELEE COLISION] 200 OPTI": {
+    "image": "assets/builds/Zobal DPT [MELEE COLISION] 200 OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/144d1",
+    "keywords": ["Opti"],
+    "class": "Zobal",
+    "description": "Ne fonctionne pas/très mal sur tout les mobs/boss qui sont stabilisé (ou 3x3)",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
