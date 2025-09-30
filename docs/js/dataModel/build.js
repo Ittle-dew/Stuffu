@@ -1416,6 +1416,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Sadida HYBRIDE [POUPEE] 200 OPTI": {
+    "image": "assets/builds/Sadida HYBRIDE [POUPEE] 200 OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/bd806",
+    "keywords": ["Opti"],
+    "class": "Sadida",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
