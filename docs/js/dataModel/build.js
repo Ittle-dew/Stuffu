@@ -1506,6 +1506,15 @@ const BUILD_DATA = {
     "description": "Ne fonctionne pas/très mal sur tout les mobs/boss qui sont stabilisé (ou 3x3)",
     "tranche": 200
   }
+,
+  "Zobal SUPPORT [SOIN PLACEUR] 200 Low cost": {
+    "image": "assets/builds/Zobal SUPPORT [SOIN PLACEUR] 200 Low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/7629c",
+    "keywords": ["Opti"],
+    "class": "Zobal",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
