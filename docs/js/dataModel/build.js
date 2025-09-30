@@ -1209,6 +1209,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Enutrof SUPPORT [RETRAIT RES PM SOIN] 200 OPTI": {
+    "image": "assets/builds/Enutrof SUPPORT [RETRAIT RES PM SOIN] 200 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/52cd1",
+    "keywords": ["Opti"],
+    "class": "Enutrof",
+    "description": "Vous pouvez changer Engagement par Pacte Wakfu si vous voulez plus de volonté et un peu osef sur les soin !",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
