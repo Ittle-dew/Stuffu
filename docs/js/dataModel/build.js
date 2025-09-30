@@ -1596,6 +1596,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Huppermage DPT [MELEE] 200 Mid-Cost": {
+    "image": "assets/builds/Huppermage DPT [MELEE] 200 Mid-Cost.png",
+    "url": "https://zenithwakfu.com/builder/c8f01",
+    "keywords": ["Mid Cost"],
+    "class": "Huppermage",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
