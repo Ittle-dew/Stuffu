@@ -865,7 +865,16 @@ const BUILD_DATA = {
   "class": "Enutrof",
   "description": "",
   "tranche": 170
-},};
+},
+  "Iop DPT [FEU TERRE 170 OPTI": {
+    "image": "assets/builds/Iop DPT [FEU TERRE 170 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/ez0bj",
+    "keywords": ["Opti"],
+    "class": "Iop",
+    "description": "",
+    "tranche": 170
+  }
+};
 
 export { BUILD_DATA, CLASS_LIST };
 
