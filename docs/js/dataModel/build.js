@@ -794,6 +794,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 170
   }
+,
+  "Féca SUPPORT [ABANDON] 170 Opti": {
+    "image": "assets/builds/Féca SUPPORT [ABANDON] 170 Opti.png",
+    "url": "https://www.zenithwakfu.com/builder/ab147",
+    "keywords": ["Opti"],
+    "class": "Feca",
+    "description": "Il y a moyen de marginalement l'améliorer, et que certains items peuvent être préférés à d'autres si on privilégie certaines stats au détriment d'autres (Coiffe de Javého par exemple pour gagner 1PO de plus en échange d'un peu d'armure donnée)",
+    "tranche": 170
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
