@@ -1137,6 +1137,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Osamodas DPT [INVOC] 200 Low cost": {
+    "image": "assets/builds/Osamodas DPT [INVOC] 200 Low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/63145",
+    "keywords": ["Low Cost"],
+    "class": "Osamodas",
+    "description": "",
+    "tranche": 200
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
