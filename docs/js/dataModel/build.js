@@ -740,6 +740,15 @@ const BUILD_DATA = {
         "tranche": 110
       }
     ,
+
+  "Sacrieur SUPPORT [PLACEUR] 170 Low cost": {
+    "image": "assets/builds/Sacrieur SUPPORT [PLACEUR] 170 Low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/doiff",
+    "keywords": ["Low Cost"],
+    "class": "Sacrieur",
+    "description": "",
+    "tranche": 170
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
