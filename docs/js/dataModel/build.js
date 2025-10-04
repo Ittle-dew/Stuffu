@@ -1632,6 +1632,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 200
   }
+,
+  "Iop DPT [Terre Feu] 155 Mid cost": {
+    "image": "assets/builds/Iop DPT [Terre Feu] 155 Mid cost.png",
+    "url": "https://zenithwakfu.com/builder/wu8lt",
+    "keywords": ["Mid Cost"],
+    "class": "Iop",
+    "description": "Stuff principalement axé pour zoning avec Colère + Ravage. Prioriser les PP avec les 7pm pour avoir 24 di !",
+    "tranche": 155
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
