@@ -1705,6 +1705,15 @@ const BUILD_DATA = {
       "description": "",
       "tranche": 230
     }
+,
+  "Osamodas SUPPORT [ARMURE RETRAIT RES] 230 OPTI": {
+    "image": "assets/builds/Osamodas SUPPORT [ARMURE RETRAIT RES] 230 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/tlfqg",
+    "keywords": ["Opti"],
+    "class": "Osamodas",
+    "description": "",
+    "tranche": 230
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
