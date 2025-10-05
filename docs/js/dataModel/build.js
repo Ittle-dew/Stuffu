@@ -1650,6 +1650,15 @@ const BUILD_DATA = {
     "description": "Merci Shodan pour ce build ! ",
     "tranche": 155
   }
+,
+  "Ecaflip SUPP [SOIN BOOST] 215 OPTI": {
+    "image": "assets/builds/Ecaflip SUPP [SOIN BOOST] 215 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/b4c40",
+    "keywords": ["Opti"],
+    "class": "Ecaflip",
+    "description": "",
+    "tranche": 215
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
