@@ -1822,6 +1822,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 230
   }
+,
+  "Cra DPT [DEMESURE] 230 Mid Cost": {
+    "image": "assets/builds/Cra DPT [DEMESURE] 230 Mid Cost.png",
+    "url": "https://zenithwakfu.com/builder/zgatz",
+    "keywords": ["Mid Cost"],
+    "class": "Cra",
+    "description": "Investir dans \"Démesuré\" permet d'avoir facilement beaucoup de CC même en mid cost !",
+    "tranche": 230
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
