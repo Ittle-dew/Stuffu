@@ -1768,6 +1768,15 @@ const BUILD_DATA = {
     "description": "Gameplay ROUAGE ! Très compliqué à mettre en place, n'existe pas vraiment en Low Cost",
     "tranche": 230
   }
+,
+  "Xelor DPT [DISTANCE] 230 Low Cost": {
+    "image": "assets/builds/Xelor DPT [DISTANCE] 230 Low Cost.png",
+    "url": "https://zenithwakfu.com/builder/48768",
+    "keywords": ["Low Cost"],
+    "class": "Xelor",
+    "description": "",
+    "tranche": 230
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
