@@ -1732,6 +1732,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 230
   }
+,
+  "Enutrof SUPPORT [RETRAIT RES PM] 230 Mid Cost": {
+    "image": "assets/builds/Enutrof SUPPORT [RETRAIT RES PM] 230 Mid Cost.png",
+    "url": "https://zenithwakfu.com/builder/8331a",
+    "keywords": ["Mid Cost"],
+    "class": "Enutrof",
+    "description": "",
+    "tranche": 230
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
