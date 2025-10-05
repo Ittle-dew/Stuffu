@@ -1831,6 +1831,15 @@ const BUILD_DATA = {
     "description": "Investir dans \"Démesuré\" permet d'avoir facilement beaucoup de CC même en mid cost !",
     "tranche": 230
   }
+,
+  "Cra DPT [DISTANCE BERSERK] 230 OPTI": {
+    "image": "assets/builds/Cra DPT [DISTANCE BERSERK] 230 OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/63xpq",
+    "keywords": ["Mid Cost"],
+    "class": "Cra",
+    "description": "Profiter de \"Carapace Sanguine\" pour avoir du shield et perma -50% (Build test, fonctionnel mais pas essayé en situation)",
+    "tranche": 230
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
