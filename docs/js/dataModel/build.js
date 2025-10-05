@@ -1897,6 +1897,15 @@ const BUILD_DATA = {
     "description": "Ne fonctionne pas/Très mal sur les mobs/boss stab et 3X3",
     "tranche": 230
   }
+,
+  "Zobal SUPPORT [SOIN] 230 OPTI": {
+    "image": "assets/builds/Zobal SUPPORT [SOIN] 230 OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/7c111",
+    "keywords": ["Opti"],
+    "class": "Zobal",
+    "description": "",
+    "tranche": 230
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
