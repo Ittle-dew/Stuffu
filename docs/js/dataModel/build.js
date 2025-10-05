@@ -1641,6 +1641,15 @@ const BUILD_DATA = {
     "description": "Stuff principalement axé pour zoning avec Colère + Ravage. Prioriser les PP avec les 7pm pour avoir 24 di !",
     "tranche": 155
   }
+,
+  "Steamer SUPPORT [Armure] 155 OPTI": {
+    "image": "assets/builds/Steamer SUPPORT [Armure] 155 OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/aylgz",
+    "keywords": ["Opti"],
+    "class": "Steamer",
+    "description": "Merci Shodan pour ce build ! ",
+    "tranche": 155
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
