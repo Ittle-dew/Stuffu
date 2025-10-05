@@ -1804,6 +1804,15 @@ const BUILD_DATA = {
     "description": "Gameplay autour de DISTRIBUTION pour donner de l'armure !",
     "tranche": 230
   }
+,
+  "Eniripsa SUPPORT [SOIN PUR] 230 OPTI": {
+    "image": "assets/builds/Eniripsa SUPPORT [SOIN PUR] 230 OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/4b4a5",
+    "keywords": ["Opti"],
+    "class": "Eniripsa",
+    "description": "",
+    "tranche": 230
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
