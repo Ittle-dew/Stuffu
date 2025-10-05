@@ -1750,6 +1750,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 230
   }
+,
+  "Sram DPT [MELEE] 230 Mid cost": {
+    "image": "assets/builds/Sram DPT [MELEE] 230 Mid cost.png",
+    "url": "https://zenithwakfu.com/builder/f64a4",
+    "keywords": ["Opti"],
+    "class": "Sram",
+    "description": "Merci Yosuu pour ce build !",
+    "tranche": 230
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
