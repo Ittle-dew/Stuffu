@@ -1759,6 +1759,15 @@ const BUILD_DATA = {
     "description": "Merci Yosuu pour ce build !",
     "tranche": 230
   }
+,
+  "Xelor DPT [ROUAGE] 230 OPTI": {
+    "image": "assets/builds/Xelor DPT [ROUAGE] 230 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/fcf75",
+    "keywords": ["Opti"],
+    "class": "Xelor",
+    "description": "Gameplay ROUAGE ! Très compliqué à mettre en place, n'existe pas vraiment en Low Cost",
+    "tranche": 230
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
