@@ -1888,6 +1888,15 @@ const BUILD_DATA = {
     "description": "Le build est réalisé avec le conso +10 cc et parade. Vous pouvez aussi jouer Calibrage II. Les sauvegardes sont modulables si vous voulez mettre autre chose. Néanmoins elles sont très value en combinaison avec le passif Bomberfan et l'alternance des tours forts et un peu plus faibles.",
     "tranche": 230
   }
+,
+  "Zobal DPT [MELEE DOS] 230 OPTI": {
+    "image": "assets/builds/Zobal DPT [MELEE DOS] 230 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/3b75e",
+    "keywords": ["Opti"],
+    "class": "Zobal",
+    "description": "Ne fonctionne pas/Très mal sur les mobs/boss stab et 3X3",
+    "tranche": 230
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
