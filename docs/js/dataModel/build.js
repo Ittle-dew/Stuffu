@@ -1858,6 +1858,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 230
   }
+,
+  "Sadida SUPPORT [SOIN SHIELD] 230 Opti": {
+    "image": "assets/builds/Sadida SUPPORT [SOIN SHIELD] 230 Opti.png",
+    "url": "https://www.zenithwakfu.com/builder/42025",
+    "keywords": ["Opti"],
+    "class": "Sadida",
+    "description": "",
+    "tranche": 230
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
