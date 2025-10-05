@@ -1876,6 +1876,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 230
   }
+,
+  "Roublard DPT [DIRECT ARTIFICIER] OPTI": {
+    "image": "assets/builds/Roublard DPT [DIRECT ARTIFICIER] OPTI.png",
+    "url": "https://zenithwakfu.com/builder/7zggl",
+    "keywords": ["Opti"],
+    "class": "Roublard",
+    "description": "Le build est réalisé avec le conso +10 cc et parade. Vous pouvez aussi jouer Calibrage II. Les sauvegardes sont modulables si vous voulez mettre autre chose. Néanmoins elles sont très value en combinaison avec le passif Bomberfan et l'alternance des tours forts et un peu plus faibles.",
+    "tranche": 230
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
