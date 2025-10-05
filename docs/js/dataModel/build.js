@@ -1813,6 +1813,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 230
   }
+,
+  "Iop DPT [MELEE] 230 OPTI": {
+    "image": "assets/builds/Iop DPT [MELEE] 230 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/lj7g1",
+    "keywords": ["Opti"],
+    "class": "Iop",
+    "description": "",
+    "tranche": 230
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
