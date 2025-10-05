@@ -1786,6 +1786,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 230
   }
+,
+  "Ecaflip SUPP [PUCIF] 230 OPTI": {
+    "image": "assets/builds/Ecaflip SUPP [PUCIF] 230 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/maykz",
+    "keywords": ["Opti"],
+    "class": "Ecaflip",
+    "description": "Gameplay SOIN DELAYER !",
+    "tranche": 230
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
