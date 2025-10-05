@@ -1677,6 +1677,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 215
   }
+,
+  "Feca SUPP [ARMURE] 215 Full opti": {
+    "image": "assets/builds/Feca SUPP [ARMURE] 215 Full opti.png",
+    "url": "https://zenithwakfu.com/builder/n5wmz",
+    "keywords": ["Opti"],
+    "class": "Feca",
+    "description": "",
+    "tranche": 215
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
