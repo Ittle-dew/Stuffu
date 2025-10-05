@@ -1849,6 +1849,15 @@ const BUILD_DATA = {
     "description": "Build Tri-Element, adaptez vous en DJ et taper sur les faiblesse élementaires !",
     "tranche": 230
   }
+,
+  "Sadida DPT [POISON] 230 Opti": {
+    "image": "assets/builds/Sadida DPT [POISON] 230 Opti.png",
+    "url": "https://zenithwakfu.com/builder/04ff3",
+    "keywords": ["Opti"],
+    "class": "Sadida",
+    "description": "",
+    "tranche": 230
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
