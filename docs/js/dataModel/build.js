@@ -1935,6 +1935,15 @@ const BUILD_DATA = {
     "description": "Build axé FULL %HP pour un maximum d'armure donné à ses allié, mais a énormement de malus Armure reçu. On joue donc autours d'un gameplay \"Steam sans armure\"",
     "tranche": 245
   }
+,
+  "Enutrof DPT [MELEE] 245 OPTI": {
+    "image": "assets/builds/Enutrof DPT [MELEE] 245 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/ngwq8",
+    "keywords": ["Opti"],
+    "class": "Enutrof",
+    "description": "",
+    "tranche": 245
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
