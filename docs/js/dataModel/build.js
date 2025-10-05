@@ -1924,6 +1924,15 @@ const BUILD_DATA = {
     "description": "Spécifique pour Farm PRIMASSIF ! Gros Focus sur les Resi EAU/FEU et rajout de 310 de résistance via \"Armure de la PAIX + Lien d'amitié\"",
     "tranche": 245
   }
+,
+  "Steam SUPPORT [ARMURE] 245 OPTI": {
+    "image": "assets/builds/Steam SUPPORT [ARMURE] 245 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/qttcj",
+    "keywords": ["Opti"],
+    "class": "Steamer",
+    "description": "Build axé FULL %HP pour un maximum d'armure donné à ses allié, mais a énormement de malus Armure reçu. On joue donc autours d'un gameplay \"Steam sans armure\"",
+    "tranche": 245
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
