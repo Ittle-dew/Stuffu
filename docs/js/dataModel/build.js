@@ -1915,6 +1915,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 230
   }
+,
+  "Feca DPT [GLYPHE] 245 OPTI": {
+    "image": "assets/builds/Feca DPT [GLYPHE] 245 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/oetpj",
+    "keywords": ["Opti"],
+    "class": "Feca",
+    "description": "Spécifique pour Farm PRIMASSIF ! Gros Focus sur les Resi EAU/FEU et rajout de 310 de résistance via \"Armure de la PAIX + Lien d'amitié\"",
+    "tranche": 245
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
