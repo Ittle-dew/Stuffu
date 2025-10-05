@@ -1686,6 +1686,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 215
   }
+,
+  "Feca SUPPORT [PAISIBLE] 230 opti": {
+    "image": "assets/builds/Feca SUPPORT [PAISIBLE] 230 opti.png",
+    "url": "https://www.zenithwakfu.com/builder/19adb",
+    "keywords": ["Opti"],
+    "class": "Feca",
+    "description": "",
+    "tranche": 230
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
