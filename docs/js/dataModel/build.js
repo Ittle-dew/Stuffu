@@ -1659,6 +1659,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 215
   }
+,
+  "Xelor DPT [Distance] 215 OPTI": {
+    "image": "assets/builds/Xelor DPT [Distance] 215 OPTI.png",
+    "url": "https://www.zenithwakfu.com/builder/e0227",
+    "keywords": ["Opti"],
+    "class": "Xelor",
+    "description": "",
+    "tranche": 215
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
