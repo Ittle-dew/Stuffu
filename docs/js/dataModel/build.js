@@ -1840,6 +1840,15 @@ const BUILD_DATA = {
     "description": "Profiter de \"Carapace Sanguine\" pour avoir du shield et perma -50% (Build test, fonctionnel mais pas essayé en situation)",
     "tranche": 230
   }
+,
+  "Cra DPT [TRI ELEMENT] 230 OPTI": {
+    "image": "assets/builds/Cra DPT [TRI ELEMENT] 230 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/qmz1r",
+    "keywords": ["Mid Cost"],
+    "class": "Cra",
+    "description": "Build Tri-Element, adaptez vous en DJ et taper sur les faiblesse élementaires !",
+    "tranche": 230
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
