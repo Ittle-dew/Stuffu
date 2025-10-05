@@ -1741,6 +1741,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 230
   }
+,
+  "Enutrof SUPPORT [RETRAIT RES SOIN SECONDAIRE] 230 OPTI": {
+    "image": "assets/builds/Enutrof SUPPORT [RETRAIT RES SOIN SECONDAIRE] 230 OPTI.png",
+    "url": "https://zenithwakfu.com/builder/deeed",
+    "keywords": ["Opti"],
+    "class": "Enutrof",
+    "description": "",
+    "tranche": 230
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
