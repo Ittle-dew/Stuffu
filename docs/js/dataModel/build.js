@@ -2117,6 +2117,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 140
   }
+,
+  "Eniripsa SUPPORT [SOIN BOOST] 140 Low cost": {
+    "image": "assets/builds/Eniripsa SUPPORT [SOIN BOOST] 140 Low cost.png",
+    "url": "https://zenithwakfu.com/builder/sizru",
+    "keywords": ["Low Cost"],
+    "class": "Eniripsa",
+    "description": "",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
