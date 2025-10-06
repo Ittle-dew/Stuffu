@@ -2235,6 +2235,15 @@ const BUILD_DATA = {
     "description": "Fait par SHODAN",
     "tranche": 35
   }
+,
+  "Zobal DPT [MELEE] 35 low cost": {
+    "image": "assets/builds/Zobal DPT [MELEE] 35 low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/7vw8t",
+    "keywords": ["Low Cost"],
+    "class": "Zobal",
+    "description": "Fait par SHODAN",
+    "tranche": 35
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
