@@ -1,6 +1,6 @@
-# Présentation du site Wakbuild
+# Présentation du site Stuff'fu
 
-Wakbuild est une application web statique réalisée en HTML, CSS et JavaScript.
+Stuff'fu est une application web statique réalisée en HTML, CSS et JavaScript.
 
 
 
@@ -8,4 +8,4 @@ Wakbuild est une application web statique réalisée en HTML, CSS et JavaScript.
 
 Les données sont gérées localement (aucune base de données ni serveur).
 
-Accès direct au site : https://luthor91.github.io/Wakbuild/
+Accès direct au site : https://ittle-dew.github.io/Stuffu/
