@@ -2081,6 +2081,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 140
   }
+,
+  "Enutrof SUPPORT [RETRAIT RES BOOST] 140 Low cost": {
+    "image": "assets/builds/Enutrof SUPPORT [RETRAIT RES BOOST] 140 Low cost.png",
+    "url": "https://zenithwakfu.com/builder/gus3g",
+    "keywords": ["Low Cost"],
+    "class": "Enutrof",
+    "description": "",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
