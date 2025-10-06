@@ -2253,6 +2253,15 @@ const BUILD_DATA = {
     "description": "Fait par SHODAN",
     "tranche": 35
   }
+,
+  "Sacrieur DPT [MELEE] 35 low cost": {
+    "image": "assets/builds/Sacrieur DPT [MELEE] 35 low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/gvo5t",
+    "keywords": ["Low Cost"],
+    "class": "Sacrieur",
+    "description": "Fait par SHODAN",
+    "tranche": 35
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
