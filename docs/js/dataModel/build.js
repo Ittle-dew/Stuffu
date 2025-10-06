@@ -2171,6 +2171,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 140
   }
+,
+  "Sadida SUPPORT [SOIN ARMURE] 140 Low cost": {
+    "image": "assets/builds/Sadida SUPPORT [SOIN ARMURE] 140 Low cost.png",
+    "url": "https://zenithwakfu.com/builder/ykazy",
+    "keywords": ["Low Cost"],
+    "class": "Sadida",
+    "description": "",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
