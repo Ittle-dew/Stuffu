@@ -2099,6 +2099,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 140
   }
+,
+  "Eniripsa DPT [DISTANCE] 20 low cost": {
+    "image": "assets/builds/Eniripsa DPT [DISTANCE] 20 low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/3v2v1",
+    "keywords": ["Low Cost"],
+    "class": "Eniripsa",
+    "description": "",
+    "tranche": 20
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
