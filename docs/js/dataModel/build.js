@@ -2190,6 +2190,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 20
   }
+,
+  "Feca support [SHIELD] 35 Low cost": {
+    "image": "assets/builds/Feca support [SHIELD] 35 Low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/qmyw8",
+    "keywords": ["Low Cost"],
+    "class": "Feca",
+    "description": "Fait par SHODAN",
+    "tranche": 35
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
