@@ -2018,6 +2018,15 @@ const BUILD_DATA = {
     "description": "Fait par Shodan ",
     "tranche": 20
   }
+,
+  "Ecaflip DPT [MELEE] 20 low cost": {
+    "image": "assets/builds/Ecaflip DPT [MELEE] 20 low cost.png",
+    "url": "http://zenithwakfu.com/builder/om1pw",
+    "keywords": ["Low Cost"],
+    "class": "Ecaflip",
+    "description": "Fait par Shodan ",
+    "tranche": 20
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
