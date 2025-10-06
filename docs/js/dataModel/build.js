@@ -2343,6 +2343,15 @@ const BUILD_DATA = {
     "description": "Fait par SHODAN",
     "tranche": 35
   }
+,
+  "Panda SUPPORT [PLACEUR] 35 low cost": {
+    "image": "assets/builds/Panda SUPPORT [PLACEUR] 35 low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/tsmy8",
+    "keywords": ["Low Cost"],
+    "class": "Pandawa",
+    "description": "Fait par SHODAN",
+    "tranche": 35
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
