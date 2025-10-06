@@ -2009,6 +2009,15 @@ const BUILD_DATA = {
     "description": "Fait par Shodan ",
     "tranche": 20
   }
+,
+  "Zobal DPT [MELEE] 20 low cost": {
+    "image": "assets/builds/Zobal DPT [MELEE] 20 low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/mi2cn",
+    "keywords": ["Low Cost"],
+    "class": "Zobal",
+    "description": "Fait par Shodan ",
+    "tranche": 20
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
