@@ -2054,6 +2054,15 @@ const BUILD_DATA = {
     "description": "Fait par Shodan ",
     "tranche": 20
   }
+,
+  "Feca SUPPORT [ARMURE] 140 Low cost": {
+    "image": "assets/builds/Feca SUPPORT [ARMURE] 140 Low cost.png",
+    "url": "https://zenithwakfu.com/builder/o9vzh",
+    "keywords": ["Low Cost"],
+    "class": "Feca",
+    "description": "",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
