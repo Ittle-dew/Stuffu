@@ -1955,6 +1955,15 @@ const BUILD_DATA = {
       "tranche": 20
     }
   ,
+
+  "Iop DPT [MELEE] 20 low cost": {
+    "image": "assets/builds/Iop DPT [MELEE] 20 low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/3bzo8",
+    "keywords": ["Low Cost"],
+    "class": "Iop",
+    "description": "Fait par Shodan ",
+    "tranche": 20
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
