@@ -2045,6 +2045,15 @@ const BUILD_DATA = {
     "description": "Fait par Shodan ",
     "tranche": 20
   }
+,
+  "Eliotrope DPT [DISTANCE] 20 low cost": {
+    "image": "assets/builds/Eliotrope DPT [DISTANCE] 20 low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/jpfel",
+    "keywords": ["Low Cost"],
+    "class": "Eliotrope",
+    "description": "Fait par Shodan ",
+    "tranche": 20
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
