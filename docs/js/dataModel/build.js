@@ -2126,6 +2126,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 140
   }
+,
+  "Roublard DPT [DISTANCE] 20 low cost": {
+    "image": "assets/builds/Roublard DPT [DISTANCE] 20 low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/bmbsh",
+    "keywords": ["Low Cost"],
+    "class": "Roublard",
+    "description": "",
+    "tranche": 20
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
