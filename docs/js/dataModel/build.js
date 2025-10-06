@@ -2307,6 +2307,15 @@ const BUILD_DATA = {
     "description": "Fait par SHODAN",
     "tranche": 35
   }
+,
+  "Osamodas DPT [DISTANCE] 35 low cost": {
+    "image": "assets/builds/Osamodas DPT [DISTANCE] 35 low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/zw2sp",
+    "keywords": ["Low Cost"],
+    "class": "Osamodas",
+    "description": "Fait par SHODAN",
+    "tranche": 35
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
