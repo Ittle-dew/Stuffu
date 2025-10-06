@@ -2316,6 +2316,15 @@ const BUILD_DATA = {
     "description": "Fait par SHODAN",
     "tranche": 35
   }
+,
+  "Roublard DPT [DISTANCE] 35 low cost": {
+    "image": "assets/builds/Roublard DPT [DISTANCE] 35 low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/l7gxa",
+    "keywords": ["Low Cost"],
+    "class": "Roublard",
+    "description": "Fait par SHODAN",
+    "tranche": 35
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
