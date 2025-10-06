@@ -1973,6 +1973,15 @@ const BUILD_DATA = {
     "description": "Fait par Shodan ",
     "tranche": 20
   }
+,
+  "Sram DPT [MELEE] 20 low cost": {
+    "image": "assets/builds/Sram DPT [MELEE] 20 low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/sfz06",
+    "keywords": ["Low Cost"],
+    "class": "Sram",
+    "description": "Fait par Shodan ",
+    "tranche": 20
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
