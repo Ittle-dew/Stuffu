@@ -2172,6 +2172,15 @@ const BUILD_DATA = {
       "description": "",
       "tranche": 140
     }
+,
+  "Panda Placement [TANK] 20 low cost": {
+    "image": "assets/builds/Panda Placement [TANK] 20 low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/i3isb",
+    "keywords": ["Low Cost"],
+    "class": "Pandawa",
+    "description": "",
+    "tranche": 20
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
