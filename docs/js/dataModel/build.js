@@ -2181,6 +2181,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 20
   }
+,
+  "Feca support [ARMURE] 20 low cost": {
+    "image": "assets/builds/Feca support [ARMURE] 20 low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/gz5li",
+    "keywords": ["Low Cost"],
+    "class": "Feca",
+    "description": "",
+    "tranche": 20
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
