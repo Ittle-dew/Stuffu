@@ -2135,6 +2135,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 20
   }
+,
+  "Osamodas DPT [DISTANCE] 20 low cost": {
+    "image": "assets/builds/Osamodas DPT [DISTANCE] 20 low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/rsdr2",
+    "keywords": ["Low Cost"],
+    "class": "Osamodas",
+    "description": "",
+    "tranche": 20
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
