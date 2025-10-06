@@ -2334,6 +2334,15 @@ const BUILD_DATA = {
     "description": "Fait par SHODAN",
     "tranche": 35
   }
+,
+  "Eniripsa SUPPORT [SOIN] 35 low cost": {
+    "image": "assets/builds/Eniripsa SUPPORT [SOIN] 35 low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/hahau",
+    "keywords": ["Low Cost"],
+    "class": "Eniripsa",
+    "description": "Fait par SHODAN",
+    "tranche": 35
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
