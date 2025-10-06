@@ -2280,6 +2280,15 @@ const BUILD_DATA = {
     "description": "Fait par SHODAN",
     "tranche": 35
   }
+,
+  "Steamer DPT [DISTANCE] 35 low cost": {
+    "image": "assets/builds/Steamer DPT [DISTANCE] 35 low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/8tbkb",
+    "keywords": ["Low Cost"],
+    "class": "Steamer",
+    "description": "Fait par SHODAN",
+    "tranche": 35
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
