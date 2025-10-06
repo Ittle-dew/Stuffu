@@ -2153,6 +2153,15 @@ const BUILD_DATA = {
     "description": "",
     "tranche": 140
   }
+,
+  "Eliotrope SUPPORT [SOIN PLACEUR] 140 Low cost": {
+    "image": "assets/builds/Eliotrope SUPPORT [SOIN PLACEUR] 140 Low cost.png",
+    "url": "https://zenithwakfu.com/builder/yozu4",
+    "keywords": ["Low Cost"],
+    "class": "Eliotrope",
+    "description": "",
+    "tranche": 140
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
