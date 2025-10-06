@@ -2000,6 +2000,15 @@ const BUILD_DATA = {
     "description": "Fait par Shodan ",
     "tranche": 20
   }
+,
+  "Ouginak DPT [MELEE] 20 low cost": {
+    "image": "assets/builds/Ouginak DPT [MELEE] 20 low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/sd7ps",
+    "keywords": ["Low Cost"],
+    "class": "Ouginak",
+    "description": "Fait par Shodan ",
+    "tranche": 20
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
