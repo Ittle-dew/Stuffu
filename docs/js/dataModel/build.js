@@ -2352,6 +2352,15 @@ const BUILD_DATA = {
     "description": "Fait par SHODAN",
     "tranche": 35
   }
+,
+    "Feca DPT [spé] 245 Mid Cost": {
+      "image": "assets/builds/Feca DPT [spé] 245 Mid Cost.png",
+      "url": "https://zenithwakfu.com/builder/6j0lr",
+      "keywords": ["Mid Cost"],
+      "class": "Feca",
+      "description": "tst descr",
+      "tranche": 245
+    }
 };
 
 export { BUILD_DATA, CLASS_LIST };
