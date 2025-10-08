@@ -2356,14 +2356,13 @@ const BUILD_DATA = {
     ,
 
   "Iop DPT [MELEE] 50 low cost": {
-    "image": "assets/builds/Iop DPT [MELEE] 50 low cost.png",
-    "url": "https://www.zenithwakfu.com/builder/qumse",
-    "keywords": ["Low Cost"],
-    "class": "Iop",
-    "description": "Fait par Shodan !",
-    "tranche": 50
-  }
-,
+  "image": "assets/builds/Iop DPT [MELEE] 50 low cost.png",
+  "url": "https://www.zenithwakfu.com/builder/qumse",
+  "keywords": ["Low Cost"],
+  "class": "Iop",
+  "description": "Fait par Shodan !",
+  "tranche": 50
+},
   "Enutrof DPT [MELEE] 50 low cost": {
     "image": "assets/builds/Enutrof DPT [MELEE] 50 low cost.png",
     "url": "https://www.zenithwakfu.com/builder/rmtcp",
