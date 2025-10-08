@@ -2443,6 +2443,15 @@ const BUILD_DATA = {
     "description": "Fait par Shodan !",
     "tranche": 50
   }
+,
+  "Sadida DPT [DISTANCE] 50 low cost": {
+    "image": "assets/builds/Sadida DPT [DISTANCE] 50 low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/annak",
+    "keywords": ["Low Cost"],
+    "class": "Sadida",
+    "description": "Fait par Shodan !",
+    "tranche": 50
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
