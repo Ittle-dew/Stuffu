@@ -2416,6 +2416,15 @@ const BUILD_DATA = {
     "description": "Fait par Shodan !",
     "tranche": 50
   }
+,
+  "Xelor DPT [DISTANCE] 50 low cost": {
+    "image": "assets/builds/Xelor DPT [DISTANCE] 50 low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/rjhtq",
+    "keywords": ["Low Cost"],
+    "class": "Xelor",
+    "description": "Fait par Shodan !",
+    "tranche": 50
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
