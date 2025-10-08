@@ -2497,6 +2497,15 @@ const BUILD_DATA = {
     "description": "Fait par Shodan !",
     "tranche": 50
   }
+,
+    "Feca DPT [Spécialisation Test] 245 Mid Cost": {
+      "image": "assets/builds/Feca DPT [Spécialisation Test] 245 Mid Cost.png",
+      "url": "https://ittle-dew.github.io/Stuffu/",
+      "keywords": ["Mid Cost"],
+      "class": "Feca",
+      "description": "desc test",
+      "tranche": 245
+    }
 };
 
 export { BUILD_DATA, CLASS_LIST };
