@@ -2371,6 +2371,15 @@ const BUILD_DATA = {
     "description": "Fait par Shodan !",
     "tranche": 50
   }
+,
+  "Huppermage DPT [MELEE] 50 low cost": {
+    "image": "assets/builds/Huppermage DPT [MELEE] 50 low cost.png",
+    "url": "https://www.zenithwakfu.com/builder/uwfeb",
+    "keywords": ["Low Cost"],
+    "class": "Huppermage",
+    "description": "Fait par Shodan !",
+    "tranche": 50
+  }
 };
 
 export { BUILD_DATA, CLASS_LIST };
