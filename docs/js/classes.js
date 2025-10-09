@@ -67,7 +67,7 @@ function makeGuideCard(nameFR, guide) {
   const card = document.createElement('section');
   card.className = 'guide-card';
 
-  // --- Détermination de l’archétype pour le fond ---
+  // --- Détermination de l4archétype pour le fond ---
   const cleanTitle = (guide.title || '').replace(/:[^:]+:/g, '').trim();
   const words = cleanTitle.split(/\s+/);
   const raw = (words[1] || '').toLowerCase();
@@ -157,11 +157,21 @@ function renderGuidesForClass(nameFR) {
   if (leftPanel) leftPanel.style.display = 'none';
   right.innerHTML = '';
 
-  const guides = GUIDES_BY_CLASS[nameFR] || [];
+  let guides = GUIDES_BY_CLASS[nameFR] || [];
   if (!guides.length) {
     right.innerHTML = `<div class="no-result">Pas (encore) de guide pour « ${nameFR} ».</div>`;
     return;
   }
+
+  // --- Déduplication par combinaison (name + imgClasse + key) ---
+  const seen = new Set();
+  guides = guides.filter(g => {
+    const key = `${g.name}::${g.imgClasse}::${g.key}`.toLowerCase().trim();
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+
 
   // --- Déterminer l'archétype à partir du premier guide disponible ---
   let archetype = '';
