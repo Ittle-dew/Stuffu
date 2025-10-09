@@ -1,5 +1,5 @@
 export const CLASS_GUIDES = [
-  {
+{
     "name": "Ecaflip",
     "imgClasse": "Ecaflip_M",
     "key": "DPT",
@@ -23,4 +23,13 @@ export const CLASS_GUIDES = [
     "subliGenerique": [":subliIII: Ambition", ":subliII: Force Vitale"],
     "subliLowCost": [":subliII: Influence Paradoxale"]
   },
-    ];
+  {
+    "name": "Feca",
+    "imgClasse": "Feca_M",
+    "key": "DPT",
+    "title": ":Feca: Feca DPT :Feca:",
+    "lines": [":subliRelique: tst", ":subliEpique: tst"],
+    "subliGenerique": [":subliIII: tst"],
+    "subliLowCost": [":subliII: tst", ":subliI: tst"]
+  }
+];
