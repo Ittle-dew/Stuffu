@@ -22,5 +22,5 @@ export const CLASS_GUIDES = [
     ],
     "subliGenerique": [":subliIII: Ambition", ":subliII: Force Vitale"],
     "subliLowCost": [":subliII: Influence Paradoxale"]
-  }
-];
+  },
+    ];
