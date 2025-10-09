@@ -16,51 +16,23 @@ const CLASS_LIST = {
 };
 
 const BUILD_DATA = {
-    
-        
-          
-            
-              
-                
-                  
-                    
-                      
-                        
-                          
-                            
-                              
-                                
-                                  
-                                    
-                                      
-                                        
-                                          
-                                          
-                                                          "Huppermage DPT [MELEE,
-    "Feca DPT [tst spé] 245 Mid Cost": {
-      "image": "assets/classes/Feca_M.png",
-      "url": "https://zenithwakfu.com/builder/6j0lr",
-      "keywords": ["Mid Cost"],
-      "class": "Feca",
-      "description": "tst desc",
+  "Huppermage DPT [MELEE] 245 Opti": {
+      "image": "assets/builds/Huppermage DPT.png",
+      "url": "https://zenithwakfu.com/builder/pwssw",
+      "keywords": ["Opti"],
+      "class": "Huppermage",
+      "description": "Gameplay Principalement mélée - Terre",
       "tranche": 245
-    }] 245 Opti": {
-                                                              "image": "assets/builds/Huppermage DPT.png",
-                                                              "url": "https://zenithwakfu.com/builder/pwssw",
-                                                              "keywords": ["Opti"],
-                                                              "class": "Huppermage",
-                                                              "description": "Gameplay Principalement mélée - Terre",
-                                                              "tranche": 245
-                                                              }
-                                                          ,
-                                                          "Ecaflip SUPPORT [PUCIF] 245 Opti": {
-                                                              "image": "assets/builds/Ecaflip SUPPORT.png",
-                                                              "url": "https://zenithwakfu.com/builder/1tk28",
-                                                              "keywords": ["Opti"],
-                                                              "class": "Ecaflip",
-                                                              "description": "Gameplay basé autours de PUCIF de l'ecaflip !",
-                                                              "tranche": 245
-                                                          }
+      }
+  ,
+  "Ecaflip SUPPORT [PUCIF] 245 Opti": {
+      "image": "assets/builds/Ecaflip SUPPORT.png",
+      "url": "https://zenithwakfu.com/builder/1tk28",
+      "keywords": ["Opti"],
+      "class": "Ecaflip",
+      "description": "Gameplay basé autours de PUCIF de l'ecaflip !",
+      "tranche": 245
+  }
                                                           ,
                                                           "Enutrof SUPPORT [ABANDON] 245 Opti": {
                                                               "image": "assets/builds/Enutrof SUPPORT.png",
