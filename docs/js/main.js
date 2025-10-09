@@ -176,12 +176,26 @@ document.addEventListener('DOMContentLoaded', () => {
 
     for (const [buildKey, build] of filtered){
       elCards.appendChild(renderCard(buildKey, build));
+      elCards.appendChild(renderCard(buildKey, build));
     }
   }
 
-  function renderCard(buildKey, build){
+  function renderCard(buildKey, build) {
     const card = document.createElement('article');
     card.className = 'card';
+
+    // --- Détermination de l’archétype pour le fond ---
+    const words = buildKey.split(/\s+/);
+    const raw = (words[1] || '').toLowerCase(); // 2e mot du build
+    let archetype = '';
+
+    if (['dpt'].includes(raw)) archetype = 'dpt';
+    else if (['support', 'supp'].includes(raw)) archetype = 'support';
+    else if (['soin', 'heal'].includes(raw)) archetype = 'soin';
+
+    if (archetype) {
+      card.classList.add(`card-${archetype}`);
+    }
 
     const thumb = document.createElement('div');
     thumb.className = 'thumb';
@@ -223,7 +237,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const tags = document.createElement('div');
     tags.className = 'tags';
-    (build.keywords || []).forEach(k=>{
+    (build.keywords || []).forEach(k => {
       const t = document.createElement('span');
       t.className = 'tag';
       t.textContent = k;

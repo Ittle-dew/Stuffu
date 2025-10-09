@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <title>Guides de Classes</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="./styles.css" />
+  <link rel="stylesheet" href="./styles/classes.css" />
+</head>
+<body>
+      <nav class="topbar">
+      <div class="topbar-inner">
+        <a class="toplink" href="https://discord.gg/PAkYUBhvb7" target="_blank" rel="noopener noreferrer" title="Rejoindre le Discord d'Ittle'Dew">
+          <img src="assets/elements/discord.png" alt="" class="topicon">
+          <span>Discord</span>
+        </a>
+
+        <a class="toplink" href="https://www.twitch.tv/ittledew" target="_blank" rel="noopener noreferrer" title="Me rejoindre sur Twitch">
+          <img src="assets/elements/twitch.png" alt="" class="topicon">
+          <span>Twitch</span>
+        </a>
+
+        <a class="toplink pill" href="https://www.wakdraft.ovh" target="_blank" rel="noopener noreferrer" title="Optimiser vos teams">
+          <span>wakdraft.ovh</span>
+        </a>
+
+        <a class="toplink pill" href="https://docs.google.com/spreadsheets/d/1mFfXCpF_maoiPMBL6oN_PquvHYkGMmJveN3r5dP6ADw/edit?gid=95254533#gid=95254533"
+           target="_blank" rel="noopener noreferrer" title="StratFu - Tableur strat">
+          <span>StratFu</span>
+        </a>
+
+        <a class="toplink pill" href="./index.html" title="Retour builds">
+          <span>Builds</span>
+        </a>
+      </div>
+    </nav>
+
+    <div class="container"><!-- utilise ta classe .container existante -->
+      <header style="display:flex;align-items:center;gap:12px;margin:18px 0 10px">
+        <h1 style="margin:0;font-size:22px">Guides de Classes</h1>
+        <div class="searchbar" style="flex:1">
+          <select id="class-select">
+            <option value="">Chargement des classes...</option>
+          </select>
+        </div>
+      </header>
+
+      <div class="layout" aria-live="polite">
+        <main id="right">
+          <div class="no-result">Choisissez une classe pour afficher son guide.</div>
+        </main>
+      </div>
+
+  </div>
+  <footer class="site-footer">
+    <div class="footer-links">
+      <div class="footer-item">
+        <a href="https://discord.gg/PAkYUBhvb7" target="_blank" rel="noopener noreferrer">
+          <img src="assets/elements/discord.png" alt="Discord" class="footer-icon">
+        </a>
+        <p class="footer-caption">Pour rejoindre le discord de ittle'Dew</p>
+      </div>
+
+      <div class="footer-item">
+        <a href="https://www.twitch.tv/ittledew" target="_blank" rel="noopener noreferrer">
+          <img src="assets/elements/twitch.png" alt="Twitch" class="footer-icon">
+        </a>
+        <p class="footer-caption">Pour me rejoindre sur Twitch</p>
+      </div>
+
+      <div class="footer-item">
+        <a href="https://www.wakdraft.ovh" target="_blank" rel="noopener noreferrer" class="footer-text-link">
+          wakdraft.ovh
+        </a>
+        <p class="footer-caption">Pour optimiser vos teams</p>
+      </div>
+    </div>
+
+    <div class="footer-legal">
+      © Ankama Games 2012 - 2025. Tous droits réservés. <br>
+      Ce site n'est pas affilié à Ankama. Wakfu et tous les éléments associés sont la propriété d’Ankama Games. <br>
+      Crédit au dev <a href="https://github.com/Luthor91" target="_blank" rel="noopener noreferrer">Luthor91</a>
+    </div>
+  </footer>
+
+  <script type="module" src="js/classes.js"></script>
+
+</body>
+</html>
