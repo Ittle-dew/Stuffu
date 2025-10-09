@@ -146,8 +146,6 @@ function makeGuideCard(nameFR, guide) {
   return card;
 }
 
-
-
 function renderGuidesForClass(nameFR) {
   const layout = document.querySelector('.layout');
   const leftPanel = document.getElementById('left');

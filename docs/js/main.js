@@ -159,11 +159,12 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 
-  function render(){
+  function render() {
+    console.log("is rendering")
     const filtered = getFiltered();
     elCards.innerHTML = '';
 
-    if (filtered.length === 0){
+    if (filtered.length === 0) {
       elEmpty.hidden = false;
       elCount.textContent = '0';
       elActiveFilters.textContent = activeFiltersText();
@@ -174,17 +175,26 @@ document.addEventListener('DOMContentLoaded', () => {
     elCount.textContent = String(filtered.length);
     elActiveFilters.textContent = activeFiltersText();
 
-    for (const [buildKey, build] of filtered){
-      elCards.appendChild(renderCard(buildKey, build));
+    // --- Déduplication sécurisée ---
+    const seen = new Set();
+
+    for (const [buildKey, build] of filtered) {
+      const key = `${build.class || ''}-${build.tranche || ''}-${(build.keywords || []).join('-')}`.toLowerCase().trim();
+
+      // Empêche d’afficher 2 fois le même build (même clé)
+      if (seen.has(key)) continue;
+      seen.add(key);
+
       elCards.appendChild(renderCard(buildKey, build));
     }
   }
+
 
   function renderCard(buildKey, build) {
     const card = document.createElement('article');
     card.className = 'card';
 
-    // --- Détermination de l’archétype pour le fond ---
+    // --- Détermination de l'archétype pour le fond ---
     const words = buildKey.split(/\s+/);
     const raw = (words[1] || '').toLowerCase(); // 2e mot du build
     let archetype = '';
