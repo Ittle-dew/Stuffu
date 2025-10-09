@@ -38,9 +38,10 @@ document.addEventListener('DOMContentLoaded', () => {
   // Init
   initCostSelect(elCostSelect);
   initClassSelect(elClassFilter);
-  initTrancheSelect(elTrancheFilter);     // <-- nouveau
+  initTrancheSelect(elTrancheFilter);
   attachEvents();
   render();
+  console.log("has loaded");
 
   // ====== UI Setup ======
   function initCostSelect(selectEl){
@@ -160,7 +161,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   function render() {
-    console.log("is rendering")
     const filtered = getFiltered();
     elCards.innerHTML = '';
 
