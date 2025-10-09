@@ -31,5 +31,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliRelique: tst", ":subliEpique: tst"],
     "subliGenerique": [":subliIII: tst"],
     "subliLowCost": [":subliII: tst", ":subliI: tst"]
+  },
+  {
+    "name": "Enutrof",
+    "imgClasse": "Enutrof_M",
+    "key": "DPT",
+    "title": ":Enutrof: Enutrof DPT :Enutrof:",
+    "lines": ["tst"],
+    "subliGenerique": ["tst"],
+    "subliLowCost": ["tst"]
   }
 ];
