@@ -1,5 +1,4 @@
-const CLASS_LIST = {
-    "fr": [
+const CLASS_LIST = {"fr": [
         "Cra", "Ecaflip", "Eliotrope", "Eniripsa",
         "Enutrof", "Feca", "Huppermage", "Iop",
         "Osamodas", "Ouginak", "Pandawa", "Roublard",
@@ -2481,5 +2480,14 @@ const BUILD_DATA = {
     ,
 };
 
-export { BUILD_DATA, CLASS_LIST };
+export { BUILD_DATA, CLASS_LIST,
+  "Feca DPT [tst spé] 20 Parfait": {
+    "image": "assets/classes/Feca_M.png",
+    "url": "https://zenithwakfu.com/builder/6j0lr",
+    "keywords": ["Parfait"],
+    "class": "Feca",
+    "description": "tst desc",
+    "tranche": 20
+  }
+};
 
