@@ -36,7 +36,15 @@ const BUILD_DATA = {
                                         
                                           
                                           
-                                                          "Huppermage DPT [MELEE] 245 Opti": {
+                                                          "Huppermage DPT [MELEE,
+    "Feca DPT [tst spé] 245 Mid Cost": {
+      "image": "assets/classes/Feca_M.png",
+      "url": "https://zenithwakfu.com/builder/6j0lr",
+      "keywords": ["Mid Cost"],
+      "class": "Feca",
+      "description": "tst desc",
+      "tranche": 245
+    }] 245 Opti": {
                                                               "image": "assets/builds/Huppermage DPT.png",
                                                               "url": "https://zenithwakfu.com/builder/pwssw",
                                                               "keywords": ["Opti"],
