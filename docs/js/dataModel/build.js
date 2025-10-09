@@ -2477,4 +2477,12 @@ const BUILD_DATA = {
         "description": "Fait par Shodan !",
         "tranche": 50
       },
+  "Feca DPT [tst spé] 20 Parfait": {
+    "image": "assets/classes/Feca_M.png",
+    "url": "https://zenithwakfu.com/builder/6j0lr",
+    "keywords": ["Parfait"],
+    "class": "Feca",
+    "description": "tst desc",
+    "tranche": 20
+  }
 };
