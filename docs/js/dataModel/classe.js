@@ -34,5 +34,13 @@ export const CLASS_GUIDES = [
     ],
     subliGenerique: [":subliIII: Puissance Canalisée", ":subliII: Maîtrise Dédiée"],
     subliLowCost: [":subliI: Puissance Brute"]
-  }
-];
+  },
+    {
+      "name": "Feca",
+      "imgClasse": "Feca_F",
+      "key": "DPT",
+      "title": ":Feca: Feca DPT :Feca:",
+      "lines": [":subliRelique: PDLB", ":subliEpique: M2M"],
+      "subliGenerique": [":subliIII: INFLU", ":subliII: PB", ":subliI: JSP"],
+      "subliLowCost": [":subliI: INFLU 1"]
+    }];
