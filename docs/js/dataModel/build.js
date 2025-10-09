@@ -2484,5 +2484,13 @@ export const BUILD_DATA = {
     "class": "Feca",
     "description": "tst desc",
     "tranche": 20
+  },
+  "Feca SUPPORT [tst spe 2] 20 Mid Cost": {
+    "image": "assets/classes/Feca_M.png",
+    "url": "https://zenithwakfu.com/builder/6j0lr",
+    "keywords": ["Mid Cost"],
+    "class": "Feca",
+    "description": "tst desc 2",
+    "tranche": 20
   }
 };
