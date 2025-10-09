@@ -2476,18 +2476,5 @@ const BUILD_DATA = {
         "class": "Pandawa",
         "description": "Fait par Shodan !",
         "tranche": 50
-      }
-    ,
+      },
 };
-
-export { BUILD_DATA, CLASS_LIST,
-  "Feca DPT [tst spé] 20 Parfait": {
-    "image": "assets/classes/Feca_M.png",
-    "url": "https://zenithwakfu.com/builder/6j0lr",
-    "keywords": ["Parfait"],
-    "class": "Feca",
-    "description": "tst desc",
-    "tranche": 20
-  }
-};
-
