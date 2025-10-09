@@ -1,4 +1,4 @@
-const CLASS_LIST = {"fr": [
+export const CLASS_LIST = {"fr": [
         "Cra", "Ecaflip", "Eliotrope", "Eniripsa",
         "Enutrof", "Feca", "Huppermage", "Iop",
         "Osamodas", "Ouginak", "Pandawa", "Roublard",
@@ -14,7 +14,7 @@ const CLASS_LIST = {"fr": [
     ],
 };
 
-const BUILD_DATA = {
+export const BUILD_DATA = {
   "Huppermage DPT [MELEE] 245 Opti": {
       "image": "assets/builds/Huppermage DPT.png",
       "url": "https://zenithwakfu.com/builder/pwssw",
