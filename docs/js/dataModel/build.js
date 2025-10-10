@@ -188,7 +188,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 200,
     "url": "https://zenithwakfu.com/builder/56460"
   },
-  "Ecaflip SUPP [PUCIF] 230 OPTI": {
+  "Ecaflip SOIN [PUCIF] 230 OPTI": {
     "class": "Ecaflip",
     "description": "Gameplay SOIN DELAYER !",
     "image": "assets/builds/Ecaflip SUPP [PUCIF] 230 OPTI.png",
@@ -198,7 +198,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 230,
     "url": "https://zenithwakfu.com/builder/maykz"
   },
-  "Ecaflip SUPP [SOIN BOOST] 125 OPTI": {
+  "Ecaflip SOIN [BOOST] 125 OPTI": {
     "class": "Ecaflip",
     "description": "Gameplay PUCIF avec Revigoration !",
     "image": "assets/builds/Ecaflip SUPP [SOIN BOOST] 125 OPTI.png",
@@ -208,7 +208,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 125,
     "url": "https://www.zenithwakfu.com/builder/cuwjf"
   },
-  "Ecaflip SUPP [SOIN BOOST] 140 OPTI": {
+  "Ecaflip SOIN [BOOST] 140 OPTI": {
     "class": "Ecaflip",
     "description": "",
     "image": "assets/builds/Ecaflip SUPP [SOIN BOOST] 140 OPTI.png",
@@ -218,7 +218,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 140,
     "url": "https://www.zenithwakfu.com/builder/oehhm"
   },
-  "Ecaflip SUPP [SOIN BOOST] 155 OPTI": {
+  "Ecaflip SOIN [BOOST] 155 OPTI": {
     "class": "Ecaflip",
     "description": "",
     "image": "assets/builds/Ecaflip SUPP [SOIN BOOST] 155 OPTI.png",
@@ -228,7 +228,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 155,
     "url": "https://zenithwakfu.com/builder/52kop"
   },
-  "Ecaflip SUPP [SOIN BOOST] 170 OPTI": {
+  "Ecaflip SOIN [BOOST] 170 OPTI": {
     "class": "Ecaflip",
     "description": "",
     "image": "assets/builds/Ecaflip SUPP [SOIN BOOST] 170 OPTI.png",
@@ -238,7 +238,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 170,
     "url": "https://zenithwakfu.com/builder/3j1c8"
   },
-  "Ecaflip SUPP [SOIN BOOST] 200 OPTI": {
+  "Ecaflip SOIN [BOOST] 200 OPTI": {
     "class": "Ecaflip",
     "description": "",
     "image": "assets/builds/Ecaflip SUPP [SOIN BOOST] 200 OPTI.png",
@@ -248,7 +248,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 200,
     "url": "https://zenithwakfu.com/builder/knz1i"
   },
-  "Ecaflip SUPP [SOIN BOOST] 215 OPTI": {
+  "Ecaflip SOIN [BOOST] 215 OPTI": {
     "class": "Ecaflip",
     "description": "",
     "image": "assets/builds/Ecaflip SUPP [SOIN BOOST] 215 OPTI.png",
@@ -258,7 +258,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 215,
     "url": "https://zenithwakfu.com/builder/b4c40"
   },
-  "Ecaflip SUPP [SOIN] 200 Low cost": {
+  "Ecaflip SOIN [BOOST] 200 Low cost": {
     "class": "Ecaflip",
     "description": "",
     "image": "assets/builds/Ecaflip SUPP [SOIN] 200 Low cost.png",
@@ -268,7 +268,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 200,
     "url": "https://www.zenithwakfu.com/builder/046fa"
   },
-  "Ecaflip SUPPORT [PUCIF] 245 Opti": {
+  "Ecaflip SOIN [PUCIF] 245 Opti": {
     "class": "Ecaflip",
     "description": "Gameplay basé autours de PUCIF de l'ecaflip !",
     "image": "assets/builds/Ecaflip SUPPORT.png",
@@ -278,7 +278,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 245,
     "url": "https://zenithwakfu.com/builder/1tk28"
   },
-  "Ecaflip SUPPORT [SOIN BOOST] 110 Opti": {
+  "Ecaflip SOIN [BOOST] 110 Opti": {
     "class": "Ecaflip",
     "description": "",
     "image": "assets/builds/Ecaflip SUPPORT [SOIN BOOST] 110.png",
@@ -288,7 +288,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 110,
     "url": "https://www.zenithwakfu.com/builder/ssnhy"
   },
-  "Ecaflip SUPPORT [SOIN BOOST] 140 Low cost": {
+  "Ecaflip SOIN [BOOST] 140 Low cost": {
     "class": "Ecaflip",
     "description": "",
     "image": "assets/builds/Ecaflip SUPPORT [SOIN BOOST] 140 Low cost.png",
@@ -298,7 +298,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 140,
     "url": "https://zenithwakfu.com/builder/sizru"
   },
-  "Ecaflip SUPPORT [SOIN BOOST] 185 OPTI": {
+  "Ecaflip SOIN [BOOST] 185 OPTI": {
     "class": "Ecaflip",
     "description": "",
     "image": "assets/builds/Ecaflip SUPPORT [SOIN BOOST] 185 OPTI.png",
