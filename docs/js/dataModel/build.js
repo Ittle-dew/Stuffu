@@ -1,5 +1,4 @@
-export const BUILD_DATA = {
-  "Cra  DPT [DISTANCE] 50 low cost": {
+export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "class": "Cra",
     "description": "Fait par Shodan !",
     "image": "assets/builds/Cra  DPT [DISTANCE] 50 low cost.png",
@@ -2718,5 +2717,13 @@ export const BUILD_DATA = {
     ],
     "tranche": 230,
     "url": "https://www.zenithwakfu.com/builder/7c111"
+  },
+  "Pandawa SUPPORT [PLACEMENT] 20 Low Cost": {
+    "image": "assets/classes/Pandawa_M.png",
+    "url": "https://www.zenithwakfu.com/builder/i3isb",
+    "keywords": ["Low Cost"],
+    "class": "Pandawa",
+    "description": "Fait par Shodan",
+    "tranche": 20
   }
 };
