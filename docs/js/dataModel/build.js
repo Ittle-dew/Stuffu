@@ -448,7 +448,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 20,
     "url": "https://www.zenithwakfu.com/builder/3v2v1"
   },
-  "Eniripsa HYBRIDE [DPT ET SUPP] 140 OPTI": {
+  "Eniripsa DPT [HYBRIDE] 140 OPTI": {
     "class": "Eniripsa",
     "description": "",
     "image": "assets/builds/Eniripsa HYBRIDE [DPT ET SUPP] 140 OPTI.png",
@@ -458,7 +458,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 140,
     "url": "https://www.zenithwakfu.com/builder/c0211"
   },
-  "Eniripsa SUPP [SOIN] 155 Low cost": {
+  "Eniripsa SOIN [BOOST] 155 Low cost": {
     "class": "Eniripsa",
     "description": "",
     "image": "assets/builds/Eniripsa SUPP [SOIN] 155 Low cost.png",
@@ -468,7 +468,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 155,
     "url": "https://zenithwakfu.com/builder/f9ec8"
   },
-  "Eniripsa SUPPORT [SOIN ARMURE] 230 OPTI": {
+  "Eniripsa SOIN [BOOST ARMURE] 230 OPTI": {
     "class": "Eniripsa",
     "description": "Gameplay autour de DISTRIBUTION pour donner de l'armure !",
     "image": "assets/builds/Eniripsa SUPPORT [SOIN ARMURE] 230 OPTI.png",
@@ -478,7 +478,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 230,
     "url": "https://www.zenithwakfu.com/builder/28e78"
   },
-  "Eniripsa SUPPORT [SOIN ARMURE] 245 Opti": {
+  "Eniripsa SOIN [BOOST ARMURE] 245 Opti": {
     "class": "Eniripsa",
     "description": "Gameplay autours de Distribution maxant l'amure et le soin réalisé ! ",
     "image": "assets/builds/Eniripsa SUPPORT [Soin Shield].png",
@@ -488,7 +488,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 245,
     "url": "https://zenithwakfu.com/builder/tjbqt"
   },
-  "Eniripsa SUPPORT [SOIN BOOST] 140 Low cost": {
+  "Eniripsa SOIN [BOOST] 140 Low cost": {
     "class": "Eniripsa",
     "description": "",
     "image": "assets/builds/Eniripsa SUPPORT [SOIN BOOST] 140 Low cost.png",
@@ -498,7 +498,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 140,
     "url": "https://zenithwakfu.com/builder/sizru"
   },
-  "Eniripsa SUPPORT [SOIN DISTANCE] 140 Mid-Cost": {
+  "Eniripsa SOIN [BOOST DISTANCE] 140 Mid-Cost": {
     "class": "Eniripsa",
     "description": "",
     "image": "assets/builds/Eniripsa SUPPORT [SOIN DISTANCE] 140 Mid-Cost.png",
@@ -508,7 +508,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 140,
     "url": "https://www.zenithwakfu.com/builder/86164"
   },
-  "Eniripsa SUPPORT [SOIN PUR] 230 OPTI": {
+  "Eniripsa SOIN [BOOST] 230 OPTI": {
     "class": "Eniripsa",
     "description": "",
     "image": "assets/builds/Eniripsa SUPPORT [SOIN PUR] 230 OPTI.png",
@@ -518,7 +518,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 230,
     "url": "https://www.zenithwakfu.com/builder/4b4a5"
   },
-  "Eniripsa SUPPORT [SOIN] 110 Low Cost": {
+  "Eniripsa SOIN [BOOST] 110 Low Cost": {
     "class": "Eniripsa",
     "description": "",
     "image": "assets/builds/Eniripsa SUPPORT [SOIN] 110.png",
@@ -528,7 +528,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 110,
     "url": "https://www.zenithwakfu.com/builder/c86e0"
   },
-  "Eniripsa SUPPORT [SOIN] 110 Mid Cost": {
+  "Eniripsa SOIN [BOOST] 110 Mid Cost": {
     "class": "Eniripsa",
     "description": "Vous pouvez mettre un Royal Mimint si vous préferez gagner un PO au détriment d'un PA. Un familier maitrise soin est l'idéal, mais celui-ci fera l'affaire le temps de vous procurer mieux !",
     "image": "assets/builds/Eniripsa SUPP [SOIN] 110.png",
@@ -538,7 +538,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 110,
     "url": "https://www.zenithwakfu.com/builder/xd9bf"
   },
-  "Eniripsa SUPPORT [SOIN] 125 low cost": {
+  "Eniripsa SOIN [BOOST] 125 low cost": {
     "class": "Eniripsa",
     "description": "",
     "image": "assets/builds/Eniripsa SUPPORT [SOIN] 125 low cost.png",
@@ -548,7 +548,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 125,
     "url": "https://www.zenithwakfu.com/builder/8311f"
   },
-  "Eniripsa SUPPORT [SOIN] 155 OPTI": {
+  "Eniripsa SOIN [BOOST] 155 OPTI": {
     "class": "Eniripsa",
     "description": "",
     "image": "assets/builds/Eniripsa SUPPORT [SOIN] 155 OPTI.png",
@@ -558,7 +558,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 155,
     "url": "https://www.zenithwakfu.com/builder/4e142"
   },
-  "Eniripsa SUPPORT [SOIN] 170 Opti": {
+  "Eniripsa SOIN [BOOST] 170 Opti": {
     "class": "Eniripsa",
     "description": "",
     "image": "assets/builds/Eniripsa SUPPORT [SOIN] 170 Opti.png",
@@ -568,7 +568,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 170,
     "url": "https://zenithwakfu.com/builder/xd8yk"
   },
-  "Eniripsa SUPPORT [SOIN] 200 LOW COST": {
+  "Eniripsa SOIN [BOOST] 200 LOW COST": {
     "class": "Eniripsa",
     "description": "",
     "image": "assets/builds/Eniripsa SUPPORT [SOIN] 200 LOW COST.png",
@@ -578,7 +578,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 200,
     "url": "https://www.zenithwakfu.com/builder/e60ab"
   },
-  "Eniripsa SUPPORT [SOIN] 200 MID COST": {
+  "Eniripsa SOIN [BOOST] 200 MID COST": {
     "class": "Eniripsa",
     "description": "",
     "image": "assets/builds/Eniripsa SUPPORT [SOIN] 200 MID COST.png",
@@ -588,7 +588,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 200,
     "url": "https://www.zenithwakfu.com/builder/361rq"
   },
-  "Eniripsa SUPPORT [SOIN] 200 OPTI": {
+  "Eniripsa SOIN [BOOST] 200 OPTI": {
     "class": "Eniripsa",
     "description": "Eni opti 4 po \u003e 7po via sentinelle",
     "image": "assets/builds/Eniripsa SUPPORT [SOIN] 200 OPTI.png",
@@ -598,7 +598,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 200,
     "url": "https://www.zenithwakfu.com/builder/dvbua"
   },
-  "Eniripsa SUPPORT [SOIN] 35 low cost": {
+  "Eniripsa SOIN [BOOST] 35 low cost": {
     "class": "Eniripsa",
     "description": "Fait par SHODAN",
     "image": "assets/builds/Eniripsa SUPPORT [SOIN] 35 low cost.png",
@@ -608,7 +608,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 35,
     "url": "https://www.zenithwakfu.com/builder/hahau"
   },
-  "Eniripsa SUPPORT [SOIN] 50 low cost": {
+  "Eniripsa SOIN [BOOST] 50 low cost": {
     "class": "Eniripsa",
     "description": "Fait par Shodan !",
     "image": "assets/builds/Eniripsa SUPPORT [SOIN] 50 low cost.png",
