@@ -548,15 +548,13 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 125,
     "url": "https://www.zenithwakfu.com/builder/8311f"
   },
-  "Eniripsa SOIN [BOOST] 155 OPTI": {
+    "Eniripsa SOIN [BOOST] 155 OPTI": {
+    "image": "assets/classes/Eniripsa_M.png",
+    "url": "https://www.zenithwakfu.com/builder/4e142",
+    "keywords": ["Opti"],
     "class": "Eniripsa",
     "description": "",
-    "image": "assets/builds/Eniripsa SUPPORT [SOIN] 155 OPTI.png",
-    "keywords": [
-      "Opti"
-    ],
-    "tranche": 155,
-    "url": "https://www.zenithwakfu.com/builder/4e142"
+    "tranche": 155
   },
   "Eniripsa SOIN [BOOST] 170 Opti": {
     "class": "Eniripsa",
