@@ -849,16 +849,6 @@ export const BUILD_DATA = {
     "tranche": 245,
     "url": "https://zenithwakfu.com/builder/oetpj"
   },
-  "Feca DPT [tst spé] 20 Parfait": {
-    "class": "Feca",
-    "description": "tst desc",
-    "image": "assets/classes/Feca_M.png",
-    "keywords": [
-      "Parfait"
-    ],
-    "tranche": 20,
-    "url": "https://zenithwakfu.com/builder/6j0lr"
-  },
   "Feca SUPP [ARMURE] 200 low cost": {
     "class": "Feca",
     "description": "",
