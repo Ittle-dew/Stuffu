@@ -1,5 +1,6 @@
 // js/main.js
-import { BUILD_DATA, CLASS_LIST } from './dataModel/build.js';
+import { BUILD_DATA } from './dataModel/build.js';
+import { CLASS_LIST } from './dataModel/classe_name.js';
 
 // --- Options de coût ---
 const COST_OPTIONS = [

@@ -1,7 +1,7 @@
 // classes.js — version corrigée (multi-guides, FR-only, imgClasse support)
 
-import { CLASS_LIST } from './dataModel/build.js';
 import { CLASS_GUIDES as RAW_CLASS_GUIDES } from './dataModel/classe.js';
+import { CLASS_LIST } from './dataModel/classe_name.js';
 
 const GUIDES_BY_CLASS = groupGuidesByClass(RAW_CLASS_GUIDES);
 
