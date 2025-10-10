@@ -2589,16 +2589,6 @@ export const BUILD_DATA = {
     "tranche": 230,
     "url": "https://zenithwakfu.com/builder/fcf75"
   },
-  "Xelor SUPPORT [PLACEUR BOOST PA] OPTI": {
-    "class": "Xelor",
-    "description": "",
-    "image": "assets/builds/Xelor SUPPORT [PLACEUR BOOST PA] OPTI.png",
-    "keywords": [
-      "Opti"
-    ],
-    "tranche": 200,
-    "url": "https://zenithwakfu.com/builder/542c8"
-  },
   "Zobal DPT [MELEE COLISION] 200 OPTI": {
     "class": "Zobal",
     "description": "Ne fonctionne pas/très mal sur tout les mobs/boss qui sont stabilisé (ou 3x3)",
