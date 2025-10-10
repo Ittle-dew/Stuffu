@@ -10,17 +10,5 @@ export const CLASS_GUIDES = [
     ],
     "subliGenerique": [":subliIII: Ambition", ":subliIII: Neutralité"],
     "subliLowCost": [":subliII: Consolation Critique", ":subliI: Puissance Brute"]
-  },
-  {
-    "name": "Ecaflip",
-    "imgClasse": "Ecaflip_F",
-    "key": "Support",
-    "title": ":Ecaflip: Ecaflip Support :Ecaflip:",
-    "lines": [
-      ":subliRelique: Dénouement [Variante soutien avec soins et CC]",
-      ":subliEpique: Par-delà la barrière [Utilisé pour protéger les alliés]"
-    ],
-    "subliGenerique": [":subliIII: Ambition", ":subliII: Force Vitale"],
-    "subliLowCost": [":subliII: Influence Paradoxale"]
   }
 ];
