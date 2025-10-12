@@ -17,15 +17,7 @@ export const CLASS_GUIDES = [
     "subliGenerique": [":SubliII: Retour PA :SubliIII: Ravage :SubliIII: Tellurisme Secondaire :SubliIII: Influence :SubliII: Force Vitale :SubliII: Puissance Brute :SubliIII: Acribie :SubliIII: Verrouillage :subliIII: Jugement :subliII: Sauvegarde"],
     "subliLowCost": [":SubliII: Longueur :SubliI: Influence :SubliII: Influence Paradoxale :SubliI: Puissance Brute :SubliII: Acribie :subliII: Sauvegarde"]
   },
-  {
-    "name": "Ecaflip",
-    "imgClasse": "Ecaflip_M",
-    "key": "DPT",
-    "title": ":Ecaflip: Ecaflip DPT :Ecaflip:",
-    "lines": [":subliEpique: Dénouement [Build Full Maitrise critique/sans secondaire] :subliEpique: Mesure III [Oblige à jouer 50%cc hors combat. Le passif de l'écaflip +20%cc proc au début du combat et ne brise pas la sublimation]", ":subliRelique: Alternance II [Alterner les élements sans utiliser de cartes de tarot] :subliRelique: Calibrage I/II [Demande de s'adapter et de préparer un petit coup en mélée chaque tour pour profiter des bonus] :subliRelique: Par dela la barrière [Aucune Condition spéciale]"],
-    "subliGenerique": [":SubliIII: Consolation Critique :SubliIII: Influence :SubliII: Force Vitale  :SubliII: Influence du Wakfu :SubliIII: Neutralité :SubliIII: Ambition :SubliII: Puissance Brute II :subliIII: Jugement"],
-    "subliLowCost": ["Subli Low Cost: :SubliII: Consolation Critique :SubliI: Puissance Brute :SubliII: Influence Paradoxale"]
-  },
+  
   
   
   
