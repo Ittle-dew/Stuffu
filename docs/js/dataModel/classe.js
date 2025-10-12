@@ -142,5 +142,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Pacte de Wakfu [Pour Maximiser le retrait PM, nécessite 8pw hors cbt]", ":subliEpique: Volonté de Fer [Pour Maximiser le retrait PM, nécessite 3po hors cbt]", ":subliEpique: Engagement/Abnégation  [Permet d'avoir un soin non négligeable]", ":subliEpique: Concentration Elémentaire [+20% soin réalisé gratuit]", ":subliRelique: Robuste [Réduction de dégâts à distance]", ":subliRelique: Modularité [Gain de Résistance]", ":subliRelique: Lunatique II [Permet d'avoir un bon \"burst de soin\"]", ":subliRelique: Energie Ancestrale [Gain de Résistance]"],
     "subliGenerique": [":SubliII: Profit :SubliIII: Volonté Direct :SubliII: Force vitale :SubliII: Agilité Vitale :SubliIII: Cicatrisation :SubliII: Intégrité :SubliII: Secret de la Vie :SubliII: Abandon [Build sans maitrise secondaire]"],
     "subliLowCost": [":SubliII: Volonté Direct :SubliII: Secret de la Vie"]
+  },
+  {
+    "name": "Iop",
+    "imgClasse": "Iop_M",
+    "key": "DPT",
+    "title": ":Iop: Iop DPT :Iop:",
+    "lines": [":subliEpique: Démesuré [100% cc facilement, chercher les 80-85% et avoir 100% grâce au passif inné du IOP]", ":subliEpique: Mesure III [Facile de monter à 100%cc en combat grâce au passif IOP. Demande de jouer :SubliIII: Influence Vitale]", ":subliEpique: Maniement: Deux mains [Jouer 7/8pm et profiter de :SubliII:Poids Plumes , nécéssite une armes deux mains]", ":subliEpique: Elementalisme [Demande un build tri-element]", ":subliRelique: Pétulance [Gain de Pa sur Bond et Charge]", ":subliRelique: Modularité [Gain de Résistance]", ":subliRelique: Aura de Flamme [Gameplay Enflammé]", ":subliRelique: Brasero", ":subliRelique: Stasification"],
+    "subliGenerique": [":SubliII: Poids Plumes [Si 6PM+] :SubliIII: Brulure/Tellurisme/Ventilation [selon vos élements] :SubliII: Force vitale :SubliII: Agilité Vitale :SubliIII: Embuscade :SubliIII: Influence :SubliII: Retour PA :SubliII: Retour PM :subliIII: Jugement"],
+    "subliLowCost": [":SubliII: Brulure/Tellurisme/Ventilation [selon vos élements] :SubliII: Poids Plumes [Si 6PM+] :SubliII: Retour Enflammé :SubliII: Influence Paradoxale"]
   }
 ];
