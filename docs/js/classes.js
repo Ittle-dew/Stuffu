@@ -47,23 +47,6 @@ function tokenizeToHTML(str) {
 }
 
 
-// Résout le chemin de l'image de classe en fonction de guide.imgClasse
-function resolveClassImageSrc(guide, fallbackNameFR) {
-  const v = (guide?.imgClasse || '').trim();
-
-  if (!v) {
-    // fallback: ancien comportement -> assets/classes/<NomFR>.png
-    return `assets/classes/${fallbackNameFR}.png`;
-  }
-
-  // Sinon, on suppose que c'est un nom de fichier dans assets/classes/
-  // s'il n'y a pas d'extension, on ajoute .png
-  if (!/\.(png|webp|jpg|jpeg|gif)$/i.test(v)) {
-    return `assets/classes/${v}.png`;
-  }
-  return `assets/classes/${v}`;
-}
-
 /* --- Cards --- */
 function makeGuideCard(nameFR, guide) {
   const card = document.createElement('section');
@@ -111,6 +94,7 @@ function makeGuideCard(nameFR, guide) {
   h.innerHTML = tokenizeToHTML(guide.title);
   body.appendChild(h);
 
+  // --- lignes principales ---
   (guide.lines || []).forEach(l => {
     const p = document.createElement('p');
     p.className = 'rich-line tokenized';
@@ -118,6 +102,7 @@ function makeGuideCard(nameFR, guide) {
     body.appendChild(p);
   });
 
+  // --- Subli Génériques ---
   if (guide.subliGenerique?.length) {
     const st = document.createElement('div');
     st.className = 'section-title';
@@ -126,10 +111,12 @@ function makeGuideCard(nameFR, guide) {
 
     const p = document.createElement('p');
     p.className = 'tokenized';
-    p.innerHTML = guide.subliGenerique.map(tokenizeToHTML).join(' ');
+    // Ajout d'un saut de ligne entre chaque entrée
+    p.innerHTML = guide.subliGenerique.map(tokenizeToHTML).join('<br>');
     body.appendChild(p);
   }
 
+  // --- Subli Low Cost ---
   if (guide.subliLowCost?.length) {
     const st = document.createElement('div');
     st.className = 'section-title';
@@ -138,9 +125,25 @@ function makeGuideCard(nameFR, guide) {
 
     const p = document.createElement('p');
     p.className = 'tokenized';
-    p.innerHTML = guide.subliLowCost.map(tokenizeToHTML).join(' ');
+    // Ajout d'un saut de ligne entre chaque entrée
+    p.innerHTML = guide.subliLowCost.map(tokenizeToHTML).join('<br>');
     body.appendChild(p);
   }
+
+  // --- Tips (nouvelle section) ---
+  if (guide.tips?.length) {
+    const st = document.createElement('div');
+    st.className = 'section-title';
+    st.textContent = 'Tips';
+    body.appendChild(st);
+
+    const p = document.createElement('p');
+    p.className = 'tokenized';
+    // Un saut de ligne entre chaque astuce
+    p.innerHTML = guide.tips.map(tokenizeToHTML).join('<br>');
+    body.appendChild(p);
+  }
+
 
   // --- Assemblage final ---
   card.appendChild(figure);
@@ -183,7 +186,6 @@ function renderGuidesForClass(nameFR) {
     if (['dpt'].includes(raw)) archetype = 'dpt';
     else if (['support', 'supp'].includes(raw)) archetype = 'support';
     else if (['soin', 'heal'].includes(raw)) archetype = 'soin';
-    console.log(raw, " ==> ", archetype)
   
   }
   // --- Si on a un archétype, appliquer une classe au bloc class-figure ---

@@ -42,7 +42,6 @@ document.addEventListener('DOMContentLoaded', () => {
   initTrancheSelect(elTrancheFilter);
   attachEvents();
   render();
-  console.log("has loaded");
 
   // ====== UI Setup ======
   function initCostSelect(selectEl){
