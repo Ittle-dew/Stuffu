@@ -232,5 +232,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Force Herculéenne [Gain d'esquive et tacle gratuit si vous avez un nombre Impair de PA au début du cbt]", ":subliEpique: Pilier I [Plus de PV donc plus de capacité à sacrifice/tanker]", ":subliRelique: Modularité [Plus de résistance]", ":subliRelique: Pétulance [Gain de PA lors de déplacement]", ":subliRelique: Robuste [Réduction de dégâts à distance]"],
     "subliGenerique": [":SubliIII: Cicatrisation :SubliIII: Dérobade Continue :SubliI: Vélocité :SubliIII: Barrière Mélée :SubliIII: Barrière Distance"],
     "subliLowCost": [":SubliII: Cicatrisation :SubliI: Vélocité :subliEpique: Pilier I"]
+  },
+  {
+    "name": "Sadida",
+    "imgClasse": "Sadida_M",
+    "key": "DPT",
+    "title": ":Sadida: Sadida DPT :Sadida:",
+    "lines": [":subliEpique: Démesuré [100% cc facilement, et en plus ça profite au poupée]", ":subliEpique: Contrôle de l'espace II [DPT axé poison, ne profite pas au poupée et demande 3po sur le stuff]", ":subliEpique: Concentration Elementaire [Les poupées profitent des DI de CE et sont axé sur la meilleure maitrise élémentaire, donc focus AIR pour les poisons]", ":subliRelique: Calibrage I/II [Vous taper exclusivement hors de votre tour, donc vous pouvez mettre un petit sort mélée pour proc calibrage]", ":subliRelique: Sentinelle [Gain de portée sur votre application de poison/vos arbres mais pas de DI hors du tour]", ":subliRelique: Contrôle du Temps [Permet d'avoir 100%cc sur vos applications de poison si vous cyclez bien vos sort]"],
+    "subliGenerique": [":SubliIII: Ventilation :SubliII: Force vitale :SubliII: Agilité Vitale :SubliIII: Influence :SubliIII: Valeur ajoutée :SubliIII: Ruine :SubliII:Ruine Cyclique :SubliIII:Dérobade Continue [Si build :subliEpique: Démesuré]"],
+    "subliLowCost": [":SubliII: Ventilation :SubliII: Valeur Ajoutée :SubliII: Ruine :SubliII: Influence Paradoxale"]
   }
 ];
