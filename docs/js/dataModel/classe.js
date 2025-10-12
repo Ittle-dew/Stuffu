@@ -169,5 +169,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Engagement [Zobal Soin]", ":subliEpique: Force Herculéenne [Gameplay Spé Placeur]", ":subliEpique: Maniement: Bouclier [Un pm de plus, mais portée fixe. Gameplay Spé Placeur]", ":subliRelique: Cuirasse singulière [Match parfaitement avec le passif Zobal]", ":subliRelique: Pétulance [+2pa par tout gratuit]"],
     "subliGenerique": [":SubliII: Vélocité :SubliIII: Intégrité :SubliII: Force vitale :SubliII: Agilité Vitale :SubliIII: Cicatrisation :SubliII: Tolérance"],
     "subliLowCost": [":SubliI: Vélocité"]
+  },
+  {
+    "name": "Osamodas",
+    "imgClasse": "Osamodas_M",
+    "key": "DPT",
+    "title": ":Osamodas: Osamodas DPT :Osamodas:",
+    "lines": [":subliEpique: Brutalité [Subli dégâts mélée-zone, demande d'avoir strictement 0po]", ":subliRelique: Directive [Subli dégâts mélée-zone basique]"],
+    "subliGenerique": [":SubliIII: Brûlure :SubliIII: Tellurisme :SubliIII: Sanguinolence :SubliII: Force vitale :SubliII: Agilité Vitale :SubliIII: Embuscade :SubliII: Retour Pa :SubliIII: Influence"],
+    "subliLowCost": [":SubliII: Sanguinolence"]
   }
 ];
