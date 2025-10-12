@@ -115,5 +115,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Concentration Elementaire [Grâce au Steamerator on ne tape qu'avec notre meilleure maitrise, donc focus mono-elem]", ":subliEpique:  Démesuré [à comboter avec Conquete Sereine pour avoir 93%cc sans rien d'autre (3% de base + 20cc et 70 parade)]", ":subliRelique: Alternance II [proc systématiquement du moment que les RES basses du mobs ne sont pas celle du sort lancé]", ":subliRelique: Stasification [Aucune contrepartie, et le steam aime les combats long]"],
     "subliGenerique": [":SubliIII: Influence :SubliII: Sauvegarde :SubliIII: Préparation Critique :SubliII: Retour PA :SubliIII: Ravage :SubliII: Influence Du Wakfu :SubliII: Force Vitale :SubliII: Agilité Vitale"],
     "subliLowCost": [":subliEpique:  Démesuré (pour 5-6m sur votre :subliEpique:Insangsé/Bagus:subliEpique: vous avez 100%CC sur tout vos stuff) :SubliIII: Préparation Critique", "TIPS: Préparation Crit vous donne les DI avant que la tourelle ne tape, et la tourelle va profiter des DI conféré par :SubliIII:Préparation Critique ! à build impérativement"]
+  },
+  {
+    "name": "Steamer",
+    "imgClasse": "Steamer_F",
+    "key": "SUPPORT",
+    "title": ":Steamer: Steamer SUPPORT :Steamer:",
+    "lines": [":subliEpique: Force Herculéenne [Gain d'esquive et tacle gratuit si vous avez un nombre Impair de PA au début du cbt]", ":subliEpique: Pilier I [Plus de PV donc plus d'armure à donner]", ":subliRelique: Aplomb Naturel [Build Spécifique couplé à :subliEpique: Pillier I et :SubliIII: Allocentrisme qui force à jouer sans armure sur le steam]", ":subliRelique: Longévité [Gain d'armure donnée]", ":subliRelique: Modularité [Plus de résistance]", ":subliRelique: Robuste [Réduction de dégâts à distance]"],
+    "subliGenerique": [":SubliIII: Enveloppe Rocheuse :SubliIII: Cicatrisation :SubliIII: Dérobade Continue :SubliI: Vélocité :SubliIII: Allocentrisme :SubliII: Théorie de la Matière"],
+    "subliLowCost": [":SubliII: Enveloppe Rocheuse :SubliI: Vélocité :68325795:  Pilier I :SubliII: Théorie de la Matière"]
   }
 ];
