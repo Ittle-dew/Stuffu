@@ -178,5 +178,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Brutalité [Subli dégâts mélée-zone, demande d'avoir strictement 0po]", ":subliRelique: Directive [Subli dégâts mélée-zone basique]"],
     "subliGenerique": [":SubliIII: Brûlure :SubliIII: Tellurisme :SubliIII: Sanguinolence :SubliII: Force vitale :SubliII: Agilité Vitale :SubliIII: Embuscade :SubliII: Retour Pa :SubliIII: Influence"],
     "subliLowCost": [":SubliII: Sanguinolence"]
+  },
+  {
+    "name": "Osamodas",
+    "imgClasse": "Osamodas_F",
+    "key": "SUPPORT",
+    "title": ":Osamodas: Osamodas SUPPORT :Osamodas:",
+    "lines": [":subliEpique: Engagement [Transmit au invoc, permet un osa soin]", ":subliEpique: Force Herculéenne [permet d'avoir plus de tacle et d'esquive]", ":subliEpique: Pillier II [Plus d'Armure donné]", ":subliRelique: Garde Levée [Réduit de 30% les dgt infligé par Lien Animal sans toucher à l'armure qu'il donne]", ":subliRelique: Modularité [Plus de Résistance]"],
+    "subliGenerique": [":SubliIII: Enveloppe Rocheuse :SubliIII: Cicatrisation :SubliII: Force vitale :SubliII: Agilité Vitale  :SubliII: Vélocité :SubliII: Tolérance :SubliII: Intégrité :SubliII: Abandon (Si gameplay no secondaire)"],
+    "subliLowCost": [":SubliII: Enveloppe Rocheuse  :SubliI: Vélocité :subliEpique: Pillier II"]
   }
 ];
