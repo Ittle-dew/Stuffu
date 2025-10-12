@@ -35,15 +35,7 @@ export const CLASS_GUIDES = [
     "subliGenerique": ["ATTENTION, :SubliIII: REVIGORATION ANNULE :subliRelique: DISTRIBUTION", ":SubliII: Force Vitale :SubliII: Vélocité :SubliII: Tolérance :SubliII: Agilité Vitale :SubliII: Intégrité :SubliIII: Cicatrisation :SubliIII: Revigoration :SubliIII:Expert des Coup Critique :SubliIII: Diagnostic"],
     "subliLowCost": [":SubliI: Vélocité :SubliIII: Nature :SubliII: Revigoration :SubliI: Expert des Coup Critique"]
   },
-  {
-    "name": "Eliotrope",
-    "imgClasse": "Eliotrope_M",
-    "key": "DPT",
-    "title": ":Eliotrope: Eliotrope DPT :Eliotrope:",
-    "lines": ["DISTANCE: :subliEpique:Mesure III  [Oblige à jouer 50%cc hors combat, mais fonctionne bien avec Dimension Blanche] :subliEpique: Elementalisme [Gameplay Constant + demande un build spécifique Tri-Element]", ":subliRelique: Alternance II [Utilisez les sort en alternant les elements]"],
-    "subliGenerique": [":SubliIII: Influence :SubliII:  Force Vitale  :SubliII: Puissance Brute :SubliIII: Ventilation Secondaire :SubliII: Influence du Wakfu :SubliIII: Ravage :SubliIII: Verouillage :SubliIII: Acribie"],
-    "subliLowCost": [":SubliII: Ventilation Secondaire :SubliI: Influence :SubliI: Influence du Wakfu :SubliII: Influence Paradoxale :SubliII: Acribie :SubliII: Vérouillage"]
-  },
+  
   
   
   
