@@ -62,15 +62,7 @@ export const CLASS_GUIDES = [
     "subliGenerique": [":SubliII: Force Vitale :SubliII: Ruine Cyclique :SubliII: Agilité Vitale :SubliIII: Ruine :SubliIII: Influence :SubliII: Influence du Wakfu :SubliIII: Ventilation :SubliIII: Ravage"],
     "subliLowCost": [":SubliI: Vélocité :SubliIII: Nature :SubliII: Influence Paradoxale"]
   },
-  {
-    "name": "Eniripsa",
-    "imgClasse": "Eniripsa_F",
-    "key": "SOIN",
-    "title": ":Eniripsa: Eniripsa SOIN :Eniripsa:",
-    "lines": [":subliEpique: Abnégation", ":subliRelique: Sentinelle [+3po et du soin au début de tour avant de bouger] :subliRelique: Distribution [Si vous avez un 2eme heal] :subliRelique: Energie Ancestrale [Essayez d'avoir 8-9pw pour avoir perma 6pw+ et proc l'etat, ça permet d'être plus Tanky]"],
-    "subliGenerique": [":SubliII: Force Vitale :SubliII: Vélocité :SubliII: Tolérance :SubliII: Agilité Vitale :SubliII: Intégrité :SubliIII: Cicatrisation :subliIII: Courage :subliIII: Diagnostic"],
-    "subliLowCost": ["Subli Low Cost: :SubliI: Vélocité :SubliIII: Nature :SubliII: Influence Paradoxale :subliIII: Courage"]
-  },
+  
   {
     "name": "Enutrof",
     "imgClasse": "Enutrof_F",
