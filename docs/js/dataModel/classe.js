@@ -214,5 +214,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Mesure III [Demande de jouer :SubliIII: Influence Vitale et :SubliII: Influence du Wakfu]", ":subliEpique: Elementalisme [Demande un build tri-element, mais comme le roublard convertie mélée et distance, faire un build tri-element est plus simple]", ":subliEpique: Démesuré [100% CC plus simple mais demande un build spécifique]", ":subliRelique: Excès I/II [Permet de booster les explosions]", ":subliRelique: Calibrage [Gain de dégâts en distance]"],
     "subliGenerique": [":SubliIII: Préparation Critique :SubliIII: Influence :SubliII: Force vitale :SubliII: Agilité Vitale :SubliIII: Influence Lente :SubliIII: Ruine :SubliIII: Ravage :SubliII: Puissance Brute"],
     "subliLowCost": [":SubliII: Préparation Critique :SubliII: Ruine :SubliII: Influence Paradoxale"]
+  },
+  {
+    "name": "Sacrieur",
+    "imgClasse": "Sacrieur_M",
+    "key": "DPT",
+    "title": ":Sacrieur: Sacrieur DPT :Sacrieur:",
+    "lines": [":subliEpique: Brutalité [Meilleure subli pour zoner]", ":subliEpique: Furie [Demande d'avoir moins d'esquive que votre niveau]", ":subliRelique: Aura de Flamme [Gameplay Enflammé, s'essouffle quand on monte de niveau (Devien moyen vers le lvl 155)]", ":subliRelique: Par dela la barrière [Proc sur Punition, et sang brulant]", ":subliRelique: Directive [Gameplay Zone]", ":subliRelique: Stasification [Di sans condition]"],
+    "subliGenerique": [":SubliIII: Critique Berserk :SubliIII: Brulure :SubliIII: Ruine :SubliII: Ruine Cyclique :SubliII: Puissance Brute :SubliIII: Influence :SubliIII: Ravage :subliIII: Jugement"],
+    "subliLowCost": [":SubliII: Critique Berserk :SubliII: Ruine :SubliII: Retour Enflammé :SubliII: Influence Paradoxale"]
   }
 ];
