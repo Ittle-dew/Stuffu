@@ -205,5 +205,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Engagement [Panda Soin]", ":subliEpique: Force Herculéenne [Gameplay Spé Placeur]", ":subliRelique: Empressement [+2 pm par tour Gratuit]", ":subliRelique: Pétulance [+2pa par tour Gratuit]"],
     "subliGenerique": [":SubliII: Vélocité :SubliIII: Intégrité :SubliII: Force vitale :SubliII: Agilité Vitale :SubliIII: Cicatrisation :SubliII: Tolérance :SubliII: Secret de la Vie [Panda Soin]"],
     "subliLowCost": [":SubliI: Vélocité :SubliII: Secret de la Vie [Panda Soin]"]
+  },
+  {
+    "name": "Roublard",
+    "imgClasse": "Roublard_M",
+    "key": "DPT",
+    "title": ":Roublard: Roublard DPT :Roublard:",
+    "lines": [":subliEpique: Mesure III [Demande de jouer :SubliIII: Influence Vitale et :SubliII: Influence du Wakfu]", ":subliEpique: Elementalisme [Demande un build tri-element, mais comme le roublard convertie mélée et distance, faire un build tri-element est plus simple]", ":subliEpique: Démesuré [100% CC plus simple mais demande un build spécifique]", ":subliRelique: Excès I/II [Permet de booster les explosions]", ":subliRelique: Calibrage [Gain de dégâts en distance]"],
+    "subliGenerique": [":SubliIII: Préparation Critique :SubliIII: Influence :SubliII: Force vitale :SubliII: Agilité Vitale :SubliIII: Influence Lente :SubliIII: Ruine :SubliIII: Ravage :SubliII: Puissance Brute"],
+    "subliLowCost": [":SubliII: Préparation Critique :SubliII: Ruine :SubliII: Influence Paradoxale"]
   }
 ];
