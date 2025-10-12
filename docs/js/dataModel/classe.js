@@ -286,5 +286,15 @@ export const CLASS_GUIDES = [
 		"lines": ["tst must not have tips"],
 		"subliGenerique": ["tst"],
 		"subliLowCost": ["tst"]
+	},
+  {
+		"name": "Feca",
+		"imgClasse": "Feca_F",
+		"key": "SOIN",
+		"title": ":Feca: Feca SOIN :Feca:",
+		"lines": ["tst must have tips"],
+		"subliGenerique": ["tst"],
+		"subliLowCost": ["tst"],
+    "tips": ["tst"]
 	}
 ];
