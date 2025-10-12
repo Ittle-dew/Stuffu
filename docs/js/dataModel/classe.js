@@ -36,14 +36,5 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Dénouement [Build Full Maitrise critique/sans secondaire] :subliEpique: Mesure III [Oblige à jouer 50%cc hors combat]"],
     "subliGenerique": ["Subli générique:: :SubliIII: Consolation Critique :SubliIII: Influence :SubliII: Force Vitale  :SubliII: Influence du Wakfu :SubliIII: Neutralité :SubliIII: Ambition :SubliII: Puissance Brute II :subliIII: Jugement"],
     "subliLowCost": ["Subli Low Cost: :SubliII: Consolation Critique :SubliI: Puissance Brute :SubliII: Influence Paradoxale"]
-  },
-  {
-    "name": "Eliotrope",
-    "imgClasse": "Eliotrope_M",
-    "key": "DPT",
-    "title": ":Eliotrope: Eliotrope DPT :Eliotrope:",
-    "lines": ["MELEE: :subliEpique: Brutalité [Si vous jouez un gameplay axé majoritairement sur le zoning] :subliEpique: Mesure III  [Oblige à jouer 50%cc hors combat, mais fonctionne bien avec Dimension Blanche] :subliEpique: Elementalisme [Gameplay Constant + demande un build spécifique Tri-Element]"],
-    "subliGenerique": [":SubliII: Retour PA [Zone] :SubliIII: Influence :SubliII:  Force Vitale  :SubliII: Puissance Brute :SubliIII: Ventilation Secondaire :SubliII: Influence du Wakfu :SubliIII: Ravage"],
-    "subliLowCost": ["Subli Low Cost: :SubliII: Ventilation Secondaire :SubliI: Influence :SubliI: Influence du Wakfu :SubliII: Influence Paradoxale"]
   }
 ];
