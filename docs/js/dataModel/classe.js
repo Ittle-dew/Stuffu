@@ -268,5 +268,14 @@ export const CLASS_GUIDES = [
     "lines": ["---------------------- Classique ----------------------", ":subliEpique: Mesure III [Demande de combler avec :SubliIII: Influence Vitale et :SubliII:Influence du Wakfu pour les 100%cc en combat]", ":subliEpique: Contrôle de l'espace I [Demande de jouer avec 1po]", ":subliEpique: Concentration Elementaire [Gameplay Mono-Feu ou Mono-Eau dans ce cas]", ":subliRelique: Calibrage I/II [Lors des tours à vide, faire un ralentissement en mélée pour proc calibrage]", ":subliRelique: Alternance [A proc dans un tour à vide]", ":subliRelique: Lunatique [Gameplay Tour PAIR couplé à taque-tique]", "---------------------- Rouage ----------------------", ":subliEpique: Denouement [Permet de profiter de subli comme:SubliIII: Ambition et :SubliII: Abandon]", ":subliEpique: Contrôle de l'espace II [Demande de jouer avec 3po hors cbt]", ":subliRelique: Calibrage I/II [Essayer de systématiquement faire un ralentissement en mêlée pour cumuler les DI]", ":subliRelique: Petulance [Gain de PA lors des TP]"],
     "subliGenerique": ["/// CLASSIQUE /// :SubliIII: Brûlure :SubliII: Force vitale :SubliII: Influence du Wakfu :SubliIII: Influence :SubliIII: Valeur ajoutée :SubliII:Profit (X2) :SubliI: Puissance Brute :SubliIII: Influence Vitale", "/// ROUAGE /// :SubliII: Force vitale :SubliII: Influence du Wakfu :SubliII: Abandon :SubliIII: Ambition :SubliIII: Ruine  :SubliI: Puissance Brute"],
     "subliLowCost": ["/// CLASSIQUE /// :SubliI: Puissance Brute :SubliII: Influence Paradoxale", "/// ROUAGE /// NE JOUE PAS ROUAGE EN LOW COST PAUVRE FOU"]
+  },
+  {
+    "name": "Xelor",
+    "imgClasse": "Xelor_M",
+    "key": "SUPPORT",
+    "title": ":Xelor: Xelor SUPPORT :Xelor:",
+    "lines": [":subliEpique: Pacte de Wakfu [Plus de Retrait PA]", ":subliEpique: Force Herculéene [Plus d'esquive/tacles si PA Impair]", ":subliRelique: Petulance [Gain de PA lors des TP"],
+    "subliGenerique": [":SubliII: Force vitale :SubliII: Abandon :SubliII: Agilité Vitale :SubliIII: Cicatrisation :SubliII: Persistance  :SubliI: Vélocité"],
+    "subliLowCost": [":SubliI: Vélocité :SubliII: Persistance"]
   }
 ];
