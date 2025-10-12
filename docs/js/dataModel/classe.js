@@ -259,5 +259,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Anatomie [20di gratuit sur Sram]", ":subliRelique: Par Delà la Barrière [Profite sur pas mal de sort Sram]", ":subliRelique: Stasification [Di qui augmente au fil des tours sans condition]"],
     "subliGenerique": [":SubliIII: Sanguinolence :SubliII: Force vitale :SubliII: Agilité Vitale :SubliIII: Influence :SubliIII: Profit :SubliIII: Ravage :SubliIII: Destruction :subliIII: Jugement"],
     "subliLowCost": [":SubliIII: Destruction :SubliII: Sanguinolence :SubliII: Influence Paradoxale"]
+  },
+  {
+    "name": "Xelor",
+    "imgClasse": "Xelor_M",
+    "key": "DPT",
+    "title": ":Xelor: Xelor DPT :Xelor:",
+    "lines": ["---------------------- Classique ----------------------", ":subliEpique: Mesure III [Demande de combler avec :SubliIII: Influence Vitale et :SubliII:Influence du Wakfu pour les 100%cc en combat]", ":subliEpique: Contrôle de l'espace I [Demande de jouer avec 1po]", ":subliEpique: Concentration Elementaire [Gameplay Mono-Feu ou Mono-Eau dans ce cas]", ":subliRelique: Calibrage I/II [Lors des tours à vide, faire un ralentissement en mélée pour proc calibrage]", ":subliRelique: Alternance [A proc dans un tour à vide]", ":subliRelique: Lunatique [Gameplay Tour PAIR couplé à taque-tique]", "---------------------- Rouage ----------------------", ":subliEpique: Denouement [Permet de profiter de subli comme:SubliIII: Ambition et :SubliII: Abandon]", ":subliEpique: Contrôle de l'espace II [Demande de jouer avec 3po hors cbt]", ":subliRelique: Calibrage I/II [Essayer de systématiquement faire un ralentissement en mêlée pour cumuler les DI]", ":subliRelique: Petulance [Gain de PA lors des TP]"],
+    "subliGenerique": ["/// CLASSIQUE /// :SubliIII: Brûlure :SubliII: Force vitale :SubliII: Influence du Wakfu :SubliIII: Influence :SubliIII: Valeur ajoutée :SubliII:Profit (X2) :SubliI: Puissance Brute :SubliIII: Influence Vitale", "/// ROUAGE /// :SubliII: Force vitale :SubliII: Influence du Wakfu :SubliII: Abandon :SubliIII: Ambition :SubliIII: Ruine  :SubliI: Puissance Brute"],
+    "subliLowCost": ["/// CLASSIQUE /// :SubliI: Puissance Brute :SubliII: Influence Paradoxale", "/// ROUAGE /// NE JOUE PAS ROUAGE EN LOW COST PAUVRE FOU"]
   }
 ];
