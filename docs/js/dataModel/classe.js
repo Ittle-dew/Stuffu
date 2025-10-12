@@ -250,5 +250,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Démesuré [100% cc facilement, et en plus ça profite au poupée]", ":subliEpique: Concentration Elementaire [Les poupées profitent des SR de CE et sont axé sur la meilleure maitrise élémentaire]", ":subliEpique: Engagement [SR sans vrai condition]", ":subliRelique: Sentinelle [Gain de portée sur votre application de poison/vos arbres et des SR si vous ne bougez pas avant de soin]", ":subliRelique: Distribution [Couplé au SR et AR des arbres, vous avez toujours un soin très correct mais surtout un don d'armure colossale + les poupée ne prennent pas distribution donc soin a 100%]"],
     "subliGenerique": [":SubliIII: Cicatrisation :SubliII: Force vitale :SubliII: Agilité Vitale :SubliIII: Influence :SubliIII: Enveloppe Rocheuse :SubliI: Vélocité :SubliIII: Dérobade Continue [Si build :subliEpique: Démesuré]"],
     "subliLowCost": [":SubliI: Vélocité :SubliII: Enveloppe Rocheuse :SubliII: Influence Paradoxale"]
+  },
+  {
+    "name": "Sram",
+    "imgClasse": "Sram_M",
+    "key": "DPT",
+    "title": ":Sram: Sram DPT :Sram:",
+    "lines": [":subliEpique: Anatomie [20di gratuit sur Sram]", ":subliRelique: Par Delà la Barrière [Profite sur pas mal de sort Sram]", ":subliRelique: Stasification [Di qui augmente au fil des tours sans condition]"],
+    "subliGenerique": [":SubliIII: Sanguinolence :SubliII: Force vitale :SubliII: Agilité Vitale :SubliIII: Influence :SubliIII: Profit :SubliIII: Ravage :SubliIII: Destruction :subliIII: Jugement"],
+    "subliLowCost": [":SubliIII: Destruction :SubliII: Sanguinolence :SubliII: Influence Paradoxale"]
   }
 ];
