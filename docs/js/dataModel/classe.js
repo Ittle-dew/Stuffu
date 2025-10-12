@@ -97,5 +97,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Concentration Elementaire [On ne tape qu'un seul élément qd on joue FECA Glyphe [Focus la maitrise TERRE]", ":subliEpique: Contrôle de L'espace II [On tape exclusivement en dégâts indirect, mais demande de build 3 PO]", ":subliRelique: Wé [On joue tour PAIR, +2pa quand on pose nos glyphe]", ":subliRelique: Lunatique [Plus de dégâts sur les tours Pair]", ":subliRelique: Lunatique II [Un peu plus de DI que lunatique mais demande un poser un bouclier sur un allié chaque tour impair]"],
     "subliGenerique": [":SubliII: Sauvegarde :SubliIII: Ruine :SubliII: Ruine Cyclique :SubliIII: Tellurisme Secondaire :SubliIII: Valeur ajoutée :SubliIII: Tellurisme :SubliII: Force Vitale :SubliIII: Influence :SubliII: Influence du Wakfu"],
     "subliLowCost": [":SubliII: Tellurisme Secondaire :SubliII: Ruine :subliRelique: Wé :subliII: Sauvegarde", "Tips: L'idée du Feca Glyphe c'est de profiter des tours à vide pour stack :SubliII: Sauvegarde, et prépare vos :subliRelique: Lunatique I ou II (Ou Garder le gain de pa de :subliRelique: Wé pour les tours pair). Via le passif \"Berger\" vous pouvez goutte sur vous même ou quelqu'un d'autre pour re-gagner jusqu'à 2 pa (Coût du sort remboursé par goutte + redonner par Berger). Egalement, utiliser Pacification dans le vide pour proc :subliRelique: Wé.", "Grâce au combo :subliRelique: \"Wé\" + \"Berger\" + :SubliII: \"Sauvegarde\" X3 + :SubliII: \"Force vitale\", si vous avez un build en 13 pa de base, ça vous fait un total de 21 PA pour 3 \"Fecalistofedes\" + \"Météorite\" et finir avec un \"Bastion\" pour transformer vos Glyphe Feu en Glyphe terre et proc :SubliIII: Tellurisme secondaire"]
+  },
+  {
+    "name": "Feca",
+    "imgClasse": "Feca_F",
+    "key": "SUPPORT",
+    "title": ":Feca: Feca SUPPORT :Feca:",
+    "lines": [":subliEpique: Force Herculéenne [Gain d'esquive et tacle gratuit si vous avez un nombre Impair de PA au début du cbt]", ":subliEpique: Pilier II [Plus d'armure donnée mais moins de PV]", ":subliRelique: Paisible [Avoir 82-84% de parade et 5 pm pour comboter avec marché pacifiste et avoir 100% parade hors de ton tour]", ":subliRelique: Longévité [Gain d'armure donnée mais plus de conso de PW]", ":subliRelique: Modularité [Plus de résistance]", ":subliRelique: Energie Ancestrale [Gain de Résistance si conso de PW bien géré]"],
+    "subliGenerique": [":SubliII: Théorie de la Matière :SubliIII: Enveloppe Rocheuse :SubliIII: Cicatrisation :SubliIII: Dérobade Continue :SubliI: Vélocité [Si build no secondaire => :SubliIII: Prétention :SubliII: Abandon]"],
+    "subliLowCost": [":SubliII: Enveloppe Rocheuse :SubliI: Vélocité :subliEpique: Pilier II :SubliII: Théorie de la Matière"]
   }
 ];
