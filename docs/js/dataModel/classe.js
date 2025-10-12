@@ -61,5 +61,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Engagement [Il faut jouer en Contre Nature dans ce cas]", ":subliEpique: Chaos [Ultra chimique, mais si vous avez un stuff casiment exclusivement maitrise secondaire ça fonctionne, il faut jouer en Contre nature et on profite de 40DI]", ":subliEpique: Dénouement [Permet un build sans maitrise secondaire pour profiter de :SubliIII: Ambition :SubliIII: Neutralité et :SubliII: Abandon]", ":subliRelique: Arrogance [Build un peu tanky pour compenser les -100res, à jouer exclusivement en gameplay MELEE et sans contre-nature + Passif Sérial marqueur et build :SubliIII: Valeur Ajoutée en conséquence]", ":subliRelique: Energie Ancestrale [Essayez d'avoir 8-9pw pour avoir perma 6pw+ et proc l'etat]"],
     "subliGenerique": [":SubliII: Force Vitale :SubliII: Ruine Cyclique :SubliII: Agilité Vitale :SubliIII: Ruine :SubliIII: Influence :SubliII: Influence du Wakfu :SubliIII: Ventilation :SubliIII: Ravage :subliIII: Jugement"],
     "subliLowCost": [":SubliI: Vélocité :SubliIII: Nature :SubliII: Influence Paradoxale"]
+  },
+  {
+    "name": "Eniripsa",
+    "imgClasse": "Eniripsa_F",
+    "key": "SOIN",
+    "title": ":Eniripsa: Eniripsa SOIN :Eniripsa:",
+    "lines": [":subliEpique: Engagement", ":subliRelique: Sentinelle [+3po et du soin au début de tour avant de bouger]", ":subliRelique: Distribution [Je déconseille, mais ça reste jouable sur eni]", ":subliRelique: Energie Ancestrale [Essayez d'avoir 8-9pw pour avoir perma 6pw+ et proc l'etat, ça permet d'être plus Tanky]"],
+    "subliGenerique": [":SubliII: Force Vitale :SubliII: Vélocité :SubliII: Tolérance :SubliII: Agilité Vitale :SubliII: Intégrité :SubliIII: Cicatrisation :subliIII: Courage :subliIII: Diagnostic"],
+    "subliLowCost": [":SubliI: Vélocité :SubliIII: Nature :subliIII: Courage :subliI: Diagnostic"]
   }
 ];
