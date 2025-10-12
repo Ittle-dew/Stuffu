@@ -34,5 +34,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Abnégation :subliEpique: Précision Chirurgicale [Moins de Soin Réalisé mais un peu peu d'Armure Donné pour Chachacrifice, nécéssite de ne build que 1 de portée]", ":subliRelique: Cuirasse Singulière II [Le seul Shield de l'ecaflip provient de Chachacrifice, ça permet de démultiplier le bonus d'armure donné en une fois sans aucune contrepartie] :subliRelique: Distribution [Seulement si vous avez un 2eme soigneur dans votre équipe pour combler la perte de soin]"],
     "subliGenerique": ["ATTENTION, :SubliIII: REVIGORATION ANNULE :subliRelique: DISTRIBUTION", ":SubliII: Force Vitale :SubliII: Vélocité :SubliII: Tolérance :SubliII: Agilité Vitale :SubliII: Intégrité :SubliIII: Cicatrisation :SubliIII: Revigoration :SubliIII:Expert des Coup Critique :SubliIII: Diagnostic"],
     "subliLowCost": [":SubliI: Vélocité :SubliIII: Nature :SubliII: Revigoration :SubliI: Expert des Coup Critique"]
+  },
+  {
+    "name": "Eliotrope",
+    "imgClasse": "Eliotrope_M",
+    "key": "DPT",
+    "title": ":Eliotrope: Eliotrope DPT :Eliotrope:",
+    "lines": ["MELEE: :subliEpique: Brutalité [Si vous jouez un gameplay axé majoritairement sur le zoning] :subliEpique: Mesure III  [Oblige à jouer 50%cc hors combat, mais fonctionne bien avec Dimension Blanche] :subliEpique: Elementalisme [Gameplay Constant + demande un build spécifique Tri-Element]", ":subliRelique: Directive [Couplé à Brutalité gameplay zone] :subliRelique: :subliRelique: Alternance [Setup Zone 1 tour sur 2] :subliRelique: Lunatique II [Faire un soin via pulsation le tour avant le burst] :subliRelique: Alternance II [Utilisez les sort en alternant les elements]"],
+    "subliGenerique": [":SubliII: Retour PA [Zone] :SubliIII: Influence :SubliII:  Force Vitale  :SubliII: Puissance Brute :SubliIII: Ventilation Secondaire :SubliII: Influence du Wakfu :SubliIII: Ravage"],
+    "subliLowCost": [":SubliII: Ventilation Secondaire :SubliI: Influence :SubliI: Influence du Wakfu :SubliII: Influence Paradoxale"]
   }
 ];
