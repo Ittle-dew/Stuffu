@@ -277,5 +277,15 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Pacte de Wakfu [Plus de Retrait PA]", ":subliEpique: Force Herculéene [Plus d'esquive/tacles si PA Impair]", ":subliRelique: Petulance [Gain de PA lors des TP"],
     "subliGenerique": [":SubliII: Force vitale :SubliII: Abandon :SubliII: Agilité Vitale :SubliIII: Cicatrisation :SubliII: Persistance  :SubliI: Vélocité"],
     "subliLowCost": [":SubliI: Vélocité :SubliII: Persistance"]
-  }
+  },
+  {
+		"name": "Feca",
+		"imgClasse": "Feca_F",
+		"key": "DPT",
+		"title": ":Feca: Feca DPT :Feca:",
+		"lines": ["tst must have tips"],
+		"subliGenerique": ["tst"],
+		"subliLowCost": ["tst"],
+    "tips": ["tst tips"]
+	}
 ];
