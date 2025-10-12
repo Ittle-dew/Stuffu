@@ -160,5 +160,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Démesuré [100% cc facilement, et en plus ça profite au Double]", ":subliEpique: Constance [Build no CC vu que le colision ne proc pas la MCC, et le double profite des DI de Constance]", ":subliEpique: Elementalisme [Demande un build tri-element + se donne au Double]", ":subliRelique: Pétulance [Gain de Pa par tour gratuit]", ":subliRelique: Pétillance [Gameplay no shield car Brute vire de l'amure reçu]"],
     "subliGenerique": [":SubliII: Poids Plumes [Si 6PM+] :SubliIII: Brulure/Tellurisme/Ventilation [selon vos élements] :SubliII: Force vitale :SubliII: Agilité Vitale :SubliIII: Courage [Si build :subliEpique: Constance] :SubliIII: Influence :SubliIII: Force légère"],
     "subliLowCost": [":SubliII: Brulure/Tellurisme/Ventilation [selon vos élements] :SubliII: Poids Plumes [Si 6PM+]  :SubliII: Courage [Si no CC] :SubliII: Influence Paradoxale"]
+  },
+  {
+    "name": "Zobal",
+    "imgClasse": "Zobal_F",
+    "key": "SUPPORT",
+    "title": ":Zobal: Zobal SUPPORT :Zobal:",
+    "lines": [":subliEpique: Engagement [Zobal Soin]", ":subliEpique: Force Herculéenne [Gameplay Spé Placeur]", ":subliEpique: Maniement: Bouclier [Un pm de plus, mais portée fixe. Gameplay Spé Placeur]", ":subliRelique: Cuirasse singulière [Match parfaitement avec le passif Zobal]", ":subliRelique: Pétulance [+2pa par tout gratuit]"],
+    "subliGenerique": [":SubliII: Vélocité :SubliIII: Intégrité :SubliII: Force vitale :SubliII: Agilité Vitale :SubliIII: Cicatrisation :SubliII: Tolérance"],
+    "subliLowCost": [":SubliI: Vélocité"]
   }
 ];
