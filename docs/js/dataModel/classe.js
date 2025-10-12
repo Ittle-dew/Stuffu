@@ -27,5 +27,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Démesuré [Nécessite un stuff spécifique axé sur la parade] :subliEpique: Dénouement [Build Full Maitrise critique/sans secondaire] :subliEpique:  Elementalisme [Build axé Tri-élément qui demande d'avoir la même maitrise dans 3 éléments] :subliEpique: Mesure III [Oblige à jouer 50%cc hors combat]"],
     "subliGenerique": [":SubliII: Retour PA :SubliIII: Ravage :SubliIII: Tellurisme Secondaire :SubliIII: Influence :SubliII: Force Vitale :SubliII: Puissance Brute :SubliIII: Acribie :SubliIII: Verrouillage :subliIII: Jugement :subliII: Sauvegarde"],
     "subliLowCost": ["Subli Low Cost: :SubliII: Longueur :SubliI: Influence :SubliII: Influence Paradoxale :SubliI: Puissance Brute :SubliII: Acribie :subliII: Sauvegarde"]
+  },
+  {
+    "name": "Ecaflip",
+    "imgClasse": "Ecaflip_M",
+    "key": "DPT",
+    "title": ":Ecaflip: Ecaflip DPT :Ecaflip:",
+    "lines": [":subliEpique: Dénouement [Build Full Maitrise critique/sans secondaire] :subliEpique: Mesure III [Oblige à jouer 50%cc hors combat]"],
+    "subliGenerique": ["Subli générique:: :SubliIII: Consolation Critique :SubliIII: Influence :SubliII: Force Vitale  :SubliII: Influence du Wakfu :SubliIII: Neutralité :SubliIII: Ambition :SubliII: Puissance Brute II :subliIII: Jugement"],
+    "subliLowCost": ["Subli Low Cost: :SubliII: Consolation Critique :SubliI: Puissance Brute :SubliII: Influence Paradoxale"]
   }
 ];
