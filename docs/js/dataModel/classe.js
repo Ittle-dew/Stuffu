@@ -44,15 +44,7 @@ export const CLASS_GUIDES = [
     "subliGenerique": [":SubliIII: Influence :SubliII:  Force Vitale  :SubliII: Puissance Brute :SubliIII: Ventilation Secondaire :SubliII: Influence du Wakfu :SubliIII: Ravage :SubliIII: Verouillage :SubliIII: Acribie"],
     "subliLowCost": [":SubliII: Ventilation Secondaire :SubliI: Influence :SubliI: Influence du Wakfu :SubliII: Influence Paradoxale :SubliII: Acribie :SubliII: Vérouillage"]
   },
-  {
-    "name": "Eliotrope",
-    "imgClasse": "Eliotrope_F",
-    "key": "SOIN",
-    "title": ":Eliotrope: Eliotrope SOIN :Eliotrope:",
-    "lines": [":subliEpique: Abnégation :subliEpique: Précision Chirurgicale", ":subliRelique: Pétulance [Regain de PA] :subliRelique: Empressement [Regain de PM] :subliRelique: Robuste [Réduction de dégâts à distance] :subliRelique: Modularité [Gain de résistance si bcp de dégâts du même élément]"],
-    "subliGenerique": [":SubliII: Force Vitale :SubliII: Vélocité :SubliII: Tolérance :SubliII: Agilité Vitale :SubliII: Intégrité :SubliIII: Cicatrisation :SubliIII: Enveloppe Rocheuse :SubliII: Ténacité :subliIII: Diagnostic"],
-    "subliLowCost": ["Subli Low Cost: :SubliI: Vélocité :SubliIII: Nature :SubliII: Enveloppe Rocheuse"]
-  },
+  
   
   
   {
