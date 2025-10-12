@@ -241,5 +241,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Démesuré [100% cc facilement, et en plus ça profite au poupée]", ":subliEpique: Contrôle de l'espace II [DPT axé poison, ne profite pas au poupée et demande 3po sur le stuff]", ":subliEpique: Concentration Elementaire [Les poupées profitent des DI de CE et sont axé sur la meilleure maitrise élémentaire, donc focus AIR pour les poisons]", ":subliRelique: Calibrage I/II [Vous taper exclusivement hors de votre tour, donc vous pouvez mettre un petit sort mélée pour proc calibrage]", ":subliRelique: Sentinelle [Gain de portée sur votre application de poison/vos arbres mais pas de DI hors du tour]", ":subliRelique: Contrôle du Temps [Permet d'avoir 100%cc sur vos applications de poison si vous cyclez bien vos sort]"],
     "subliGenerique": [":SubliIII: Ventilation :SubliII: Force vitale :SubliII: Agilité Vitale :SubliIII: Influence :SubliIII: Valeur ajoutée :SubliIII: Ruine :SubliII:Ruine Cyclique :SubliIII:Dérobade Continue [Si build :subliEpique: Démesuré]"],
     "subliLowCost": [":SubliII: Ventilation :SubliII: Valeur Ajoutée :SubliII: Ruine :SubliII: Influence Paradoxale"]
+  },
+  {
+    "name": "Sadida",
+    "imgClasse": "Sadida_M",
+    "key": "SOIN",
+    "title": ":Sadida: Sadida SOIN :Sadida:",
+    "lines": [":subliEpique: Démesuré [100% cc facilement, et en plus ça profite au poupée]", ":subliEpique: Concentration Elementaire [Les poupées profitent des SR de CE et sont axé sur la meilleure maitrise élémentaire]", ":subliEpique: Engagement [SR sans vrai condition]", ":subliRelique: Sentinelle [Gain de portée sur votre application de poison/vos arbres et des SR si vous ne bougez pas avant de soin]", ":subliRelique: Distribution [Couplé au SR et AR des arbres, vous avez toujours un soin très correct mais surtout un don d'armure colossale + les poupée ne prennent pas distribution donc soin a 100%]"],
+    "subliGenerique": [":SubliIII: Cicatrisation :SubliII: Force vitale :SubliII: Agilité Vitale :SubliIII: Influence :SubliIII: Enveloppe Rocheuse :SubliI: Vélocité :SubliIII: Dérobade Continue [Si build :subliEpique: Démesuré]"],
+    "subliLowCost": [":SubliI: Vélocité :SubliII: Enveloppe Rocheuse :SubliII: Influence Paradoxale"]
   }
 ];
