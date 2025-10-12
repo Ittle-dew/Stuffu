@@ -16,5 +16,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Pacte de Wakfu [Build 8pw]", ":subliEpique: Volonté de Fer [Build 2 po hors combat grâce au +1 po natif du crâ]", ":subliRelique: Modularité [Aucune Condition, Best in slot]", ":subliRelique: Pétulance [Regain de PA sur roulade ou mouvement via balise]"],
     "subliGenerique": [":SubliII: Vélocité :SubliIII:Volonté Direct :SubliIII: Cicatrisation :SubliII: Force Vitale :SubliII: Agilité Vitale :SubliII: Profit"],
     "subliLowCost": [":SubliII: Volonté Direct:SubliI: Vélocité"]
+  },
+  {
+    "name": "Ecaflip",
+    "imgClasse": "Ecaflip_M",
+    "key": "DPT",
+    "title": ":Ecaflip: Ecaflip DPT :Ecaflip:",
+    "lines": [":subliEpique: Dénouement [Build Full Maitrise critique/sans secondaire pour profiter de sublimation comme :SubliIII: Ambition et :SubliIII: Neutralité]", ":subliEpique: Mesure III [Oblige à jouer 50%cc hors combat. Le passif de l'écaflip +20%cc proc au début du combat et ne brise pas la sublimation]", ":subliRelique: Alternance II [Alterner les élements sans utiliser de cartes de tarot sinon ça casse :subliRelique: Alternance II]", ":subliRelique: Calibrage I/II [Demande de s'adapter et de préparer un petit coup en mélée chaque tour pour profiter des bonus]", ":subliRelique: Par dela la barrière [Aucune Condition spéciale]"],
+    "subliGenerique": [":SubliIII: Consolation Critique :SubliIII: Influence :SubliII: Force Vitale  :SubliII: Influence du Wakfu :SubliIII: Neutralité :SubliIII: Ambition :SubliII: Puissance Brute II :subliIII: Jugement"],
+    "subliLowCost": [":SubliII: Consolation Critique :SubliI: Puissance Brute :SubliII: Influence Paradoxale"]
   }
 ];
