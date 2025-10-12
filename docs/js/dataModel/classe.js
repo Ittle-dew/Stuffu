@@ -278,15 +278,7 @@ export const CLASS_GUIDES = [
     "subliGenerique": [":SubliII: Force vitale :SubliII: Abandon :SubliII: Agilité Vitale :SubliIII: Cicatrisation :SubliII: Persistance  :SubliI: Vélocité"],
     "subliLowCost": [":SubliI: Vélocité :SubliII: Persistance"]
   },
-  {
-		"name": "Feca",
-		"imgClasse": "Feca_F",
-		"key": "DPT",
-		"title": ":Feca: Feca DPT :Feca:",
-		"lines": ["tst must not have tips"],
-		"subliGenerique": ["tst"],
-		"subliLowCost": ["tst"]
-	},
+  
   {
 		"name": "Feca",
 		"imgClasse": "Feca_F",
