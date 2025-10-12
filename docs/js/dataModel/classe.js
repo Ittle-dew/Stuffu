@@ -53,15 +53,7 @@ export const CLASS_GUIDES = [
     "subliGenerique": [":SubliII: Force Vitale :SubliII: Vélocité :SubliII: Tolérance :SubliII: Agilité Vitale :SubliII: Intégrité :SubliIII: Cicatrisation :SubliIII: Enveloppe Rocheuse :SubliII: Ténacité :subliIII: Diagnostic"],
     "subliLowCost": ["Subli Low Cost: :SubliI: Vélocité :SubliIII: Nature :SubliII: Enveloppe Rocheuse"]
   },
-  {
-    "name": "Eniripsa",
-    "imgClasse": "Eniripsa_M",
-    "key": "DPT",
-    "title": ":Eniripsa: Eniripsa DPT :Eniripsa:",
-    "lines": [":subliEpique: Engagement [Il faut jouer en Contre Nature dans ce cas] :subliEpique: Chaos [Ultra chimique, mais si vous avez un stuff casiment exclusivement maitrise secondaire ça fonctionne, il faut jouer en Contre nature et on profite de 40DI] :subliEpique: Dénouement [Permet un build sans maitrise secondaire]", ":subliRelique: Arrogance [Build un peu tanky pour compenser les -100res, à jouer exclusivement en gameplay MELEE et sans contre-nature + Passif Sérial marqueur et build :SubliIII: Valeur Ajoutée en conséquence] :subliRelique: Energie Ancestrale [Essayez d'avoir 8-9pw pour avoir perma 6pw+ et proc l'etat]"],
-    "subliGenerique": [":SubliII: Force Vitale :SubliII: Ruine Cyclique :SubliII: Agilité Vitale :SubliIII: Ruine :SubliIII: Influence :SubliII: Influence du Wakfu :SubliIII: Ventilation :SubliIII: Ravage"],
-    "subliLowCost": [":SubliI: Vélocité :SubliIII: Nature :SubliII: Influence Paradoxale"]
-  },
+  
   
   {
     "name": "Enutrof",
