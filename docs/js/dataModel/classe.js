@@ -124,5 +124,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Force Herculéenne [Gain d'esquive et tacle gratuit si vous avez un nombre Impair de PA au début du cbt]", ":subliEpique: Pilier I [Plus de PV donc plus d'armure à donner]", ":subliRelique: Aplomb Naturel [Build Spécifique couplé à :subliEpique: Pillier I et :SubliIII: Allocentrisme qui force à jouer sans armure sur le steam]", ":subliRelique: Longévité [Gain d'armure donnée]", ":subliRelique: Modularité [Plus de résistance]", ":subliRelique: Robuste [Réduction de dégâts à distance]"],
     "subliGenerique": [":SubliIII: Enveloppe Rocheuse :SubliIII: Cicatrisation :SubliIII: Dérobade Continue :SubliI: Vélocité :SubliIII: Allocentrisme :SubliII: Théorie de la Matière"],
     "subliLowCost": [":SubliII: Enveloppe Rocheuse :SubliI: Vélocité :68325795:  Pilier I :SubliII: Théorie de la Matière"]
+  },
+  {
+    "name": "Huppermage",
+    "imgClasse": "Huppermage_M",
+    "key": "DPT",
+    "title": ":Huppermage: Huppermage DPT :Huppermage:",
+    "lines": [":subliEpique: Concentration Elémentaire [L'huppermage convertie sa meilleure maitrise mono-element dans l'element de son coeur]", ":subliEpique: Dénouement [Permet de convertir toute la maitrise critique en élémentaire et de l'augmenter de 20% grâce au coeur et de profiter de subli comme :SubliIII: Ambition :SubliIII: Neutralité et :SubliII:Abandon]", ":subliRelique: Dernier instant [Essayez d'avoir 500BQ pour toujours proc les 30DI sur chaque sort consommant de la BQ]", ":subliRelique: Par-Delà la barrière  [Aucune Condition]"],
+    "subliGenerique": ["Subli générique: :SubliIII: Influence :SubliII: Profit :SubliIII: Sanguinolence :SubliII: Influence du Wakfu :SubliIII: Tellurisme"],
+    "subliLowCost": [":SubliII: Sanguinolence :SubliI: Influence :SubliI: Influence du Wakfu :SubliII: Influence Paradoxale"]
   }
 ];
