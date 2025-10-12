@@ -187,5 +187,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Engagement [Transmit au invoc, permet un osa soin]", ":subliEpique: Force Herculéenne [permet d'avoir plus de tacle et d'esquive]", ":subliEpique: Pillier II [Plus d'Armure donné]", ":subliRelique: Garde Levée [Réduit de 30% les dgt infligé par Lien Animal sans toucher à l'armure qu'il donne]", ":subliRelique: Modularité [Plus de Résistance]"],
     "subliGenerique": [":SubliIII: Enveloppe Rocheuse :SubliIII: Cicatrisation :SubliII: Force vitale :SubliII: Agilité Vitale  :SubliII: Vélocité :SubliII: Tolérance :SubliII: Intégrité :SubliII: Abandon (Si gameplay no secondaire)"],
     "subliLowCost": [":SubliII: Enveloppe Rocheuse  :SubliI: Vélocité :subliEpique: Pillier II"]
+  },
+  {
+    "name": "Ouginak",
+    "imgClasse": "Ouginak_M",
+    "key": "DPT",
+    "title": ":Ouginak: Ouginak DPT :Ouginak:",
+    "lines": [":subliEpique: Démesuré [100%cc facilement, grâce au 20% de croc futé mais demande un Build adapté]", ":subliRelique: Pétulance [Gain de Pa sur Chasseur et Elan]"],
+    "subliGenerique": [":SubliII:Force vitale :SubliII:Agilité Vitale :SubliIII:Sanguinolence :SubliII:Profit :SubliII:Sauvegarde :SubliIII:Ravage :subliIII:Dérobade Continue (Si manque de Parade) :subliIII: Jugement"],
+    "subliLowCost": [":SubliII:Gel/Tellurisme :SubliII:Sanguinolence :SubliII: Retour Enflammé :SubliII: Influence Paradoxale :subliII: Sauvegarde"]
   }
 ];
