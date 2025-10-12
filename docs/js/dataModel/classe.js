@@ -133,5 +133,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Concentration Elémentaire [L'huppermage convertie sa meilleure maitrise mono-element dans l'element de son coeur]", ":subliEpique: Dénouement [Permet de convertir toute la maitrise critique en élémentaire et de l'augmenter de 20% grâce au coeur et de profiter de subli comme :SubliIII: Ambition :SubliIII: Neutralité et :SubliII:Abandon]", ":subliRelique: Dernier instant [Essayez d'avoir 500BQ pour toujours proc les 30DI sur chaque sort consommant de la BQ]", ":subliRelique: Par-Delà la barrière  [Aucune Condition]"],
     "subliGenerique": ["Subli générique: :SubliIII: Influence :SubliII: Profit :SubliIII: Sanguinolence :SubliII: Influence du Wakfu :SubliIII: Tellurisme"],
     "subliLowCost": [":SubliII: Sanguinolence :SubliI: Influence :SubliI: Influence du Wakfu :SubliII: Influence Paradoxale"]
+  },
+  {
+    "name": "Huppermage",
+    "imgClasse": "Huppermage_F",
+    "key": "SUPPORT",
+    "title": ":Huppermage: Huppermage SUPPORT :Huppermage:",
+    "lines": [":subliEpique: Pacte de Wakfu [Pour Maximiser le retrait PM, nécessite 8pw hors cbt]", ":subliEpique: Volonté de Fer [Pour Maximiser le retrait PM, nécessite 3po hors cbt]", ":subliEpique: Engagement/Abnégation  [Permet d'avoir un soin non négligeable]", ":subliEpique: Concentration Elémentaire [+20% soin réalisé gratuit]", ":subliRelique: Robuste [Réduction de dégâts à distance]", ":subliRelique: Modularité [Gain de Résistance]", ":subliRelique: Lunatique II [Permet d'avoir un bon \"burst de soin\"]", ":subliRelique: Energie Ancestrale [Gain de Résistance]"],
+    "subliGenerique": [":SubliII: Profit :SubliIII: Volonté Direct :SubliII: Force vitale :SubliII: Agilité Vitale :SubliIII: Cicatrisation :SubliII: Intégrité :SubliII: Secret de la Vie :SubliII: Abandon [Build sans maitrise secondaire]"],
+    "subliLowCost": [":SubliII: Volonté Direct :SubliII: Secret de la Vie"]
   }
 ];
