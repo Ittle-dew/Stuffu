@@ -283,9 +283,8 @@ export const CLASS_GUIDES = [
 		"imgClasse": "Feca_F",
 		"key": "DPT",
 		"title": ":Feca: Feca DPT :Feca:",
-		"lines": ["tst must have tips"],
+		"lines": ["tst must not have tips"],
 		"subliGenerique": ["tst"],
-		"subliLowCost": ["tst"],
-    "tips": ["tst tips"]
+		"subliLowCost": ["tst"]
 	}
 ];
