@@ -43,5 +43,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique::subliEpique: :subliRelique::subliRelique: MELEE :subliRelique::subliRelique: :subliEpique::subliEpique:", ":subliEpique: Brutalité [Si vous jouez un gameplay axé majoritairement sur le zoning]", ":subliEpique: Mesure III  [Oblige à jouer 50%cc hors combat, mais fonctionne bien avec Dimension Blanche]", "Elementalisme [Gameplay Constant + demande un build spécifique Tri-Element]", ":subliRelique: Directive [Couplé à Brutalité gameplay zone]", ":subliRelique: Alternance [Setup Zone 1 tour sur 2]", ":subliRelique: Lunatique II [Faire un soin via pulsation le tour avant le burst]", ":subliEpique::subliEpique::subliRelique::subliRelique: DISTANCE :subliRelique::subliRelique::subliEpique::subliEpique:", ":subliEpique: Mesure III  [Oblige à jouer 50%cc hors combat, mais fonctionne bien avec Dimension Blanche]", ":subliEpique: Elementalisme [Gameplay Constant + demande un build spécifique Tri-Element]", ":subliRelique: Hypermétropie [Jouer a grande distance]", ":subliRelique: Alternance II [Alterner systématiquement les éléments pour taper]"],
     "subliGenerique": [":subliIII::subliIII: MELEE :subliIII::subliIII:", ":SubliII: Retour PA [Zone] :SubliIII: Influence :SubliII:  Force Vitale  :SubliII: Puissance Brute :SubliIII: Ventilation Secondaire :SubliII: Influence du Wakfu :SubliIII: Ravage", ":subliIII::subliIII: DISTANCE :subliIII::subliIII:", ":SubliIII: Influence :SubliII:  Force Vitale  :SubliII: Puissance Brute :SubliIII: Ventilation Secondaire :SubliII: Influence du Wakfu :SubliIII: Ravage :SubliIII: Verouillage :SubliIII: Acribie"],
     "subliLowCost": [":subliI::subliI: MELEE :subliI::subliI:", ":SubliII: Ventilation Secondaire :SubliI: Influence :SubliI: Influence du Wakfu :SubliII: Influence Paradoxale", ":subliI::subliI: DISTANCE :subliI::subliI:", ":SubliII: Ventilation Secondaire :SubliI: Influence :SubliI: Influence du Wakfu :SubliII: Influence Paradoxale :SubliII: Acribie :SubliII: Vérouillage"]
+  },
+  {
+    "name": "Eliotrope",
+    "imgClasse": "Eliotrope_F",
+    "key": "SOIN",
+    "title": ":Eliotrope: Eliotrope SOIN :Eliotrope:",
+    "lines": [":subliEpique: Abnégation", ":subliRelique: Pétulance [Regain de PA]", ":subliRelique: Empressement [Regain de PM]", ":subliRelique: Robuste [Réduction de dégâts à distance]", ":subliRelique: Modularité [Gain de résistance si bcp de dégâts du même élément]"],
+    "subliGenerique": [":SubliII: Force Vitale :SubliII: Vélocité :SubliII: Tolérance :SubliII: Agilité Vitale :SubliII: Intégrité :SubliIII: Cicatrisation :SubliIII: Enveloppe Rocheuse :SubliII: Ténacité"],
+    "subliLowCost": [":SubliI: Vélocité :SubliIII: Nature :SubliII: Enveloppe Rocheuse"]
   }
 ];
