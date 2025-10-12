@@ -40,10 +40,12 @@ function tokenizeToHTML(str) {
   return str.replace(/:([^:\s][^:]*)?:/g, (match, token) => {
     if (!token) return match;
     const safe = token.trim();
-    const src = `./assets/icons/${safe}.webp`;
-    return `<img class="icon" src="${src}" alt="${safe}" title="${safe}" loading="lazy" onerror="this.style.display='none'">`;
+    const normalized = safe.charAt(0).toLowerCase() + safe.slice(1);
+    const src = `./assets/icons/${normalized}.webp`;
+    return `<img class="icon" src="${src}" alt="${normalized}" title="${safe}" loading="lazy" onerror="this.style.display='none'">`;
   });
 }
+
 
 // Résout le chemin de l'image de classe en fonction de guide.imgClasse
 function resolveClassImageSrc(guide, fallbackNameFR) {
