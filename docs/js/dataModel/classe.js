@@ -25,5 +25,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Dénouement [Build Full Maitrise critique/sans secondaire] :subliEpique: Mesure III [Oblige à jouer 50%cc hors combat. Le passif de l'écaflip +20%cc proc au début du combat et ne brise pas la sublimation]", ":subliRelique: Alternance II [Alterner les élements sans utiliser de cartes de tarot] :subliRelique: Calibrage I/II [Demande de s'adapter et de préparer un petit coup en mélée chaque tour pour profiter des bonus] :subliRelique: Par dela la barrière [Aucune Condition spéciale]"],
     "subliGenerique": [":SubliIII: Consolation Critique :SubliIII: Influence :SubliII: Force Vitale  :SubliII: Influence du Wakfu :SubliIII: Neutralité :SubliIII: Ambition :SubliII: Puissance Brute II :subliIII: Jugement"],
     "subliLowCost": ["Subli Low Cost: :SubliII: Consolation Critique :SubliI: Puissance Brute :SubliII: Influence Paradoxale"]
+  },
+  {
+    "name": "Ecaflip",
+    "imgClasse": "Ecaflip_F",
+    "key": "SOIN",
+    "title": ":Ecaflip: Ecaflip SOIN :Ecaflip:",
+    "lines": [":subliEpique: Abnégation :subliEpique: Précision Chirurgicale [Moins de Soin Réalisé mais un peu peu d'Armure Donné pour Chachacrifice, nécéssite de ne build que 1 de portée]", ":subliRelique: Cuirasse Singulière II [Le seul Shield de l'ecaflip provient de Chachacrifice, ça permet de démultiplier le bonus d'armure donné en une fois sans aucune contrepartie] :subliRelique: Distribution [Seulement si vous avez un 2eme soigneur dans votre équipe pour combler la perte de soin]"],
+    "subliGenerique": ["ATTENTION, :SubliIII: REVIGORATION ANNULE :subliRelique: DISTRIBUTION", ":SubliII: Force Vitale :SubliII: Vélocité :SubliII: Tolérance :SubliII: Agilité Vitale :SubliII: Intégrité :SubliIII: Cicatrisation :SubliIII: Revigoration :SubliIII:Expert des Coup Critique :SubliIII: Diagnostic"],
+    "subliLowCost": [":SubliI: Vélocité :SubliIII: Nature :SubliII: Revigoration :SubliI: Expert des Coup Critique"]
   }
 ];
