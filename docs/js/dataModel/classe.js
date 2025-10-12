@@ -223,5 +223,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Brutalité [Meilleure subli pour zoner]", ":subliEpique: Furie [Demande d'avoir moins d'esquive que votre niveau]", ":subliRelique: Aura de Flamme [Gameplay Enflammé, s'essouffle quand on monte de niveau (Devien moyen vers le lvl 155)]", ":subliRelique: Par dela la barrière [Proc sur Punition, et sang brulant]", ":subliRelique: Directive [Gameplay Zone]", ":subliRelique: Stasification [Di sans condition]"],
     "subliGenerique": [":SubliIII: Critique Berserk :SubliIII: Brulure :SubliIII: Ruine :SubliII: Ruine Cyclique :SubliII: Puissance Brute :SubliIII: Influence :SubliIII: Ravage :subliIII: Jugement"],
     "subliLowCost": [":SubliII: Critique Berserk :SubliII: Ruine :SubliII: Retour Enflammé :SubliII: Influence Paradoxale"]
+  },
+  {
+    "name": "Sacrieur",
+    "imgClasse": "Sacrieur_M",
+    "key": "SUPPORT",
+    "title": ":Sacrieur: Sacrieur SUPPORT :Sacrieur:",
+    "lines": [":subliEpique: Force Herculéenne [Gain d'esquive et tacle gratuit si vous avez un nombre Impair de PA au début du cbt]", ":subliEpique: Pilier I [Plus de PV donc plus de capacité à sacrifice/tanker]", ":subliRelique: Modularité [Plus de résistance]", ":subliRelique: Pétulance [Gain de PA lors de déplacement]", ":subliRelique: Robuste [Réduction de dégâts à distance]"],
+    "subliGenerique": [":SubliIII: Cicatrisation :SubliIII: Dérobade Continue :SubliI: Vélocité :SubliIII: Barrière Mélée :SubliIII: Barrière Distance"],
+    "subliLowCost": [":SubliII: Cicatrisation :SubliI: Vélocité :subliEpique: Pilier I"]
   }
 ];
