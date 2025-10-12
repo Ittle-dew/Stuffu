@@ -196,5 +196,14 @@ export const CLASS_GUIDES = [
     "lines": [":subliEpique: Démesuré [100%cc facilement, grâce au 20% de croc futé mais demande un Build adapté]", ":subliRelique: Pétulance [Gain de Pa sur Chasseur et Elan]"],
     "subliGenerique": [":SubliII:Force vitale :SubliII:Agilité Vitale :SubliIII:Sanguinolence :SubliII:Profit :SubliII:Sauvegarde :SubliIII:Ravage :subliIII:Dérobade Continue (Si manque de Parade) :subliIII: Jugement"],
     "subliLowCost": [":SubliII:Gel/Tellurisme :SubliII:Sanguinolence :SubliII: Retour Enflammé :SubliII: Influence Paradoxale :subliII: Sauvegarde"]
+  },
+  {
+    "name": "Pandawa",
+    "imgClasse": "Pandawa_M",
+    "key": "SUPPORT",
+    "title": ":Pandawa: Pandawa SUPPORT :Pandawa:",
+    "lines": [":subliEpique: Engagement [Panda Soin]", ":subliEpique: Force Herculéenne [Gameplay Spé Placeur]", ":subliRelique: Empressement [+2 pm par tour Gratuit]", ":subliRelique: Pétulance [+2pa par tour Gratuit]"],
+    "subliGenerique": [":SubliII: Vélocité :SubliIII: Intégrité :SubliII: Force vitale :SubliII: Agilité Vitale :SubliIII: Cicatrisation :SubliII: Tolérance :SubliII: Secret de la Vie [Panda Soin]"],
+    "subliLowCost": [":SubliI: Vélocité :SubliII: Secret de la Vie [Panda Soin]"]
   }
 ];
