@@ -2723,5 +2723,13 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "class": "Pandawa",
     "description": "Fait par Shodan",
     "tranche": 20
+  },
+  "Cra DPT [TRI ELEMENT] 200 Opti": {
+    "image": "assets/classes/Cra_M.png",
+    "url": "https://zenithwakfu.com/builder/pxmwr",
+    "keywords": ["Opti"],
+    "class": "Cra",
+    "description": "",
+    "tranche": 200
   }
 };
