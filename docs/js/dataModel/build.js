@@ -1,4 +1,5 @@
-export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
+export const BUILD_DATA = {
+  "Cra  DPT [DISTANCE] 50 low cost": {
     "class": "Cra",
     "description": "Fait par Shodan !",
     "image": "assets/builds/Cra  DPT [DISTANCE] 50 low cost.png",
@@ -188,15 +189,15 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 200,
     "url": "https://zenithwakfu.com/builder/56460"
   },
-  "Ecaflip SOIN [PUCIF] 230 OPTI": {
+  "Ecaflip SOIN [BOOST] 110 Opti": {
     "class": "Ecaflip",
-    "description": "Gameplay SOIN DELAYER !",
-    "image": "assets/builds/Ecaflip SUPP [PUCIF] 230 OPTI.png",
+    "description": "",
+    "image": "assets/builds/Ecaflip SUPPORT [SOIN BOOST] 110.png",
     "keywords": [
       "Opti"
     ],
-    "tranche": 230,
-    "url": "https://zenithwakfu.com/builder/maykz"
+    "tranche": 110,
+    "url": "https://www.zenithwakfu.com/builder/ssnhy"
   },
   "Ecaflip SOIN [BOOST] 125 OPTI": {
     "class": "Ecaflip",
@@ -207,6 +208,16 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     ],
     "tranche": 125,
     "url": "https://www.zenithwakfu.com/builder/cuwjf"
+  },
+  "Ecaflip SOIN [BOOST] 140 Low cost": {
+    "class": "Ecaflip",
+    "description": "",
+    "image": "assets/builds/Ecaflip SUPPORT [SOIN BOOST] 140 Low cost.png",
+    "keywords": [
+      "Low Cost"
+    ],
+    "tranche": 140,
+    "url": "https://zenithwakfu.com/builder/sizru"
   },
   "Ecaflip SOIN [BOOST] 140 OPTI": {
     "class": "Ecaflip",
@@ -238,6 +249,26 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 170,
     "url": "https://zenithwakfu.com/builder/3j1c8"
   },
+  "Ecaflip SOIN [BOOST] 185 OPTI": {
+    "class": "Ecaflip",
+    "description": "",
+    "image": "assets/builds/Ecaflip SUPPORT [SOIN BOOST] 185 OPTI.png",
+    "keywords": [
+      "Opti"
+    ],
+    "tranche": 185,
+    "url": "https://zenithwakfu.com/builder/ggwi3"
+  },
+  "Ecaflip SOIN [BOOST] 200 Low cost": {
+    "class": "Ecaflip",
+    "description": "",
+    "image": "assets/builds/Ecaflip SUPP [SOIN] 200 Low cost.png",
+    "keywords": [
+      "Opti"
+    ],
+    "tranche": 200,
+    "url": "https://www.zenithwakfu.com/builder/046fa"
+  },
   "Ecaflip SOIN [BOOST] 200 OPTI": {
     "class": "Ecaflip",
     "description": "",
@@ -258,15 +289,15 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 215,
     "url": "https://zenithwakfu.com/builder/b4c40"
   },
-  "Ecaflip SOIN [BOOST] 200 Low cost": {
+  "Ecaflip SOIN [PUCIF] 230 OPTI": {
     "class": "Ecaflip",
-    "description": "",
-    "image": "assets/builds/Ecaflip SUPP [SOIN] 200 Low cost.png",
+    "description": "Gameplay SOIN DELAYER !",
+    "image": "assets/builds/Ecaflip SUPP [PUCIF] 230 OPTI.png",
     "keywords": [
       "Opti"
     ],
-    "tranche": 200,
-    "url": "https://www.zenithwakfu.com/builder/046fa"
+    "tranche": 230,
+    "url": "https://zenithwakfu.com/builder/maykz"
   },
   "Ecaflip SOIN [PUCIF] 245 Opti": {
     "class": "Ecaflip",
@@ -277,36 +308,6 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     ],
     "tranche": 245,
     "url": "https://zenithwakfu.com/builder/1tk28"
-  },
-  "Ecaflip SOIN [BOOST] 110 Opti": {
-    "class": "Ecaflip",
-    "description": "",
-    "image": "assets/builds/Ecaflip SUPPORT [SOIN BOOST] 110.png",
-    "keywords": [
-      "Opti"
-    ],
-    "tranche": 110,
-    "url": "https://www.zenithwakfu.com/builder/ssnhy"
-  },
-  "Ecaflip SOIN [BOOST] 140 Low cost": {
-    "class": "Ecaflip",
-    "description": "",
-    "image": "assets/builds/Ecaflip SUPPORT [SOIN BOOST] 140 Low cost.png",
-    "keywords": [
-      "Low Cost"
-    ],
-    "tranche": 140,
-    "url": "https://zenithwakfu.com/builder/sizru"
-  },
-  "Ecaflip SOIN [BOOST] 185 OPTI": {
-    "class": "Ecaflip",
-    "description": "",
-    "image": "assets/builds/Ecaflip SUPPORT [SOIN BOOST] 185 OPTI.png",
-    "keywords": [
-      "Opti"
-    ],
-    "tranche": 185,
-    "url": "https://zenithwakfu.com/builder/ggwi3"
   },
   "Elio DPT [DISTANCE TRI ELEMENT] 200 OPTI": {
     "class": "Eliotrope",
@@ -458,16 +459,6 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 140,
     "url": "https://www.zenithwakfu.com/builder/c0211"
   },
-  "Eniripsa SOIN [BOOST] 155 Low cost": {
-    "class": "Eniripsa",
-    "description": "",
-    "image": "assets/builds/Eniripsa SUPP [SOIN] 155 Low cost.png",
-    "keywords": [
-      "Low Cost"
-    ],
-    "tranche": 155,
-    "url": "https://zenithwakfu.com/builder/f9ec8"
-  },
   "Eniripsa SOIN [BOOST ARMURE] 230 OPTI": {
     "class": "Eniripsa",
     "description": "Gameplay autour de DISTRIBUTION pour donner de l'armure !",
@@ -488,16 +479,6 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 245,
     "url": "https://zenithwakfu.com/builder/tjbqt"
   },
-  "Eniripsa SOIN [BOOST] 140 Low cost": {
-    "class": "Eniripsa",
-    "description": "",
-    "image": "assets/builds/Eniripsa SUPPORT [SOIN BOOST] 140 Low cost.png",
-    "keywords": [
-      "Low Cost"
-    ],
-    "tranche": 140,
-    "url": "https://zenithwakfu.com/builder/sizru"
-  },
   "Eniripsa SOIN [BOOST DISTANCE] 140 Mid-Cost": {
     "class": "Eniripsa",
     "description": "",
@@ -507,16 +488,6 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     ],
     "tranche": 140,
     "url": "https://www.zenithwakfu.com/builder/86164"
-  },
-  "Eniripsa SOIN [BOOST] 230 OPTI": {
-    "class": "Eniripsa",
-    "description": "",
-    "image": "assets/builds/Eniripsa SUPPORT [SOIN PUR] 230 OPTI.png",
-    "keywords": [
-      "Opti"
-    ],
-    "tranche": 230,
-    "url": "https://www.zenithwakfu.com/builder/4b4a5"
   },
   "Eniripsa SOIN [BOOST] 110 Low Cost": {
     "class": "Eniripsa",
@@ -548,13 +519,35 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 125,
     "url": "https://www.zenithwakfu.com/builder/8311f"
   },
-    "Eniripsa SOIN [BOOST] 155 OPTI": {
-    "image": "assets/classes/Eniripsa_M.png",
-    "url": "https://www.zenithwakfu.com/builder/4e142",
-    "keywords": ["Opti"],
+  "Eniripsa SOIN [BOOST] 140 Low cost": {
     "class": "Eniripsa",
     "description": "",
-    "tranche": 155
+    "image": "assets/builds/Eniripsa SUPPORT [SOIN BOOST] 140 Low cost.png",
+    "keywords": [
+      "Low Cost"
+    ],
+    "tranche": 140,
+    "url": "https://zenithwakfu.com/builder/sizru"
+  },
+  "Eniripsa SOIN [BOOST] 155 Low cost": {
+    "class": "Eniripsa",
+    "description": "",
+    "image": "assets/builds/Eniripsa SUPP [SOIN] 155 Low cost.png",
+    "keywords": [
+      "Low Cost"
+    ],
+    "tranche": 155,
+    "url": "https://zenithwakfu.com/builder/f9ec8"
+  },
+  "Eniripsa SOIN [BOOST] 155 OPTI": {
+    "class": "Eniripsa",
+    "description": "",
+    "image": "assets/classes/Eniripsa_M.png",
+    "keywords": [
+      "Opti"
+    ],
+    "tranche": 155,
+    "url": "https://www.zenithwakfu.com/builder/4e142"
   },
   "Eniripsa SOIN [BOOST] 170 Opti": {
     "class": "Eniripsa",
@@ -595,6 +588,16 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     ],
     "tranche": 200,
     "url": "https://www.zenithwakfu.com/builder/dvbua"
+  },
+  "Eniripsa SOIN [BOOST] 230 OPTI": {
+    "class": "Eniripsa",
+    "description": "",
+    "image": "assets/builds/Eniripsa SUPPORT [SOIN PUR] 230 OPTI.png",
+    "keywords": [
+      "Opti"
+    ],
+    "tranche": 230,
+    "url": "https://www.zenithwakfu.com/builder/4b4a5"
   },
   "Eniripsa SOIN [BOOST] 35 low cost": {
     "class": "Eniripsa",
@@ -1666,6 +1669,16 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "tranche": 185,
     "url": "https://zenithwakfu.com/builder/1dd7a"
   },
+  "Pandawa SUPPORT [PLACEMENT] 20 Low Cost": {
+    "class": "Pandawa",
+    "description": "Fait par Shodan",
+    "image": "assets/classes/Pandawa_M.png",
+    "keywords": [
+      "Low Cost"
+    ],
+    "tranche": 20,
+    "url": "https://www.zenithwakfu.com/builder/i3isb"
+  },
   "Pandawa SUPPORT [PLACEUR SOIN] 245 Opti": {
     "class": "Pandawa",
     "description": "Gameplay permettant un soin d'appoint non négligeable avec le Panda les tours où il n'a pas besoin de placer.",
@@ -2715,21 +2728,5 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     ],
     "tranche": 230,
     "url": "https://www.zenithwakfu.com/builder/7c111"
-  },
-  "Pandawa SUPPORT [PLACEMENT] 20 Low Cost": {
-    "image": "assets/classes/Pandawa_M.png",
-    "url": "https://www.zenithwakfu.com/builder/i3isb",
-    "keywords": ["Low Cost"],
-    "class": "Pandawa",
-    "description": "Fait par Shodan",
-    "tranche": 20
-  },
-  "Cra DPT [TRI ELEMENT] 200 Opti": {
-    "image": "assets/classes/Cra_M.png",
-    "url": "https://zenithwakfu.com/builder/pxmwr",
-    "keywords": ["Opti"],
-    "class": "Cra",
-    "description": "",
-    "tranche": 200
   }
 };
