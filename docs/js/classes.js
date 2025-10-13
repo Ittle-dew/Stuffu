@@ -74,10 +74,10 @@ function makeGuideCard(nameFR, guide) {
   const img = new Image();
   img.alt = nameFR;
   img.loading = 'lazy';
-  img.src = `assets/classes/${nameFR}_M.png`;
+  img.src = `assets/classes/${guide.imgClasse}.png`;
   img.onerror = () => { figure.innerHTML = `<div class="muted">Image introuvable</div>`; };
   figure.appendChild(img);
-
+  console.log(guide.imgClasse, img.src )
   // --- Colonne droite : contenu du guide ---
   const body = document.createElement('div');
   body.className = 'guide-body';
