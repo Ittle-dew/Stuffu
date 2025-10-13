@@ -89,15 +89,7 @@ export const CLASS_GUIDES = [
     "subliGenerique": [":SubliII: Profit :SubliIII: Volonté Directe :SubliII: Force vitale :SubliII: Agilité Vitale :SubliIII: Cicatrisation :SubliII: Intégrité :SubliII: Abandon [Build sans maitrise secondaire]"],
     "subliLowCost": [":SubliII: Volonté Directe"]
   },
-  {
-    "name": "Feca",
-    "imgClasse": "Feca_M",
-    "key": "DPT",
-    "title": ":Feca: Feca DPT :Feca:",
-    "lines": [":subliEpique: Concentration Elementaire [On ne tape qu'un seul élément qd on joue FECA Glyphe [Focus la maitrise TERRE]", ":subliEpique: Contrôle de L'espace II [On tape exclusivement en dégâts indirect, mais demande de build 3 PO]", ":subliRelique: Wé [On joue tour PAIR, +2pa quand on pose nos glyphe]", ":subliRelique: Lunatique [Plus de dégâts sur les tours Pair]", ":subliRelique: Lunatique II [Un peu plus de DI que lunatique mais demande un poser un bouclier sur un allié chaque tour impair]"],
-    "subliGenerique": [":SubliII: Sauvegarde :SubliIII: Ruine :SubliII: Ruine Cyclique :SubliIII: Tellurisme Secondaire :SubliIII: Valeur ajoutée :SubliIII: Tellurisme :SubliII: Force Vitale :SubliIII: Influence :SubliII: Influence du Wakfu"],
-    "subliLowCost": [":SubliII: Tellurisme Secondaire :SubliII: Ruine :subliRelique: Wé :subliII: Sauvegarde", "Tips: L'idée du Feca Glyphe c'est de profiter des tours à vide pour stack :SubliII: Sauvegarde, et prépare vos :subliRelique: Lunatique I ou II (Ou Garder le gain de pa de :subliRelique: Wé pour les tours pair). Via le passif \"Berger\" vous pouvez goutte sur vous même ou quelqu'un d'autre pour re-gagner jusqu'à 2 pa (Coût du sort remboursé par goutte + redonner par Berger). Egalement, utiliser Pacification dans le vide pour proc :subliRelique: Wé.", "Grâce au combo :subliRelique: \"Wé\" + \"Berger\" + :SubliII: \"Sauvegarde\" X3 + :SubliII: \"Force vitale\", si vous avez un build en 13 pa de base, ça vous fait un total de 21 PA pour 3 \"Fecalistofedes\" + \"Météorite\" et finir avec un \"Bastion\" pour transformer vos Glyphe Feu en Glyphe terre et proc :SubliIII: Tellurisme secondaire"]
-  },
+  
   {
     "name": "Feca",
     "imgClasse": "Feca_F",
