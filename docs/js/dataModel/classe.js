@@ -218,7 +218,7 @@ export const CLASS_GUIDES = [
   },
   {
     "name": "Sacrieur",
-    "imgClasse": "Sacrieur_M",
+    "imgClasse": "Sacrieur_F",
     "key": "SUPPORT",
     "title": ":Sacrieur: Sacrieur SUPPORT :Sacrieur:",
     "lines": [":subliEpique: Force Herculéenne [Gain d'esquive et tacle gratuit si vous avez un nombre Impair de PA au début du cbt]", ":subliEpique: Pilier I [Plus de PV donc plus de capacité à sacrifice/tanker]", ":subliRelique: Modularité [Plus de résistance]", ":subliRelique: Pétulance [Gain de PA lors de déplacement]", ":subliRelique: Robuste [Réduction de dégâts à distance]"],

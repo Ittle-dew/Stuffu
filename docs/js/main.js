@@ -180,11 +180,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     for (const [buildKey, build] of filtered) {
       const key = `${build.class || ''}-${build.tranche || ''}-${(build.keywords || []).join('-')}`.toLowerCase().trim();
-
-      // Empêche d’afficher 2 fois le même build (même clé)
-      if (seen.has(key)) continue;
       seen.add(key);
-
       elCards.appendChild(renderCard(buildKey, build));
     }
   }

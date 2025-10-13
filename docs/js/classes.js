@@ -52,7 +52,7 @@ function makeGuideCard(nameFR, guide) {
   const card = document.createElement('section');
   card.className = 'guide-card';
 
-  // --- Détermination de l4archétype pour le fond ---
+  // --- Détermination de l'archétype pour le fond ---
   const cleanTitle = (guide.title || '').replace(/:[^:]+:/g, '').trim();
   const words = cleanTitle.split(/\s+/);
   const raw = (words[1] || '').toLowerCase();
@@ -77,7 +77,7 @@ function makeGuideCard(nameFR, guide) {
   img.src = `assets/classes/${guide.imgClasse}.png`;
   img.onerror = () => { figure.innerHTML = `<div class="muted">Image introuvable</div>`; };
   figure.appendChild(img);
-  console.log(guide.imgClasse, img.src )
+
   // --- Colonne droite : contenu du guide ---
   const body = document.createElement('div');
   body.className = 'guide-body';
@@ -166,14 +166,16 @@ function renderGuidesForClass(nameFR) {
     return;
   }
 
-  // --- Déduplication par combinaison (name + imgClasse + key) ---
+  // --- Déduplication stricte par contenu intégral ---
   const seen = new Set();
   guides = guides.filter(g => {
-    const key = `${g.name}::${g.imgClasse}::${g.key}`.toLowerCase().trim();
+    // on stringify l'objet en JSON stable
+    const key = JSON.stringify(g, Object.keys(g).sort());
     if (seen.has(key)) return false;
     seen.add(key);
     return true;
   });
+
 
 
   // --- Déterminer l'archétype à partir du premier guide disponible ---
