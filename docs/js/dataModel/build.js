@@ -867,7 +867,7 @@ export const BUILD_DATA = {
       "Opti"
     ],
     "tranche": 215,
-    "url": "https://zenithwakfu.com/builder/n5wmz"
+    "url": "https://zenithwakfu.com/builder/bc568"
   },
   "Feca SUPPORT [ABANDON] 110 Opti": {
     "class": "Feca",
