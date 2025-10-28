@@ -1,5 +1,4 @@
-export const BUILD_DATA = {
-  "Cra  DPT [DISTANCE] 50 low cost": {
+export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
     "class": "Cra",
     "description": "Fait par Shodan !",
     "image": "assets/builds/Cra  DPT [DISTANCE] 50 low cost.png",
@@ -2728,5 +2727,13 @@ export const BUILD_DATA = {
     ],
     "tranche": 230,
     "url": "https://www.zenithwakfu.com/builder/7c111"
+  },
+  "Roublard DPT [Direct Indirect] 80 Low Cost": {
+    "image": "assets/classes/Roublard_M.png",
+    "url": "https://zenithwakfu.com/builder/ebe4p",
+    "keywords": ["Low Cost"],
+    "class": "Roublard",
+    "description": "",
+    "tranche": 80
   }
 };
