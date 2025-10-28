@@ -946,7 +946,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
       "Opti"
     ],
     "tranche": 140,
-    "url": "https://www.zenithwakfu.com/builder/3512c"
+    "url": "https://www.zenithwakfu.com/builder/b3551"
   },
   "Feca SUPPORT [ARMURE] 170 Low Cost": {
     "class": "Feca",
