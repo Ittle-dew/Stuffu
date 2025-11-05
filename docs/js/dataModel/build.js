@@ -1316,7 +1316,7 @@ export const BUILD_DATA = {"Cra  DPT [DISTANCE] 50 low cost": {
       "Low Cost"
     ],
     "tranche": 50,
-    "url": "https://www.zenithwakfu.com/builder/0oa56"
+    "url": "https://zenithwakfu.com/builder/y4aqc"
   },
   "Osamodas DPT [DRAGOSA] 200 OPTI": {
     "class": "Osamodas",
